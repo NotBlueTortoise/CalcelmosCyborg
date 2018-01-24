@@ -1,0 +1,309 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwemer Cyborg Pauldrons">
+        <DataFolder>Dwarven Cyborg Collection Edhildil</DataFolder>
+        <SourceFile>Dwemer Cyborg Pauldrons.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Edhildil</OutputPath>
+        <OutputFile GenWeights="true">dfatalebodyArmor</OutputFile>
+        <Shape target="SteamCenturion:0.004">SteamCenturion:0.004</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="SteamCenturion:0.004Breasts" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="SteamCenturion:0.004BreastsSmall" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004BreastsSH" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004BreastsSSH" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004BreastsFantasy" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004DoubleMelon" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004BreastFlatness" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004BreastGravity" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004PushUp" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004BreastHeight" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004BreastPerkiness" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004BreastWidth" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BreastWidth</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="SteamCenturion:0.004Arms" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Arms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004ChubbyArms" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004ChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004ShoulderSmooth" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="SteamCenturion:0.004ShoulderWidth" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004ShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004BigTorso" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004BigTorso</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Back" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Back</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="SteamCenturion:0.004ButtSmall" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004ButtSmall</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004SlimThighs" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004SlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Thighs" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Thighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004ChubbyLegs" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004ChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="SteamCenturion:0.004Legs" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Legs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004KneeHeight" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004KneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004CalfSize" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004CalfSmooth" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004CalfSmooth</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B Bombshell Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B Bombshell High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B Natural Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B Natural High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B Cleavage Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B Cleavage High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B BCup Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B BCup High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047BUNP Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047BUNP High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B Oppai Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B Oppai High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B CH Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.0047B CH High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.0047B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNP Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNP High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNP Pushup Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNP Pushup High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNP Skinny Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNP Skinny High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNP Perky Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNP Perky High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPB Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPB High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPB Chapi" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPB Oppai v1" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPB Oppai v3.2 Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPB Oppai v3.2 High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPetite Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPetite High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPC Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPC High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPCM Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPCM High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPSH Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPSH High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPK Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPK High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPK Bonus Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPK Bonus High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UN7B Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UN7B High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPBB Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPBB High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Seraphim Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Seraphim High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Demonfet Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Demonfet High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Dream Girl Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Dream Girl High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Top Model Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Top Model High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Leito Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Leito High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPF Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPF High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPFx Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004UNPFx High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004CNHF Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004CNHF High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004CNHF Bonus Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004CNHF Bonus High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004MCBM Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004MCBM High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Venus Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Venus High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004ZGGB-R2 Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004ZGGB-R2 High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Manga Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004Manga High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004CHSBHC Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="SteamCenturion:0.004CHSBHC High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg Pauldrons.osd\SteamCenturion:0.004CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

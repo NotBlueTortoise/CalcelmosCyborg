@@ -1,0 +1,309 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - WTF Sexy Dwarven Pauldrons">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - WTF Sexy Dwarven Pauldrons.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">Sexy Dwarven Pauldrons</OutputFile>
+        <Shape target="Pauldron">Pauldron</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="PauldronBreasts" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="PauldronBreastsSmall" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="PauldronBreastsSH" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="PauldronBreastsSSH" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="PauldronBreastsFantasy" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="PauldronDoubleMelon" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="PauldronBreastCleavage" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="PauldronBreastFlatness" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="PauldronBreastGravity" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="PauldronPushUp" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="PauldronBreastHeight" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="PauldronBreastPerkiness" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="PauldronBreastWidth" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="PauldronNippleAreola" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="PauldronNippleUp" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="PauldronNippleDown" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronNippleDown</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="PauldronArms" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="PauldronChubbyArms" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="PauldronShoulderSmooth" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="PauldronShoulderWidth" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="PauldronBigTorso" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="PauldronWaist" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronWaist</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="PauldronChubbyWaist" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronChubbyWaist</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="PauldronPregnancyBelly" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronPregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="PauldronBack" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronBack</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="PauldronNeck" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Pauldron7B Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Pauldron7B High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Pauldron7B Bombshell Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Pauldron7B Bombshell High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Pauldron7B Natural Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Pauldron7B Natural High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Pauldron7B Cleavage Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Pauldron7B Cleavage High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Pauldron7B BCup Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Pauldron7B BCup High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Pauldron7BUNP Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Pauldron7BUNP High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Pauldron7B Oppai Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Pauldron7B Oppai High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Pauldron7B CH Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Pauldron7B CH High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\Pauldron7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNP Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="PauldronUNP High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNP Pushup Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="PauldronUNP Pushup High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNP Skinny Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="PauldronUNP Skinny High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNP Perky Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="PauldronUNP Perky High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPB Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPB High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="PauldronUNPB Chapi" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="PauldronUNPB Oppai v1" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPB Oppai v3.2 Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPB Oppai v3.2 High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPetite Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPetite High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPC Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPC High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPCM Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPCM High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPSH Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPSH High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPK Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPK High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPK Bonus Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPK Bonus High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="PauldronUN7B Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="PauldronUN7B High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPBB Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPBB High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="PauldronSeraphim Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="PauldronSeraphim High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="PauldronDemonfet Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="PauldronDemonfet High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="PauldronDream Girl Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="PauldronDream Girl High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="PauldronTop Model Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="PauldronTop Model High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="PauldronLeito Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="PauldronLeito High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPF Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPF High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="PauldronUNPFx Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="PauldronUNPFx High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="PauldronCNHF Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="PauldronCNHF High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="PauldronCNHF Bonus Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="PauldronCNHF Bonus High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="PauldronMCBM Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="PauldronMCBM High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="PauldronVenus Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="PauldronVenus High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="PauldronZGGB-R2 Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="PauldronZGGB-R2 High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="PauldronManga Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="PauldronManga High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="PauldronCHSBHC Low" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="PauldronCHSBHC High" target="Pauldron" local="true">DCC - WTF Sexy Dwarven Pauldrons.osd\PauldronCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

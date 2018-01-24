@@ -1,0 +1,387 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - CT77 Beggar UUNP s48">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - CT77 Beggar UUNP s48.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">Beggartorsof s48</OutputFile>
+        <Shape target="Beggar">Beggar</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="BeggarBreasts" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BeggarBreastsSmall" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BeggarBreastsSH" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BeggarBreastsSSH" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BeggarBreastsFantasy" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BeggarDoubleMelon" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BeggarBreastCleavage" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BeggarBreastFlatness" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BeggarBreastGravity" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BeggarPushUp" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BeggarBreastHeight" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BeggarBreastPerkiness" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BeggarBreastWidth" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BeggarNippleDistance" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BeggarNipplePerkiness" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BeggarNippleLength" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="BeggarNippleSize" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BeggarNippleAreola" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BeggarNippleUp" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BeggarNippleDown" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BeggarNippleTip" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="BeggarArms" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BeggarChubbyArms" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BeggarShoulderSmooth" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BeggarShoulderWidth" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BeggarBigTorso" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="BeggarWaist" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BeggarWideWaistLine" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BeggarChubbyWaist" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BeggarBelly" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BeggarBigBelly" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BeggarPregnancyBelly" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BeggarTummyTuck" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BeggarBack" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="BeggarHipbone" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BeggarHips" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="BeggarButtCrack" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="BeggarButt" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="BeggarButtSmall" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BeggarButtShape2" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BeggarBigButt" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BeggarChubbyButt" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BeggarAppleCheeks" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="BeggarRoundAss" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BeggarSlimThighs" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BeggarThighs" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BeggarChubbyLegs" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="BeggarLegs" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BeggarKneeHeight" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BeggarCalfSize" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BeggarCalfSmooth" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarCalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="BeggarNeck" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Beggar7B Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Beggar7B High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Beggar7B Bombshell Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Beggar7B Bombshell High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Beggar7B Natural Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Beggar7B Natural High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Beggar7B Cleavage Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Beggar7B Cleavage High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Beggar7B BCup Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Beggar7B BCup High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Beggar7BUNP Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Beggar7BUNP High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Beggar7B Oppai Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Beggar7B Oppai High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Beggar7B CH Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Beggar7B CH High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\Beggar7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNP Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BeggarUNP High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNP Pushup Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="BeggarUNP Pushup High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNP Skinny Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="BeggarUNP Skinny High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNP Perky Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="BeggarUNP Perky High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPB Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPB High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="BeggarUNPB Chapi" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="BeggarUNPB Oppai v1" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPB Oppai v3.2 Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPB Oppai v3.2 High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPetite Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPetite High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPC Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPC High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPCM Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPCM High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPSH Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPSH High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPK Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPK High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPK Bonus Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPK Bonus High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="BeggarUN7B Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="BeggarUN7B High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPBB Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPBB High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="BeggarSeraphim Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="BeggarSeraphim High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="BeggarDemonfet Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="BeggarDemonfet High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="BeggarDream Girl Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="BeggarDream Girl High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BeggarTop Model Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BeggarTop Model High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="BeggarLeito Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="BeggarLeito High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPF Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPF High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="BeggarUNPFx Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="BeggarUNPFx High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="BeggarCNHF Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="BeggarCNHF High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="BeggarCNHF Bonus Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="BeggarCNHF Bonus High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="BeggarMCBM Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="BeggarMCBM High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="BeggarVenus Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="BeggarVenus High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="BeggarZGGB-R2 Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="BeggarZGGB-R2 High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="BeggarManga Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="BeggarManga High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="BeggarCHSBHC Low" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="BeggarCHSBHC High" target="Beggar" local="true">DCC - CT77 Beggar UUNP s48.osd\BeggarCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

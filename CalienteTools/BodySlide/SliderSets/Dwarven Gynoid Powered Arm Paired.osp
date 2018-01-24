@@ -1,0 +1,322 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Gynoid Powered Arm Paired">
+        <DataFolder>Dwarven Cyborg Collection Gynoid</DataFolder>
+        <SourceFile>Dwarven Gynoid Powered Arm Paired.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Gynoid\forearm</OutputPath>
+        <OutputFile GenWeights="true">poweredarmpaired</OutputFile>
+        <Shape target="ForearmorL">ForearmorL</Shape>
+        <Shape target="ForearmorR">ForearmorR</Shape>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="ForearmorLArms" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLArms</Data>
+            <Data name="ForearmorRArms" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="ForearmorLChubbyArms" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLChubbyArms</Data>
+            <Data name="ForearmorRChubbyArms" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="ForearmorLShoulderWidth" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLShoulderWidth</Data>
+            <Data name="ForearmorRShoulderWidth" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="ForearmorLBigTorso" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLBigTorso</Data>
+            <Data name="ForearmorRBigTorso" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRBigTorso</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B Low</Data>
+            <Data name="ForearmorR7B Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B High</Data>
+            <Data name="ForearmorR7B High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B Bombshell Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B Bombshell Low</Data>
+            <Data name="ForearmorR7B Bombshell Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B Bombshell High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B Bombshell High</Data>
+            <Data name="ForearmorR7B Bombshell High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B Natural Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B Natural Low</Data>
+            <Data name="ForearmorR7B Natural Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B Natural High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B Natural High</Data>
+            <Data name="ForearmorR7B Natural High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B Cleavage Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B Cleavage Low</Data>
+            <Data name="ForearmorR7B Cleavage Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B Cleavage High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B Cleavage High</Data>
+            <Data name="ForearmorR7B Cleavage High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B BCup Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B BCup Low</Data>
+            <Data name="ForearmorR7B BCup Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B BCup High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B BCup High</Data>
+            <Data name="ForearmorR7B BCup High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="ForearmorL7BUNP Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7BUNP Low</Data>
+            <Data name="ForearmorR7BUNP Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="ForearmorL7BUNP High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7BUNP High</Data>
+            <Data name="ForearmorR7BUNP High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B Oppai Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B Oppai Low</Data>
+            <Data name="ForearmorR7B Oppai Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B Oppai High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B Oppai High</Data>
+            <Data name="ForearmorR7B Oppai High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B CH Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B CH Low</Data>
+            <Data name="ForearmorR7B CH Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="ForearmorL7B CH High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorL7B CH High</Data>
+            <Data name="ForearmorR7B CH High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorR7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNP Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNP Low</Data>
+            <Data name="ForearmorRUNP Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNP High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNP High</Data>
+            <Data name="ForearmorRUNP High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNP Pushup Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNP Pushup Low</Data>
+            <Data name="ForearmorRUNP Pushup Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNP Pushup High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNP Pushup High</Data>
+            <Data name="ForearmorRUNP Pushup High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNP Skinny Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNP Skinny Low</Data>
+            <Data name="ForearmorRUNP Skinny Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNP Skinny High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNP Skinny High</Data>
+            <Data name="ForearmorRUNP Skinny High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNP Perky Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNP Perky Low</Data>
+            <Data name="ForearmorRUNP Perky Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNP Perky High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNP Perky High</Data>
+            <Data name="ForearmorRUNP Perky High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPB Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPB Low</Data>
+            <Data name="ForearmorRUNPB Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPB High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPB High</Data>
+            <Data name="ForearmorRUNPB High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPB Chapi" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPB Chapi</Data>
+            <Data name="ForearmorRUNPB Chapi" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPB Oppai v1" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPB Oppai v1</Data>
+            <Data name="ForearmorRUNPB Oppai v1" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPB Oppai v3.2 Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPB Oppai v3.2 Low</Data>
+            <Data name="ForearmorRUNPB Oppai v3.2 Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPB Oppai v3.2 High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPB Oppai v3.2 High</Data>
+            <Data name="ForearmorRUNPB Oppai v3.2 High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPetite Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPetite Low</Data>
+            <Data name="ForearmorRUNPetite Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPetite High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPetite High</Data>
+            <Data name="ForearmorRUNPetite High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPC Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPC Low</Data>
+            <Data name="ForearmorRUNPC Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPC High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPC High</Data>
+            <Data name="ForearmorRUNPC High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPCM Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPCM Low</Data>
+            <Data name="ForearmorRUNPCM Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPCM High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPCM High</Data>
+            <Data name="ForearmorRUNPCM High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPSH Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPSH Low</Data>
+            <Data name="ForearmorRUNPSH Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPSH High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPSH High</Data>
+            <Data name="ForearmorRUNPSH High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPK Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPK Low</Data>
+            <Data name="ForearmorRUNPK Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPK High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPK High</Data>
+            <Data name="ForearmorRUNPK High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPK Bonus Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPK Bonus Low</Data>
+            <Data name="ForearmorRUNPK Bonus Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPK Bonus High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPK Bonus High</Data>
+            <Data name="ForearmorRUNPK Bonus High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUN7B Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUN7B Low</Data>
+            <Data name="ForearmorRUN7B Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUN7B High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUN7B High</Data>
+            <Data name="ForearmorRUN7B High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPBB Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPBB Low</Data>
+            <Data name="ForearmorRUNPBB Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPBB High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPBB High</Data>
+            <Data name="ForearmorRUNPBB High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLSeraphim Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLSeraphim Low</Data>
+            <Data name="ForearmorRSeraphim Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="ForearmorLSeraphim High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLSeraphim High</Data>
+            <Data name="ForearmorRSeraphim High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLDemonfet Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLDemonfet Low</Data>
+            <Data name="ForearmorRDemonfet Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="ForearmorLDemonfet High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLDemonfet High</Data>
+            <Data name="ForearmorRDemonfet High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLDream Girl Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLDream Girl Low</Data>
+            <Data name="ForearmorRDream Girl Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="ForearmorLDream Girl High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLDream Girl High</Data>
+            <Data name="ForearmorRDream Girl High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLTop Model Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLTop Model Low</Data>
+            <Data name="ForearmorRTop Model Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="ForearmorLTop Model High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLTop Model High</Data>
+            <Data name="ForearmorRTop Model High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLLeito Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLLeito Low</Data>
+            <Data name="ForearmorRLeito Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="ForearmorLLeito High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLLeito High</Data>
+            <Data name="ForearmorRLeito High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPF Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPF Low</Data>
+            <Data name="ForearmorRUNPF Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPF High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPF High</Data>
+            <Data name="ForearmorRUNPF High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPFx Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPFx Low</Data>
+            <Data name="ForearmorRUNPFx Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="ForearmorLUNPFx High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLUNPFx High</Data>
+            <Data name="ForearmorRUNPFx High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLCNHF Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLCNHF Low</Data>
+            <Data name="ForearmorRCNHF Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="ForearmorLCNHF High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLCNHF High</Data>
+            <Data name="ForearmorRCNHF High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLCNHF Bonus Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLCNHF Bonus Low</Data>
+            <Data name="ForearmorRCNHF Bonus Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="ForearmorLCNHF Bonus High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLCNHF Bonus High</Data>
+            <Data name="ForearmorRCNHF Bonus High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLMCBM Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLMCBM Low</Data>
+            <Data name="ForearmorRMCBM Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="ForearmorLMCBM High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLMCBM High</Data>
+            <Data name="ForearmorRMCBM High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLVenus Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLVenus Low</Data>
+            <Data name="ForearmorRVenus Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="ForearmorLVenus High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLVenus High</Data>
+            <Data name="ForearmorRVenus High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLZGGB-R2 Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLZGGB-R2 Low</Data>
+            <Data name="ForearmorRZGGB-R2 Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="ForearmorLZGGB-R2 High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLZGGB-R2 High</Data>
+            <Data name="ForearmorRZGGB-R2 High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLManga Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLManga Low</Data>
+            <Data name="ForearmorRManga Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="ForearmorLManga High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLManga High</Data>
+            <Data name="ForearmorRManga High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="ForearmorLCHSBHC Low" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLCHSBHC Low</Data>
+            <Data name="ForearmorRCHSBHC Low" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="ForearmorLCHSBHC High" target="ForearmorL" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorLCHSBHC High</Data>
+            <Data name="ForearmorRCHSBHC High" target="ForearmorR" local="true">Dwarven Gynoid Powered Arm Paired.osd\ForearmorRCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

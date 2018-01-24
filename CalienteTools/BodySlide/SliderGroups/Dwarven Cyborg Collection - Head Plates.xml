@@ -1,0 +1,12 @@
+<SliderGroups>
+    <Group name="Unified UNP">
+	    <Member name="DwCyborg Head Base"/>
+        <Member name="DwCyborg Neck Cap A1"/>
+        <Member name="DwCyborg Neck Cap A2"/>
+	</Group>
+    <Group name="Dwarven Cyborg Collection - Head Plates">
+        <Member name="DwCyborg Head Base"/>
+        <Member name="DwCyborg Neck Cap A1"/>
+        <Member name="DwCyborg Neck Cap A2"/>
+    </Group>
+</SliderGroups>

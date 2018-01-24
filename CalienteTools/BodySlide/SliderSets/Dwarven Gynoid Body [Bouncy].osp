@@ -1,0 +1,612 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Gynoid Body [Bouncy]">
+        <DataFolder>Dwarven Cyborg Collection Gynoid</DataFolder>
+        <SourceFile>Dwarven Gynoid Body [Bouncy].nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Gynoid</OutputPath>
+        <OutputFile GenWeights="true">bodybase</OutputFile>
+        <Shape target="BodyFrame">BodyFrame</Shape>
+        <Shape target="Cyberne">Cyberne</Shape>
+        <Shape target="Limbs">Limbs</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="CyberneBreasts" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreasts</Data>
+            <Data name="BodyFrameBreasts" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="LimbsBreastsSmall" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBreastsSmall</Data>
+            <Data name="CyberneBreastsSmall" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreastsSmall</Data>
+            <Data name="BodyFrameBreastsSmall" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="CyberneBreastsSH" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreastsSH</Data>
+            <Data name="BodyFrameBreastsSH" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="LimbsBreastsSSH" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBreastsSSH</Data>
+            <Data name="CyberneBreastsSSH" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreastsSSH</Data>
+            <Data name="BodyFrameBreastsSSH" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="LimbsBreastsFantasy" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBreastsFantasy</Data>
+            <Data name="CyberneBreastsFantasy" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreastsFantasy</Data>
+            <Data name="BodyFrameBreastsFantasy" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="CyberneDoubleMelon" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneDoubleMelon</Data>
+            <Data name="BodyFrameDoubleMelon" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastCleavage" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="LimbsBreastFlatness" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBreastFlatness</Data>
+            <Data name="CyberneBreastFlatness" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreastFlatness</Data>
+            <Data name="BodyFrameBreastFlatness" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="LimbsBreastGravity" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBreastGravity</Data>
+            <Data name="CyberneBreastGravity" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreastGravity</Data>
+            <Data name="BodyFrameBreastGravity" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="LimbsPushUp" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsPushUp</Data>
+            <Data name="CybernePushUp" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CybernePushUp</Data>
+            <Data name="BodyFramePushUp" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFramePushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="LimbsBreastHeight" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBreastHeight</Data>
+            <Data name="CyberneBreastHeight" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreastHeight</Data>
+            <Data name="BodyFrameBreastHeight" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="LimbsBreastPerkiness" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBreastPerkiness</Data>
+            <Data name="CyberneBreastPerkiness" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreastPerkiness</Data>
+            <Data name="BodyFrameBreastPerkiness" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="LimbsBreastWidth" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBreastWidth</Data>
+            <Data name="CyberneBreastWidth" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBreastWidth</Data>
+            <Data name="BodyFrameBreastWidth" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BodyFrameNippleDistance" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BodyFrameNipplePerkiness" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BodyFrameNippleLength" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="BodyFrameNippleSize" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BodyFrameNippleAreola" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="CyberneNippleUp" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneNippleUp</Data>
+            <Data name="BodyFrameNippleUp" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BodyFrameNippleDown" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BodyFrameNippleTip" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="LimbsArms" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsArms</Data>
+            <Data name="CyberneArms" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneArms</Data>
+            <Data name="BodyFrameArms" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="LimbsChubbyArms" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsChubbyArms</Data>
+            <Data name="CyberneChubbyArms" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneChubbyArms</Data>
+            <Data name="BodyFrameChubbyArms" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="CyberneShoulderSmooth" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneShoulderSmooth</Data>
+            <Data name="BodyFrameShoulderSmooth" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="LimbsShoulderWidth" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsShoulderWidth</Data>
+            <Data name="CyberneShoulderWidth" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneShoulderWidth</Data>
+            <Data name="BodyFrameShoulderWidth" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="LimbsBigTorso" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBigTorso</Data>
+            <Data name="CyberneBigTorso" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBigTorso</Data>
+            <Data name="BodyFrameBigTorso" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="LimbsWaist" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsWaist</Data>
+            <Data name="CyberneWaist" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneWaist</Data>
+            <Data name="BodyFrameWaist" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="CyberneWideWaistLine" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneWideWaistLine</Data>
+            <Data name="BodyFrameWideWaistLine" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="LimbsChubbyWaist" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsChubbyWaist</Data>
+            <Data name="CyberneChubbyWaist" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneChubbyWaist</Data>
+            <Data name="BodyFrameChubbyWaist" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="CyberneBelly" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBelly</Data>
+            <Data name="BodyFrameBelly" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="CyberneBigBelly" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBigBelly</Data>
+            <Data name="BodyFrameBigBelly" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="LimbsPregnancyBelly" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsPregnancyBelly</Data>
+            <Data name="CybernePregnancyBelly" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CybernePregnancyBelly</Data>
+            <Data name="BodyFramePregnancyBelly" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFramePregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="LimbsTummyTuck" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsTummyTuck</Data>
+            <Data name="CyberneTummyTuck" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneTummyTuck</Data>
+            <Data name="BodyFrameTummyTuck" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="CyberneBack" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBack</Data>
+            <Data name="BodyFrameBack" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="LimbsHipbone" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsHipbone</Data>
+            <Data name="CyberneHipbone" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneHipbone</Data>
+            <Data name="BodyFrameHipbone" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="LimbsHips" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsHips</Data>
+            <Data name="CyberneHips" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneHips</Data>
+            <Data name="BodyFrameHips" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="LimbsButtCrack" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsButtCrack</Data>
+            <Data name="CyberneButtCrack" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneButtCrack</Data>
+            <Data name="BodyFrameButtCrack" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="LimbsButt" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsButt</Data>
+            <Data name="CyberneButt" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneButt</Data>
+            <Data name="BodyFrameButt" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="LimbsButtSmall" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsButtSmall</Data>
+            <Data name="CyberneButtSmall" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneButtSmall</Data>
+            <Data name="BodyFrameButtSmall" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="LimbsButtShape2" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsButtShape2</Data>
+            <Data name="CyberneButtShape2" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneButtShape2</Data>
+            <Data name="BodyFrameButtShape2" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="LimbsBigButt" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsBigButt</Data>
+            <Data name="CyberneBigButt" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneBigButt</Data>
+            <Data name="BodyFrameBigButt" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="LimbsChubbyButt" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsChubbyButt</Data>
+            <Data name="CyberneChubbyButt" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneChubbyButt</Data>
+            <Data name="BodyFrameChubbyButt" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="LimbsAppleCheeks" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsAppleCheeks</Data>
+            <Data name="CyberneAppleCheeks" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneAppleCheeks</Data>
+            <Data name="BodyFrameAppleCheeks" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="LimbsRoundAss" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsRoundAss</Data>
+            <Data name="CyberneRoundAss" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneRoundAss</Data>
+            <Data name="BodyFrameRoundAss" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="LimbsSlimThighs" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsSlimThighs</Data>
+            <Data name="CyberneSlimThighs" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneSlimThighs</Data>
+            <Data name="BodyFrameSlimThighs" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="LimbsThighs" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsThighs</Data>
+            <Data name="CyberneThighs" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneThighs</Data>
+            <Data name="BodyFrameThighs" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="LimbsChubbyLegs" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsChubbyLegs</Data>
+            <Data name="CyberneChubbyLegs" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneChubbyLegs</Data>
+            <Data name="BodyFrameChubbyLegs" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="LimbsLegs" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsLegs</Data>
+            <Data name="CyberneLegs" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneLegs</Data>
+            <Data name="BodyFrameLegs" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="LimbsKneeHeight" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsKneeHeight</Data>
+            <Data name="CyberneKneeHeight" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneKneeHeight</Data>
+            <Data name="BodyFrameKneeHeight" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="LimbsCalfSize" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsCalfSize</Data>
+            <Data name="CyberneCalfSize" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="LimbsCalfSmooth" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsCalfSmooth</Data>
+            <Data name="CyberneCalfSmooth" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneCalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="BodyFrameNeck" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Limbs7B Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B Low</Data>
+            <Data name="Cyberne7B Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B Low</Data>
+            <Data name="BodyFrame7B Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Limbs7B High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B High</Data>
+            <Data name="Cyberne7B High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B High</Data>
+            <Data name="BodyFrame7B High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Limbs7B Bombshell Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B Bombshell Low</Data>
+            <Data name="Cyberne7B Bombshell Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B Bombshell Low</Data>
+            <Data name="BodyFrame7B Bombshell Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Limbs7B Bombshell High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B Bombshell High</Data>
+            <Data name="Cyberne7B Bombshell High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B Bombshell High</Data>
+            <Data name="BodyFrame7B Bombshell High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Limbs7B Natural Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B Natural Low</Data>
+            <Data name="Cyberne7B Natural Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B Natural Low</Data>
+            <Data name="BodyFrame7B Natural Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Limbs7B Natural High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B Natural High</Data>
+            <Data name="Cyberne7B Natural High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B Natural High</Data>
+            <Data name="BodyFrame7B Natural High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Limbs7B Cleavage Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B Cleavage Low</Data>
+            <Data name="Cyberne7B Cleavage Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B Cleavage Low</Data>
+            <Data name="BodyFrame7B Cleavage Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Limbs7B Cleavage High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B Cleavage High</Data>
+            <Data name="Cyberne7B Cleavage High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B Cleavage High</Data>
+            <Data name="BodyFrame7B Cleavage High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Limbs7B BCup Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B BCup Low</Data>
+            <Data name="Cyberne7B BCup Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B BCup Low</Data>
+            <Data name="BodyFrame7B BCup Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Limbs7B BCup High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B BCup High</Data>
+            <Data name="Cyberne7B BCup High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B BCup High</Data>
+            <Data name="BodyFrame7B BCup High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Limbs7BUNP Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7BUNP Low</Data>
+            <Data name="Cyberne7BUNP Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7BUNP Low</Data>
+            <Data name="BodyFrame7BUNP Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Limbs7BUNP High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7BUNP High</Data>
+            <Data name="Cyberne7BUNP High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7BUNP High</Data>
+            <Data name="BodyFrame7BUNP High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Limbs7B Oppai Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B Oppai Low</Data>
+            <Data name="Cyberne7B Oppai Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B Oppai Low</Data>
+            <Data name="BodyFrame7B Oppai Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Limbs7B Oppai High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B Oppai High</Data>
+            <Data name="Cyberne7B Oppai High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B Oppai High</Data>
+            <Data name="BodyFrame7B Oppai High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Limbs7B CH Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B CH Low</Data>
+            <Data name="Cyberne7B CH Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B CH Low</Data>
+            <Data name="BodyFrame7B CH Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Limbs7B CH High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\Limbs7B CH High</Data>
+            <Data name="Cyberne7B CH High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\Cyberne7B CH High</Data>
+            <Data name="BodyFrame7B CH High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrame7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNP Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNP Low</Data>
+            <Data name="CyberneUNP Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNP Low</Data>
+            <Data name="BodyFrameUNP Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="LimbsUNP High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNP High</Data>
+            <Data name="CyberneUNP High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNP High</Data>
+            <Data name="BodyFrameUNP High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNP Pushup Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNP Pushup Low</Data>
+            <Data name="CyberneUNP Pushup Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNP Pushup Low</Data>
+            <Data name="BodyFrameUNP Pushup Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="LimbsUNP Pushup High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNP Pushup High</Data>
+            <Data name="CyberneUNP Pushup High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNP Pushup High</Data>
+            <Data name="BodyFrameUNP Pushup High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNP Skinny Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNP Skinny Low</Data>
+            <Data name="CyberneUNP Skinny Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNP Skinny Low</Data>
+            <Data name="BodyFrameUNP Skinny Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="LimbsUNP Skinny High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNP Skinny High</Data>
+            <Data name="CyberneUNP Skinny High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNP Skinny High</Data>
+            <Data name="BodyFrameUNP Skinny High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNP Perky Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNP Perky Low</Data>
+            <Data name="CyberneUNP Perky Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNP Perky Low</Data>
+            <Data name="BodyFrameUNP Perky Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="LimbsUNP Perky High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNP Perky High</Data>
+            <Data name="CyberneUNP Perky High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNP Perky High</Data>
+            <Data name="BodyFrameUNP Perky High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPB Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPB Low</Data>
+            <Data name="CyberneUNPB Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPB Low</Data>
+            <Data name="BodyFrameUNPB Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPB High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPB High</Data>
+            <Data name="CyberneUNPB High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPB High</Data>
+            <Data name="BodyFrameUNPB High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="LimbsUNPB Chapi" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPB Chapi</Data>
+            <Data name="CyberneUNPB Chapi" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPB Chapi</Data>
+            <Data name="BodyFrameUNPB Chapi" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="LimbsUNPB Oppai v1" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPB Oppai v1</Data>
+            <Data name="CyberneUNPB Oppai v1" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPB Oppai v1</Data>
+            <Data name="BodyFrameUNPB Oppai v1" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPB Oppai v3.2 Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPB Oppai v3.2 Low</Data>
+            <Data name="CyberneUNPB Oppai v3.2 Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPB Oppai v3.2 Low</Data>
+            <Data name="BodyFrameUNPB Oppai v3.2 Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPB Oppai v3.2 High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPB Oppai v3.2 High</Data>
+            <Data name="CyberneUNPB Oppai v3.2 High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPB Oppai v3.2 High</Data>
+            <Data name="BodyFrameUNPB Oppai v3.2 High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPetite Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPetite Low</Data>
+            <Data name="CyberneUNPetite Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPetite Low</Data>
+            <Data name="BodyFrameUNPetite Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPetite High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPetite High</Data>
+            <Data name="CyberneUNPetite High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPetite High</Data>
+            <Data name="BodyFrameUNPetite High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPC Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPC Low</Data>
+            <Data name="CyberneUNPC Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPC Low</Data>
+            <Data name="BodyFrameUNPC Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPC High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPC High</Data>
+            <Data name="CyberneUNPC High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPC High</Data>
+            <Data name="BodyFrameUNPC High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPCM Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPCM Low</Data>
+            <Data name="CyberneUNPCM Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPCM Low</Data>
+            <Data name="BodyFrameUNPCM Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPCM High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPCM High</Data>
+            <Data name="CyberneUNPCM High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPCM High</Data>
+            <Data name="BodyFrameUNPCM High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPSH Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPSH Low</Data>
+            <Data name="CyberneUNPSH Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPSH Low</Data>
+            <Data name="BodyFrameUNPSH Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPSH High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPSH High</Data>
+            <Data name="CyberneUNPSH High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPSH High</Data>
+            <Data name="BodyFrameUNPSH High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPK Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPK Low</Data>
+            <Data name="CyberneUNPK Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPK Low</Data>
+            <Data name="BodyFrameUNPK Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPK High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPK High</Data>
+            <Data name="CyberneUNPK High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPK High</Data>
+            <Data name="BodyFrameUNPK High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPK Bonus Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPK Bonus Low</Data>
+            <Data name="CyberneUNPK Bonus Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPK Bonus Low</Data>
+            <Data name="BodyFrameUNPK Bonus Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPK Bonus High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPK Bonus High</Data>
+            <Data name="CyberneUNPK Bonus High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPK Bonus High</Data>
+            <Data name="BodyFrameUNPK Bonus High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="LimbsUN7B Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUN7B Low</Data>
+            <Data name="CyberneUN7B Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUN7B Low</Data>
+            <Data name="BodyFrameUN7B Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="LimbsUN7B High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUN7B High</Data>
+            <Data name="CyberneUN7B High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUN7B High</Data>
+            <Data name="BodyFrameUN7B High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPBB Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPBB Low</Data>
+            <Data name="CyberneUNPBB Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPBB Low</Data>
+            <Data name="BodyFrameUNPBB Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPBB High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPBB High</Data>
+            <Data name="CyberneUNPBB High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPBB High</Data>
+            <Data name="BodyFrameUNPBB High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="LimbsSeraphim Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsSeraphim Low</Data>
+            <Data name="CyberneSeraphim Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneSeraphim Low</Data>
+            <Data name="BodyFrameSeraphim Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="LimbsSeraphim High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsSeraphim High</Data>
+            <Data name="CyberneSeraphim High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneSeraphim High</Data>
+            <Data name="BodyFrameSeraphim High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="LimbsDemonfet Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsDemonfet Low</Data>
+            <Data name="CyberneDemonfet Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneDemonfet Low</Data>
+            <Data name="BodyFrameDemonfet Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="LimbsDemonfet High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsDemonfet High</Data>
+            <Data name="CyberneDemonfet High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneDemonfet High</Data>
+            <Data name="BodyFrameDemonfet High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="LimbsDream Girl Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsDream Girl Low</Data>
+            <Data name="CyberneDream Girl Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneDream Girl Low</Data>
+            <Data name="BodyFrameDream Girl Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="LimbsDream Girl High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsDream Girl High</Data>
+            <Data name="CyberneDream Girl High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneDream Girl High</Data>
+            <Data name="BodyFrameDream Girl High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="LimbsTop Model Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsTop Model Low</Data>
+            <Data name="CyberneTop Model Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneTop Model Low</Data>
+            <Data name="BodyFrameTop Model Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="LimbsTop Model High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsTop Model High</Data>
+            <Data name="CyberneTop Model High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneTop Model High</Data>
+            <Data name="BodyFrameTop Model High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="LimbsLeito Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsLeito Low</Data>
+            <Data name="CyberneLeito Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneLeito Low</Data>
+            <Data name="BodyFrameLeito Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="LimbsLeito High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsLeito High</Data>
+            <Data name="CyberneLeito High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneLeito High</Data>
+            <Data name="BodyFrameLeito High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPF Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPF Low</Data>
+            <Data name="CyberneUNPF Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPF Low</Data>
+            <Data name="BodyFrameUNPF Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPF High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPF High</Data>
+            <Data name="CyberneUNPF High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPF High</Data>
+            <Data name="BodyFrameUNPF High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="LimbsUNPFx Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPFx Low</Data>
+            <Data name="CyberneUNPFx Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPFx Low</Data>
+            <Data name="BodyFrameUNPFx Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="LimbsUNPFx High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsUNPFx High</Data>
+            <Data name="CyberneUNPFx High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneUNPFx High</Data>
+            <Data name="BodyFrameUNPFx High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="LimbsCNHF Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsCNHF Low</Data>
+            <Data name="CyberneCNHF Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneCNHF Low</Data>
+            <Data name="BodyFrameCNHF Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="LimbsCNHF High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsCNHF High</Data>
+            <Data name="CyberneCNHF High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneCNHF High</Data>
+            <Data name="BodyFrameCNHF High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="LimbsCNHF Bonus Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsCNHF Bonus Low</Data>
+            <Data name="CyberneCNHF Bonus Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneCNHF Bonus Low</Data>
+            <Data name="BodyFrameCNHF Bonus Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="LimbsCNHF Bonus High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsCNHF Bonus High</Data>
+            <Data name="CyberneCNHF Bonus High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneCNHF Bonus High</Data>
+            <Data name="BodyFrameCNHF Bonus High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="LimbsMCBM Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsMCBM Low</Data>
+            <Data name="CyberneMCBM Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneMCBM Low</Data>
+            <Data name="BodyFrameMCBM Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="LimbsMCBM High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsMCBM High</Data>
+            <Data name="CyberneMCBM High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneMCBM High</Data>
+            <Data name="BodyFrameMCBM High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="LimbsVenus Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsVenus Low</Data>
+            <Data name="CyberneVenus Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneVenus Low</Data>
+            <Data name="BodyFrameVenus Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="LimbsVenus High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsVenus High</Data>
+            <Data name="CyberneVenus High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneVenus High</Data>
+            <Data name="BodyFrameVenus High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="LimbsZGGB-R2 Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsZGGB-R2 Low</Data>
+            <Data name="CyberneZGGB-R2 Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneZGGB-R2 Low</Data>
+            <Data name="BodyFrameZGGB-R2 Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="LimbsZGGB-R2 High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsZGGB-R2 High</Data>
+            <Data name="CyberneZGGB-R2 High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneZGGB-R2 High</Data>
+            <Data name="BodyFrameZGGB-R2 High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="LimbsManga Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsManga Low</Data>
+            <Data name="CyberneManga Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneManga Low</Data>
+            <Data name="BodyFrameManga Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="LimbsManga High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsManga High</Data>
+            <Data name="CyberneManga High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneManga High</Data>
+            <Data name="BodyFrameManga High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="LimbsCHSBHC Low" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsCHSBHC Low</Data>
+            <Data name="CyberneCHSBHC Low" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneCHSBHC Low</Data>
+            <Data name="BodyFrameCHSBHC Low" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="LimbsCHSBHC High" target="Limbs" local="true">Dwarven Gynoid Body [Bouncy].osd\LimbsCHSBHC High</Data>
+            <Data name="CyberneCHSBHC High" target="Cyberne" local="true">Dwarven Gynoid Body [Bouncy].osd\CyberneCHSBHC High</Data>
+            <Data name="BodyFrameCHSBHC High" target="BodyFrame" local="true">Dwarven Gynoid Body [Bouncy].osd\BodyFrameCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

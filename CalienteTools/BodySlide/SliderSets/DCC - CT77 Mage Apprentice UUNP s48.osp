@@ -1,0 +1,588 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - CT77 Mage Apprentice UUNP s48">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - CT77 Mage Apprentice UUNP s48.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">mageapprenticerobesvar1fs48</OutputFile>
+        <Shape target="ApprenticeChest">ApprenticeChest</Shape>
+        <Shape target="ApprenticeScarf">ApprenticeScarf</Shape>
+        <Shape target="ApprenticeSkirt">ApprenticeSkirt</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestBreasts" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreasts</Data>
+            <Data name="ApprenticeScarfBreasts" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestBreastsSmall" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastsSmall</Data>
+            <Data name="ApprenticeScarfBreastsSmall" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastsSmall</Data>
+            <Data name="ApprenticeSkirtBreastsSmall" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBreastsSH" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastsSH</Data>
+            <Data name="ApprenticeScarfBreastsSH" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBreastsSSH" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastsSSH</Data>
+            <Data name="ApprenticeScarfBreastsSSH" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBreastsFantasy" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastsFantasy</Data>
+            <Data name="ApprenticeScarfBreastsFantasy" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestDoubleMelon" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestDoubleMelon</Data>
+            <Data name="ApprenticeScarfDoubleMelon" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBreastCleavage" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastCleavage</Data>
+            <Data name="ApprenticeScarfBreastCleavage" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBreastFlatness" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastFlatness</Data>
+            <Data name="ApprenticeScarfBreastFlatness" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBreastGravity" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastGravity</Data>
+            <Data name="ApprenticeScarfBreastGravity" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestPushUp" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestPushUp</Data>
+            <Data name="ApprenticeScarfPushUp" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBreastHeight" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastHeight</Data>
+            <Data name="ApprenticeScarfBreastHeight" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastHeight</Data>
+            <Data name="ApprenticeSkirtBreastHeight" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBreastPerkiness" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastPerkiness</Data>
+            <Data name="ApprenticeScarfBreastPerkiness" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBreastWidth" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBreastWidth</Data>
+            <Data name="ApprenticeScarfBreastWidth" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestNippleDistance" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestNippleDistance</Data>
+            <Data name="ApprenticeScarfNippleDistance" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestNipplePerkiness" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestNipplePerkiness</Data>
+            <Data name="ApprenticeScarfNipplePerkiness" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestNippleLength" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestNippleLength</Data>
+            <Data name="ApprenticeScarfNippleLength" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestNippleSize" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestNippleSize</Data>
+            <Data name="ApprenticeScarfNippleSize" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestNippleAreola" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestNippleAreola</Data>
+            <Data name="ApprenticeScarfNippleAreola" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestNippleUp" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestNippleUp</Data>
+            <Data name="ApprenticeScarfNippleUp" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestNippleDown" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestNippleDown</Data>
+            <Data name="ApprenticeScarfNippleDown" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestNippleTip" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestNippleTip</Data>
+            <Data name="ApprenticeScarfNippleTip" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestArms" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestArms</Data>
+            <Data name="ApprenticeScarfArms" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestChubbyArms" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestChubbyArms</Data>
+            <Data name="ApprenticeScarfChubbyArms" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestShoulderSmooth" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestShoulderSmooth</Data>
+            <Data name="ApprenticeScarfShoulderSmooth" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestShoulderWidth" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestShoulderWidth</Data>
+            <Data name="ApprenticeScarfShoulderWidth" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBigTorso" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBigTorso</Data>
+            <Data name="ApprenticeScarfBigTorso" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBigTorso</Data>
+            <Data name="ApprenticeSkirtBigTorso" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestWaist" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestWaist</Data>
+            <Data name="ApprenticeScarfWaist" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfWaist</Data>
+            <Data name="ApprenticeSkirtWaist" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestWideWaistLine" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestWideWaistLine</Data>
+            <Data name="ApprenticeSkirtWideWaistLine" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestChubbyWaist" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestChubbyWaist</Data>
+            <Data name="ApprenticeScarfChubbyWaist" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfChubbyWaist</Data>
+            <Data name="ApprenticeSkirtChubbyWaist" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBelly" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBelly</Data>
+            <Data name="ApprenticeSkirtBelly" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBigBelly" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBigBelly</Data>
+            <Data name="ApprenticeSkirtBigBelly" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestPregnancyBelly" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestPregnancyBelly</Data>
+            <Data name="ApprenticeScarfPregnancyBelly" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfPregnancyBelly</Data>
+            <Data name="ApprenticeSkirtPregnancyBelly" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestTummyTuck" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestTummyTuck</Data>
+            <Data name="ApprenticeSkirtTummyTuck" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBack" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBack</Data>
+            <Data name="ApprenticeScarfBack" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfBack</Data>
+            <Data name="ApprenticeSkirtBack" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestHipbone" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestHipbone</Data>
+            <Data name="ApprenticeSkirtHipbone" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestHips" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestHips</Data>
+            <Data name="ApprenticeSkirtHips" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestButtCrack" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestButtCrack</Data>
+            <Data name="ApprenticeSkirtButtCrack" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestButt" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestButt</Data>
+            <Data name="ApprenticeSkirtButt" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestButtSmall" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestButtSmall</Data>
+            <Data name="ApprenticeSkirtButtSmall" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestButtShape2" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestButtShape2</Data>
+            <Data name="ApprenticeSkirtButtShape2" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestBigButt" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestBigButt</Data>
+            <Data name="ApprenticeSkirtBigButt" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestChubbyButt" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestChubbyButt</Data>
+            <Data name="ApprenticeScarfChubbyButt" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfChubbyButt</Data>
+            <Data name="ApprenticeSkirtChubbyButt" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestAppleCheeks" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestAppleCheeks</Data>
+            <Data name="ApprenticeSkirtAppleCheeks" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestRoundAss" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestRoundAss</Data>
+            <Data name="ApprenticeSkirtRoundAss" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestSlimThighs" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestSlimThighs</Data>
+            <Data name="ApprenticeSkirtSlimThighs" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestThighs" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestThighs</Data>
+            <Data name="ApprenticeSkirtThighs" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestChubbyLegs" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestChubbyLegs</Data>
+            <Data name="ApprenticeSkirtChubbyLegs" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="ApprenticeChestLegs" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestLegs</Data>
+            <Data name="ApprenticeSkirtLegs" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="ApprenticeSkirtKneeHeight" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtKneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="ApprenticeChestNeck" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestNeck</Data>
+            <Data name="ApprenticeScarfNeck" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B Low</Data>
+            <Data name="ApprenticeScarf7B Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B Low</Data>
+            <Data name="ApprenticeSkirt7B Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B High</Data>
+            <Data name="ApprenticeScarf7B High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B High</Data>
+            <Data name="ApprenticeSkirt7B High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B Bombshell Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B Bombshell Low</Data>
+            <Data name="ApprenticeScarf7B Bombshell Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B Bombshell Low</Data>
+            <Data name="ApprenticeSkirt7B Bombshell Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B Bombshell High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B Bombshell High</Data>
+            <Data name="ApprenticeScarf7B Bombshell High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B Bombshell High</Data>
+            <Data name="ApprenticeSkirt7B Bombshell High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B Natural Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B Natural Low</Data>
+            <Data name="ApprenticeScarf7B Natural Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B Natural Low</Data>
+            <Data name="ApprenticeSkirt7B Natural Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B Natural High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B Natural High</Data>
+            <Data name="ApprenticeScarf7B Natural High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B Natural High</Data>
+            <Data name="ApprenticeSkirt7B Natural High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B Cleavage Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B Cleavage Low</Data>
+            <Data name="ApprenticeScarf7B Cleavage Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B Cleavage Low</Data>
+            <Data name="ApprenticeSkirt7B Cleavage Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B Cleavage High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B Cleavage High</Data>
+            <Data name="ApprenticeScarf7B Cleavage High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B Cleavage High</Data>
+            <Data name="ApprenticeSkirt7B Cleavage High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B BCup Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B BCup Low</Data>
+            <Data name="ApprenticeScarf7B BCup Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B BCup Low</Data>
+            <Data name="ApprenticeSkirt7B BCup Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B BCup High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B BCup High</Data>
+            <Data name="ApprenticeScarf7B BCup High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B BCup High</Data>
+            <Data name="ApprenticeSkirt7B BCup High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7BUNP Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7BUNP Low</Data>
+            <Data name="ApprenticeScarf7BUNP Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7BUNP Low</Data>
+            <Data name="ApprenticeSkirt7BUNP Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7BUNP High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7BUNP High</Data>
+            <Data name="ApprenticeScarf7BUNP High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7BUNP High</Data>
+            <Data name="ApprenticeSkirt7BUNP High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B Oppai Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B Oppai Low</Data>
+            <Data name="ApprenticeScarf7B Oppai Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B Oppai Low</Data>
+            <Data name="ApprenticeSkirt7B Oppai Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B Oppai High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B Oppai High</Data>
+            <Data name="ApprenticeScarf7B Oppai High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B Oppai High</Data>
+            <Data name="ApprenticeSkirt7B Oppai High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B CH Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B CH Low</Data>
+            <Data name="ApprenticeScarf7B CH Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B CH Low</Data>
+            <Data name="ApprenticeSkirt7B CH Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChest7B CH High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChest7B CH High</Data>
+            <Data name="ApprenticeScarf7B CH High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarf7B CH High</Data>
+            <Data name="ApprenticeSkirt7B CH High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirt7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNP Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNP Low</Data>
+            <Data name="ApprenticeScarfUNP Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNP Low</Data>
+            <Data name="ApprenticeSkirtUNP Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNP High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNP High</Data>
+            <Data name="ApprenticeScarfUNP High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNP High</Data>
+            <Data name="ApprenticeSkirtUNP High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNP Pushup Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNP Pushup Low</Data>
+            <Data name="ApprenticeScarfUNP Pushup Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNP Pushup Low</Data>
+            <Data name="ApprenticeSkirtUNP Pushup Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNP Pushup High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNP Pushup High</Data>
+            <Data name="ApprenticeScarfUNP Pushup High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNP Pushup High</Data>
+            <Data name="ApprenticeSkirtUNP Pushup High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNP Skinny Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNP Skinny Low</Data>
+            <Data name="ApprenticeScarfUNP Skinny Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNP Skinny Low</Data>
+            <Data name="ApprenticeSkirtUNP Skinny Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNP Skinny High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNP Skinny High</Data>
+            <Data name="ApprenticeScarfUNP Skinny High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNP Skinny High</Data>
+            <Data name="ApprenticeSkirtUNP Skinny High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNP Perky Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNP Perky Low</Data>
+            <Data name="ApprenticeScarfUNP Perky Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNP Perky Low</Data>
+            <Data name="ApprenticeSkirtUNP Perky Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNP Perky High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNP Perky High</Data>
+            <Data name="ApprenticeScarfUNP Perky High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNP Perky High</Data>
+            <Data name="ApprenticeSkirtUNP Perky High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPB Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPB Low</Data>
+            <Data name="ApprenticeScarfUNPB Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPB Low</Data>
+            <Data name="ApprenticeSkirtUNPB Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPB High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPB High</Data>
+            <Data name="ApprenticeScarfUNPB High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPB High</Data>
+            <Data name="ApprenticeSkirtUNPB High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPB Chapi" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPB Chapi</Data>
+            <Data name="ApprenticeScarfUNPB Chapi" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPB Chapi</Data>
+            <Data name="ApprenticeSkirtUNPB Chapi" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPB Oppai v1" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPB Oppai v1</Data>
+            <Data name="ApprenticeScarfUNPB Oppai v1" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPB Oppai v1</Data>
+            <Data name="ApprenticeSkirtUNPB Oppai v1" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPB Oppai v3.2 Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPB Oppai v3.2 Low</Data>
+            <Data name="ApprenticeScarfUNPB Oppai v3.2 Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPB Oppai v3.2 Low</Data>
+            <Data name="ApprenticeSkirtUNPB Oppai v3.2 Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPB Oppai v3.2 High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPB Oppai v3.2 High</Data>
+            <Data name="ApprenticeScarfUNPB Oppai v3.2 High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPB Oppai v3.2 High</Data>
+            <Data name="ApprenticeSkirtUNPB Oppai v3.2 High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPetite Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPetite Low</Data>
+            <Data name="ApprenticeScarfUNPetite Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPetite Low</Data>
+            <Data name="ApprenticeSkirtUNPetite Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPetite High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPetite High</Data>
+            <Data name="ApprenticeScarfUNPetite High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPetite High</Data>
+            <Data name="ApprenticeSkirtUNPetite High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPC Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPC Low</Data>
+            <Data name="ApprenticeScarfUNPC Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPC Low</Data>
+            <Data name="ApprenticeSkirtUNPC Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPC High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPC High</Data>
+            <Data name="ApprenticeScarfUNPC High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPC High</Data>
+            <Data name="ApprenticeSkirtUNPC High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPCM Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPCM Low</Data>
+            <Data name="ApprenticeScarfUNPCM Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPCM Low</Data>
+            <Data name="ApprenticeSkirtUNPCM Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPCM High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPCM High</Data>
+            <Data name="ApprenticeScarfUNPCM High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPCM High</Data>
+            <Data name="ApprenticeSkirtUNPCM High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPSH Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPSH Low</Data>
+            <Data name="ApprenticeScarfUNPSH Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPSH Low</Data>
+            <Data name="ApprenticeSkirtUNPSH Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPSH High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPSH High</Data>
+            <Data name="ApprenticeScarfUNPSH High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPSH High</Data>
+            <Data name="ApprenticeSkirtUNPSH High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPK Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPK Low</Data>
+            <Data name="ApprenticeScarfUNPK Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPK Low</Data>
+            <Data name="ApprenticeSkirtUNPK Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPK High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPK High</Data>
+            <Data name="ApprenticeScarfUNPK High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPK High</Data>
+            <Data name="ApprenticeSkirtUNPK High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPK Bonus Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPK Bonus Low</Data>
+            <Data name="ApprenticeScarfUNPK Bonus Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPK Bonus Low</Data>
+            <Data name="ApprenticeSkirtUNPK Bonus Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPK Bonus High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPK Bonus High</Data>
+            <Data name="ApprenticeScarfUNPK Bonus High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPK Bonus High</Data>
+            <Data name="ApprenticeSkirtUNPK Bonus High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUN7B Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUN7B Low</Data>
+            <Data name="ApprenticeScarfUN7B Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUN7B Low</Data>
+            <Data name="ApprenticeSkirtUN7B Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUN7B High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUN7B High</Data>
+            <Data name="ApprenticeScarfUN7B High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUN7B High</Data>
+            <Data name="ApprenticeSkirtUN7B High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPBB Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPBB Low</Data>
+            <Data name="ApprenticeScarfUNPBB Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPBB Low</Data>
+            <Data name="ApprenticeSkirtUNPBB Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPBB High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPBB High</Data>
+            <Data name="ApprenticeScarfUNPBB High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPBB High</Data>
+            <Data name="ApprenticeSkirtUNPBB High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestSeraphim Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestSeraphim Low</Data>
+            <Data name="ApprenticeScarfSeraphim Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfSeraphim Low</Data>
+            <Data name="ApprenticeSkirtSeraphim Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestSeraphim High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestSeraphim High</Data>
+            <Data name="ApprenticeScarfSeraphim High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfSeraphim High</Data>
+            <Data name="ApprenticeSkirtSeraphim High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestDemonfet Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestDemonfet Low</Data>
+            <Data name="ApprenticeScarfDemonfet Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfDemonfet Low</Data>
+            <Data name="ApprenticeSkirtDemonfet Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestDemonfet High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestDemonfet High</Data>
+            <Data name="ApprenticeScarfDemonfet High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfDemonfet High</Data>
+            <Data name="ApprenticeSkirtDemonfet High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestDream Girl Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestDream Girl Low</Data>
+            <Data name="ApprenticeScarfDream Girl Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfDream Girl Low</Data>
+            <Data name="ApprenticeSkirtDream Girl Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestDream Girl High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestDream Girl High</Data>
+            <Data name="ApprenticeScarfDream Girl High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfDream Girl High</Data>
+            <Data name="ApprenticeSkirtDream Girl High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestTop Model Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestTop Model Low</Data>
+            <Data name="ApprenticeScarfTop Model Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfTop Model Low</Data>
+            <Data name="ApprenticeSkirtTop Model Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestTop Model High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestTop Model High</Data>
+            <Data name="ApprenticeScarfTop Model High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfTop Model High</Data>
+            <Data name="ApprenticeSkirtTop Model High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestLeito Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestLeito Low</Data>
+            <Data name="ApprenticeScarfLeito Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfLeito Low</Data>
+            <Data name="ApprenticeSkirtLeito Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestLeito High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestLeito High</Data>
+            <Data name="ApprenticeScarfLeito High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfLeito High</Data>
+            <Data name="ApprenticeSkirtLeito High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPF Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPF Low</Data>
+            <Data name="ApprenticeScarfUNPF Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPF Low</Data>
+            <Data name="ApprenticeSkirtUNPF Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPF High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPF High</Data>
+            <Data name="ApprenticeScarfUNPF High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPF High</Data>
+            <Data name="ApprenticeSkirtUNPF High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPFx Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPFx Low</Data>
+            <Data name="ApprenticeScarfUNPFx Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPFx Low</Data>
+            <Data name="ApprenticeSkirtUNPFx Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestUNPFx High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestUNPFx High</Data>
+            <Data name="ApprenticeScarfUNPFx High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfUNPFx High</Data>
+            <Data name="ApprenticeSkirtUNPFx High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestCNHF Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestCNHF Low</Data>
+            <Data name="ApprenticeScarfCNHF Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfCNHF Low</Data>
+            <Data name="ApprenticeSkirtCNHF Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestCNHF High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestCNHF High</Data>
+            <Data name="ApprenticeScarfCNHF High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfCNHF High</Data>
+            <Data name="ApprenticeSkirtCNHF High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestCNHF Bonus Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestCNHF Bonus Low</Data>
+            <Data name="ApprenticeScarfCNHF Bonus Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfCNHF Bonus Low</Data>
+            <Data name="ApprenticeSkirtCNHF Bonus Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestCNHF Bonus High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestCNHF Bonus High</Data>
+            <Data name="ApprenticeScarfCNHF Bonus High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfCNHF Bonus High</Data>
+            <Data name="ApprenticeSkirtCNHF Bonus High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestMCBM Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestMCBM Low</Data>
+            <Data name="ApprenticeScarfMCBM Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfMCBM Low</Data>
+            <Data name="ApprenticeSkirtMCBM Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestMCBM High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestMCBM High</Data>
+            <Data name="ApprenticeScarfMCBM High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfMCBM High</Data>
+            <Data name="ApprenticeSkirtMCBM High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestVenus Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestVenus Low</Data>
+            <Data name="ApprenticeScarfVenus Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfVenus Low</Data>
+            <Data name="ApprenticeSkirtVenus Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestVenus High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestVenus High</Data>
+            <Data name="ApprenticeScarfVenus High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfVenus High</Data>
+            <Data name="ApprenticeSkirtVenus High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestZGGB-R2 Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestZGGB-R2 Low</Data>
+            <Data name="ApprenticeScarfZGGB-R2 Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfZGGB-R2 Low</Data>
+            <Data name="ApprenticeSkirtZGGB-R2 Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestZGGB-R2 High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestZGGB-R2 High</Data>
+            <Data name="ApprenticeScarfZGGB-R2 High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfZGGB-R2 High</Data>
+            <Data name="ApprenticeSkirtZGGB-R2 High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestManga Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestManga Low</Data>
+            <Data name="ApprenticeScarfManga Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfManga Low</Data>
+            <Data name="ApprenticeSkirtManga Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestManga High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestManga High</Data>
+            <Data name="ApprenticeScarfManga High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfManga High</Data>
+            <Data name="ApprenticeSkirtManga High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestCHSBHC Low" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestCHSBHC Low</Data>
+            <Data name="ApprenticeScarfCHSBHC Low" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfCHSBHC Low</Data>
+            <Data name="ApprenticeSkirtCHSBHC Low" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="ApprenticeChestCHSBHC High" target="ApprenticeChest" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeChestCHSBHC High</Data>
+            <Data name="ApprenticeScarfCHSBHC High" target="ApprenticeScarf" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeScarfCHSBHC High</Data>
+            <Data name="ApprenticeSkirtCHSBHC High" target="ApprenticeSkirt" local="true">DCC - CT77 Mage Apprentice UUNP s48.osd\ApprenticeSkirtCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,494 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - WTF Goma Merchant Clothes s48">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - WTF Goma Merchant Clothes s48.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">Merchanttorsof s48</OutputFile>
+        <Shape target="Plane.002">Plane.002</Shape>
+        <Shape target="Plane.002_1">Plane.002_1</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="Plane.002Breasts" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="Plane.002BreastsSmall" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastsSmall</Data>
+            <Data name="Plane.002_1BreastsSmall" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="Plane.002BreastsSH" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="Plane.002BreastsSSH" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastsSSH</Data>
+            <Data name="Plane.002_1BreastsSSH" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="Plane.002BreastsFantasy" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="Plane.002DoubleMelon" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="Plane.002BreastCleavage" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="Plane.002BreastFlatness" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastFlatness</Data>
+            <Data name="Plane.002_1BreastFlatness" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="Plane.002BreastGravity" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="Plane.002PushUp" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="Plane.002BreastHeight" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastHeight</Data>
+            <Data name="Plane.002_1BreastHeight" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="Plane.002BreastPerkiness" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="Plane.002BreastWidth" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BreastWidth</Data>
+            <Data name="Plane.002_1BreastWidth" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="Plane.002NippleDistance" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002NippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="Plane.002NipplePerkiness" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="Plane.002NippleLength" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002NippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="Plane.002NippleSize" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002NippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="Plane.002NippleAreola" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="Plane.002NippleUp" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="Plane.002NippleDown" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002NippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="Plane.002NippleTip" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002NippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="Plane.002Arms" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Arms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="Plane.002ChubbyArms" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="Plane.002ShoulderSmooth" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="Plane.002ShoulderWidth" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="Plane.002BigTorso" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BigTorso</Data>
+            <Data name="Plane.002_1BigTorso" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1BigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="Plane.002Waist" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Waist</Data>
+            <Data name="Plane.002_1Waist" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Waist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="Plane.002WideWaistLine" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002WideWaistLine</Data>
+            <Data name="Plane.002_1WideWaistLine" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1WideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="Plane.002ChubbyWaist" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ChubbyWaist</Data>
+            <Data name="Plane.002_1ChubbyWaist" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1ChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="Plane.002Belly" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Belly</Data>
+            <Data name="Plane.002_1Belly" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="Plane.002BigBelly" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BigBelly</Data>
+            <Data name="Plane.002_1BigBelly" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1BigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="Plane.002PregnancyBelly" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002PregnancyBelly</Data>
+            <Data name="Plane.002_1PregnancyBelly" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1PregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="Plane.002TummyTuck" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002TummyTuck</Data>
+            <Data name="Plane.002_1TummyTuck" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1TummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="Plane.002Back" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Back</Data>
+            <Data name="Plane.002_1Back" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Back</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="Plane.002Hipbone" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Hipbone</Data>
+            <Data name="Plane.002_1Hipbone" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Hipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="Plane.002Hips" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Hips</Data>
+            <Data name="Plane.002_1Hips" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Hips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="Plane.002ButtCrack" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ButtCrack</Data>
+            <Data name="Plane.002_1ButtCrack" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1ButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="Plane.002Butt" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Butt</Data>
+            <Data name="Plane.002_1Butt" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Butt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="Plane.002ButtSmall" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ButtSmall</Data>
+            <Data name="Plane.002_1ButtSmall" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1ButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="Plane.002ButtShape2" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ButtShape2</Data>
+            <Data name="Plane.002_1ButtShape2" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1ButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="Plane.002BigButt" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002BigButt</Data>
+            <Data name="Plane.002_1BigButt" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1BigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="Plane.002ChubbyButt" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ChubbyButt</Data>
+            <Data name="Plane.002_1ChubbyButt" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1ChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="Plane.002AppleCheeks" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002AppleCheeks</Data>
+            <Data name="Plane.002_1AppleCheeks" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1AppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="Plane.002RoundAss" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002RoundAss</Data>
+            <Data name="Plane.002_1RoundAss" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1RoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="Plane.002SlimThighs" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002SlimThighs</Data>
+            <Data name="Plane.002_1SlimThighs" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1SlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="Plane.002Thighs" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Thighs</Data>
+            <Data name="Plane.002_1Thighs" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Thighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="Plane.002ChubbyLegs" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ChubbyLegs</Data>
+            <Data name="Plane.002_1ChubbyLegs" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1ChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="Plane.002Legs" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Legs</Data>
+            <Data name="Plane.002_1Legs" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Legs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="Plane.002KneeHeight" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002KneeHeight</Data>
+            <Data name="Plane.002_1KneeHeight" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1KneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="Plane.002CalfSize" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="Plane.002CalfSmooth" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002CalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="Plane.002Neck" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Neck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Plane.0027B Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B Low</Data>
+            <Data name="Plane.002_17B Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Plane.0027B High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B High</Data>
+            <Data name="Plane.002_17B High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Plane.0027B Bombshell Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B Bombshell Low</Data>
+            <Data name="Plane.002_17B Bombshell Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Plane.0027B Bombshell High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B Bombshell High</Data>
+            <Data name="Plane.002_17B Bombshell High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Plane.0027B Natural Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B Natural Low</Data>
+            <Data name="Plane.002_17B Natural Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Plane.0027B Natural High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B Natural High</Data>
+            <Data name="Plane.002_17B Natural High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Plane.0027B Cleavage Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B Cleavage Low</Data>
+            <Data name="Plane.002_17B Cleavage Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Plane.0027B Cleavage High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B Cleavage High</Data>
+            <Data name="Plane.002_17B Cleavage High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Plane.0027B BCup Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B BCup Low</Data>
+            <Data name="Plane.002_17B BCup Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Plane.0027B BCup High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B BCup High</Data>
+            <Data name="Plane.002_17B BCup High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Plane.0027BUNP Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027BUNP Low</Data>
+            <Data name="Plane.002_17BUNP Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Plane.0027BUNP High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027BUNP High</Data>
+            <Data name="Plane.002_17BUNP High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Plane.0027B Oppai Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B Oppai Low</Data>
+            <Data name="Plane.002_17B Oppai Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Plane.0027B Oppai High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B Oppai High</Data>
+            <Data name="Plane.002_17B Oppai High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Plane.0027B CH Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B CH Low</Data>
+            <Data name="Plane.002_17B CH Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Plane.0027B CH High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.0027B CH High</Data>
+            <Data name="Plane.002_17B CH High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_17B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNP Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNP Low</Data>
+            <Data name="Plane.002_1UNP Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNP High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNP High</Data>
+            <Data name="Plane.002_1UNP High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNP Pushup Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNP Pushup Low</Data>
+            <Data name="Plane.002_1UNP Pushup Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNP Pushup High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNP Pushup High</Data>
+            <Data name="Plane.002_1UNP Pushup High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNP Skinny Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNP Skinny Low</Data>
+            <Data name="Plane.002_1UNP Skinny Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNP Skinny High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNP Skinny High</Data>
+            <Data name="Plane.002_1UNP Skinny High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNP Perky Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNP Perky Low</Data>
+            <Data name="Plane.002_1UNP Perky Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNP Perky High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNP Perky High</Data>
+            <Data name="Plane.002_1UNP Perky High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPB Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPB Low</Data>
+            <Data name="Plane.002_1UNPB Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPB High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPB High</Data>
+            <Data name="Plane.002_1UNPB High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPB Chapi" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPB Chapi</Data>
+            <Data name="Plane.002_1UNPB Chapi" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPB Oppai v1" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPB Oppai v1</Data>
+            <Data name="Plane.002_1UNPB Oppai v1" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPB Oppai v3.2 Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPB Oppai v3.2 Low</Data>
+            <Data name="Plane.002_1UNPB Oppai v3.2 Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPB Oppai v3.2 High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPB Oppai v3.2 High</Data>
+            <Data name="Plane.002_1UNPB Oppai v3.2 High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPetite Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPetite Low</Data>
+            <Data name="Plane.002_1UNPetite Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPetite High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPetite High</Data>
+            <Data name="Plane.002_1UNPetite High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPC Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPC Low</Data>
+            <Data name="Plane.002_1UNPC Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPC High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPC High</Data>
+            <Data name="Plane.002_1UNPC High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPCM Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPCM Low</Data>
+            <Data name="Plane.002_1UNPCM Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPCM High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPCM High</Data>
+            <Data name="Plane.002_1UNPCM High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPSH Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPSH Low</Data>
+            <Data name="Plane.002_1UNPSH Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPSH High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPSH High</Data>
+            <Data name="Plane.002_1UNPSH High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPK Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPK Low</Data>
+            <Data name="Plane.002_1UNPK Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPK High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPK High</Data>
+            <Data name="Plane.002_1UNPK High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPK Bonus Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPK Bonus Low</Data>
+            <Data name="Plane.002_1UNPK Bonus Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPK Bonus High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPK Bonus High</Data>
+            <Data name="Plane.002_1UNPK Bonus High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UN7B Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UN7B Low</Data>
+            <Data name="Plane.002_1UN7B Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="Plane.002UN7B High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UN7B High</Data>
+            <Data name="Plane.002_1UN7B High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPBB Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPBB Low</Data>
+            <Data name="Plane.002_1UNPBB Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPBB High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPBB High</Data>
+            <Data name="Plane.002_1UNPBB High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="Plane.002Seraphim Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Seraphim Low</Data>
+            <Data name="Plane.002_1Seraphim Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="Plane.002Seraphim High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Seraphim High</Data>
+            <Data name="Plane.002_1Seraphim High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="Plane.002Demonfet Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Demonfet Low</Data>
+            <Data name="Plane.002_1Demonfet Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="Plane.002Demonfet High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Demonfet High</Data>
+            <Data name="Plane.002_1Demonfet High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="Plane.002Dream Girl Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Dream Girl Low</Data>
+            <Data name="Plane.002_1Dream Girl Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="Plane.002Dream Girl High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Dream Girl High</Data>
+            <Data name="Plane.002_1Dream Girl High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Plane.002Top Model Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Top Model Low</Data>
+            <Data name="Plane.002_1Top Model Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Plane.002Top Model High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Top Model High</Data>
+            <Data name="Plane.002_1Top Model High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="Plane.002Leito Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Leito Low</Data>
+            <Data name="Plane.002_1Leito Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="Plane.002Leito High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Leito High</Data>
+            <Data name="Plane.002_1Leito High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPF Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPF Low</Data>
+            <Data name="Plane.002_1UNPF Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPF High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPF High</Data>
+            <Data name="Plane.002_1UNPF High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPFx Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPFx Low</Data>
+            <Data name="Plane.002_1UNPFx Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="Plane.002UNPFx High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002UNPFx High</Data>
+            <Data name="Plane.002_1UNPFx High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="Plane.002CNHF Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002CNHF Low</Data>
+            <Data name="Plane.002_1CNHF Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="Plane.002CNHF High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002CNHF High</Data>
+            <Data name="Plane.002_1CNHF High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="Plane.002CNHF Bonus Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002CNHF Bonus Low</Data>
+            <Data name="Plane.002_1CNHF Bonus Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="Plane.002CNHF Bonus High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002CNHF Bonus High</Data>
+            <Data name="Plane.002_1CNHF Bonus High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="Plane.002MCBM Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002MCBM Low</Data>
+            <Data name="Plane.002_1MCBM Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="Plane.002MCBM High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002MCBM High</Data>
+            <Data name="Plane.002_1MCBM High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="Plane.002Venus Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Venus Low</Data>
+            <Data name="Plane.002_1Venus Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="Plane.002Venus High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Venus High</Data>
+            <Data name="Plane.002_1Venus High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="Plane.002ZGGB-R2 Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ZGGB-R2 Low</Data>
+            <Data name="Plane.002_1ZGGB-R2 Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="Plane.002ZGGB-R2 High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002ZGGB-R2 High</Data>
+            <Data name="Plane.002_1ZGGB-R2 High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="Plane.002Manga Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Manga Low</Data>
+            <Data name="Plane.002_1Manga Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="Plane.002Manga High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002Manga High</Data>
+            <Data name="Plane.002_1Manga High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="Plane.002CHSBHC Low" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002CHSBHC Low</Data>
+            <Data name="Plane.002_1CHSBHC Low" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="Plane.002CHSBHC High" target="Plane.002" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002CHSBHC High</Data>
+            <Data name="Plane.002_1CHSBHC High" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1CHSBHC High</Data>
+        </Slider>
+        <Slider name="Zap Pounches" invert="false" small="0" big="0" zap="true">
+            <Data name="Plane.002_1Zap Pounches" target="Plane.002_1" local="true">DCC - WTF Goma Merchant Clothes s48.osd\Plane.002_1Zap Pounches</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

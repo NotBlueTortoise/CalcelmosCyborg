@@ -1,0 +1,369 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - CT77 Monk Variant Hood UUNP">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - CT77 Monk Variant Hood UUNP.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">monkvarianthoodf</OutputFile>
+        <Shape target="MonkHood">MonkHood</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="MonkHoodBreasts" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="MonkHoodBreastsSmall" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="MonkHoodBreastsSH" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="MonkHoodBreastsSSH" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="MonkHoodBreastsFantasy" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="MonkHoodDoubleMelon" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="MonkHoodBreastCleavage" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="MonkHoodBreastFlatness" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="MonkHoodBreastGravity" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="MonkHoodPushUp" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="MonkHoodBreastHeight" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="MonkHoodBreastPerkiness" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="MonkHoodBreastWidth" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="MonkHoodNippleDistance" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="MonkHoodNipplePerkiness" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="MonkHoodNippleLength" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="MonkHoodNippleSize" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="MonkHoodNippleAreola" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="MonkHoodNippleUp" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="MonkHoodNippleDown" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodNippleDown</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="MonkHoodArms" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="MonkHoodChubbyArms" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="MonkHoodShoulderSmooth" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="MonkHoodShoulderWidth" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="MonkHoodBigTorso" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="MonkHoodWaist" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="MonkHoodWideWaistLine" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="MonkHoodChubbyWaist" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodChubbyWaist</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="MonkHoodPregnancyBelly" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodPregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="MonkHoodBack" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="MonkHoodHipbone" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="MonkHoodHips" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="MonkHoodButtCrack" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="MonkHoodButt" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="MonkHoodButtSmall" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="MonkHoodButtShape2" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="MonkHoodBigButt" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="MonkHoodChubbyButt" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="MonkHoodAppleCheeks" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="MonkHoodRoundAss" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="MonkHoodSlimThighs" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="MonkHoodThighs" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="MonkHoodChubbyLegs" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="MonkHoodLegs" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="MonkHoodKneeHeight" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodKneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="MonkHoodNeck" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="MonkHood7B Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="MonkHood7B High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="MonkHood7B Bombshell Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="MonkHood7B Bombshell High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="MonkHood7B Natural Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="MonkHood7B Natural High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="MonkHood7B Cleavage Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="MonkHood7B Cleavage High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="MonkHood7B BCup Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="MonkHood7B BCup High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="MonkHood7BUNP Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="MonkHood7BUNP High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="MonkHood7B Oppai Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="MonkHood7B Oppai High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="MonkHood7B CH Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="MonkHood7B CH High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHood7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNP Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNP High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNP Pushup Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNP Pushup High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNP Skinny Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNP Skinny High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNP Perky Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNP Perky High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPB Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPB High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPB Chapi" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPB Oppai v1" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPB Oppai v3.2 Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPB Oppai v3.2 High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPetite Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPetite High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPC Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPC High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPCM Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPCM High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPSH Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPSH High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPK Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPK High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPK Bonus Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPK Bonus High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUN7B Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUN7B High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPBB Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPBB High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodSeraphim Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="MonkHoodSeraphim High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodDemonfet Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="MonkHoodDemonfet High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodDream Girl Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="MonkHoodDream Girl High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodTop Model Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="MonkHoodTop Model High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodLeito Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="MonkHoodLeito High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPF Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPF High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPFx Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="MonkHoodUNPFx High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodCNHF Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="MonkHoodCNHF High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodCNHF Bonus Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="MonkHoodCNHF Bonus High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodMCBM Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="MonkHoodMCBM High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodVenus Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="MonkHoodVenus High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodZGGB-R2 Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="MonkHoodZGGB-R2 High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodManga Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="MonkHoodManga High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="MonkHoodCHSBHC Low" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="MonkHoodCHSBHC High" target="MonkHood" local="true">DCC - CT77 Monk Variant Hood UUNP.osd\MonkHoodCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

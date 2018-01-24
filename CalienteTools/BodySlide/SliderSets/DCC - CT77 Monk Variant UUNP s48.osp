@@ -1,0 +1,493 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - CT77 Monk Variant UUNP s48">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - CT77 Monk Variant UUNP s48.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">monkvariantoutfitf s48</OutputFile>
+        <Shape target="MonkBra">MonkBra</Shape>
+        <Shape target="MonkRobes">MonkRobes</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="MonkRobesBreasts" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreasts</Data>
+            <Data name="MonkBraBreasts" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="MonkRobesBreastsSmall" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastsSmall</Data>
+            <Data name="MonkBraBreastsSmall" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="MonkRobesBreastsSH" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastsSH</Data>
+            <Data name="MonkBraBreastsSH" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="MonkRobesBreastsSSH" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastsSSH</Data>
+            <Data name="MonkBraBreastsSSH" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="MonkRobesBreastsFantasy" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastsFantasy</Data>
+            <Data name="MonkBraBreastsFantasy" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="MonkRobesDoubleMelon" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesDoubleMelon</Data>
+            <Data name="MonkBraDoubleMelon" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="MonkRobesBreastCleavage" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastCleavage</Data>
+            <Data name="MonkBraBreastCleavage" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="MonkRobesBreastFlatness" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastFlatness</Data>
+            <Data name="MonkBraBreastFlatness" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="MonkRobesBreastGravity" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastGravity</Data>
+            <Data name="MonkBraBreastGravity" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="MonkRobesPushUp" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesPushUp</Data>
+            <Data name="MonkBraPushUp" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="MonkRobesBreastHeight" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastHeight</Data>
+            <Data name="MonkBraBreastHeight" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="MonkRobesBreastPerkiness" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastPerkiness</Data>
+            <Data name="MonkBraBreastPerkiness" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="MonkRobesBreastWidth" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBreastWidth</Data>
+            <Data name="MonkBraBreastWidth" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="MonkRobesNippleDistance" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesNippleDistance</Data>
+            <Data name="MonkBraNippleDistance" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="MonkRobesNipplePerkiness" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesNipplePerkiness</Data>
+            <Data name="MonkBraNipplePerkiness" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="MonkRobesNippleLength" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesNippleLength</Data>
+            <Data name="MonkBraNippleLength" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="MonkRobesNippleSize" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesNippleSize</Data>
+            <Data name="MonkBraNippleSize" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="MonkRobesNippleAreola" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesNippleAreola</Data>
+            <Data name="MonkBraNippleAreola" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="MonkRobesNippleUp" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesNippleUp</Data>
+            <Data name="MonkBraNippleUp" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="MonkRobesNippleDown" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesNippleDown</Data>
+            <Data name="MonkBraNippleDown" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="MonkRobesNippleTip" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesNippleTip</Data>
+            <Data name="MonkBraNippleTip" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="MonkRobesArms" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesArms</Data>
+            <Data name="MonkBraArms" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="MonkRobesChubbyArms" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesChubbyArms</Data>
+            <Data name="MonkBraChubbyArms" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="MonkRobesShoulderSmooth" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesShoulderSmooth</Data>
+            <Data name="MonkBraShoulderSmooth" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="MonkRobesShoulderWidth" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesShoulderWidth</Data>
+            <Data name="MonkBraShoulderWidth" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="MonkRobesBigTorso" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBigTorso</Data>
+            <Data name="MonkBraBigTorso" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="MonkRobesWaist" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesWaist</Data>
+            <Data name="MonkBraWaist" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="MonkRobesWideWaistLine" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesWideWaistLine</Data>
+            <Data name="MonkBraWideWaistLine" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="MonkRobesChubbyWaist" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesChubbyWaist</Data>
+            <Data name="MonkBraChubbyWaist" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="MonkRobesBelly" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBelly</Data>
+            <Data name="MonkBraBelly" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="MonkRobesBigBelly" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBigBelly</Data>
+            <Data name="MonkBraBigBelly" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="MonkRobesPregnancyBelly" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesPregnancyBelly</Data>
+            <Data name="MonkBraPregnancyBelly" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="MonkRobesTummyTuck" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesTummyTuck</Data>
+            <Data name="MonkBraTummyTuck" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="MonkRobesBack" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBack</Data>
+            <Data name="MonkBraBack" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="MonkRobesHipbone" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="MonkRobesHips" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesHips</Data>
+            <Data name="MonkBraHips" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="MonkRobesButtCrack" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="MonkRobesButt" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="MonkRobesButtSmall" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="MonkRobesButtShape2" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="MonkRobesBigButt" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="MonkRobesChubbyButt" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesChubbyButt</Data>
+            <Data name="MonkBraChubbyButt" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="MonkRobesAppleCheeks" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="MonkRobesRoundAss" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="MonkRobesSlimThighs" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="MonkRobesThighs" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="MonkRobesChubbyLegs" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="MonkRobesLegs" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="MonkRobesKneeHeight" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesKneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="MonkRobesNeck" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesNeck</Data>
+            <Data name="MonkBraNeck" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B Low</Data>
+            <Data name="MonkBra7B Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B High</Data>
+            <Data name="MonkBra7B High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B Bombshell Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B Bombshell Low</Data>
+            <Data name="MonkBra7B Bombshell Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B Bombshell High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B Bombshell High</Data>
+            <Data name="MonkBra7B Bombshell High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B Natural Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B Natural Low</Data>
+            <Data name="MonkBra7B Natural Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B Natural High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B Natural High</Data>
+            <Data name="MonkBra7B Natural High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B Cleavage Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B Cleavage Low</Data>
+            <Data name="MonkBra7B Cleavage Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B Cleavage High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B Cleavage High</Data>
+            <Data name="MonkBra7B Cleavage High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B BCup Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B BCup Low</Data>
+            <Data name="MonkBra7B BCup Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B BCup High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B BCup High</Data>
+            <Data name="MonkBra7B BCup High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="MonkRobes7BUNP Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7BUNP Low</Data>
+            <Data name="MonkBra7BUNP Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="MonkRobes7BUNP High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7BUNP High</Data>
+            <Data name="MonkBra7BUNP High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B Oppai Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B Oppai Low</Data>
+            <Data name="MonkBra7B Oppai Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B Oppai High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B Oppai High</Data>
+            <Data name="MonkBra7B Oppai High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B CH Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B CH Low</Data>
+            <Data name="MonkBra7B CH Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="MonkRobes7B CH High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobes7B CH High</Data>
+            <Data name="MonkBra7B CH High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBra7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNP Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNP Low</Data>
+            <Data name="MonkBraUNP Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNP High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNP High</Data>
+            <Data name="MonkBraUNP High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNP Pushup Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNP Pushup Low</Data>
+            <Data name="MonkBraUNP Pushup Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNP Pushup High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNP Pushup High</Data>
+            <Data name="MonkBraUNP Pushup High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNP Skinny Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNP Skinny Low</Data>
+            <Data name="MonkBraUNP Skinny Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNP Skinny High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNP Skinny High</Data>
+            <Data name="MonkBraUNP Skinny High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNP Perky Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNP Perky Low</Data>
+            <Data name="MonkBraUNP Perky Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNP Perky High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNP Perky High</Data>
+            <Data name="MonkBraUNP Perky High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPB Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPB Low</Data>
+            <Data name="MonkBraUNPB Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPB High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPB High</Data>
+            <Data name="MonkBraUNPB High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPB Chapi" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPB Chapi</Data>
+            <Data name="MonkBraUNPB Chapi" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPB Oppai v1" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPB Oppai v1</Data>
+            <Data name="MonkBraUNPB Oppai v1" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPB Oppai v3.2 Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPB Oppai v3.2 Low</Data>
+            <Data name="MonkBraUNPB Oppai v3.2 Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPB Oppai v3.2 High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPB Oppai v3.2 High</Data>
+            <Data name="MonkBraUNPB Oppai v3.2 High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPetite Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPetite Low</Data>
+            <Data name="MonkBraUNPetite Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPetite High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPetite High</Data>
+            <Data name="MonkBraUNPetite High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPC Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPC Low</Data>
+            <Data name="MonkBraUNPC Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPC High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPC High</Data>
+            <Data name="MonkBraUNPC High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPCM Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPCM Low</Data>
+            <Data name="MonkBraUNPCM Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPCM High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPCM High</Data>
+            <Data name="MonkBraUNPCM High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPSH Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPSH Low</Data>
+            <Data name="MonkBraUNPSH Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPSH High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPSH High</Data>
+            <Data name="MonkBraUNPSH High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPK Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPK Low</Data>
+            <Data name="MonkBraUNPK Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPK High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPK High</Data>
+            <Data name="MonkBraUNPK High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPK Bonus Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPK Bonus Low</Data>
+            <Data name="MonkBraUNPK Bonus Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPK Bonus High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPK Bonus High</Data>
+            <Data name="MonkBraUNPK Bonus High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUN7B Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUN7B Low</Data>
+            <Data name="MonkBraUN7B Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUN7B High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUN7B High</Data>
+            <Data name="MonkBraUN7B High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPBB Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPBB Low</Data>
+            <Data name="MonkBraUNPBB Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPBB High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPBB High</Data>
+            <Data name="MonkBraUNPBB High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesSeraphim Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesSeraphim Low</Data>
+            <Data name="MonkBraSeraphim Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="MonkRobesSeraphim High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesSeraphim High</Data>
+            <Data name="MonkBraSeraphim High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesDemonfet Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesDemonfet Low</Data>
+            <Data name="MonkBraDemonfet Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="MonkRobesDemonfet High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesDemonfet High</Data>
+            <Data name="MonkBraDemonfet High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesDream Girl Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesDream Girl Low</Data>
+            <Data name="MonkBraDream Girl Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="MonkRobesDream Girl High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesDream Girl High</Data>
+            <Data name="MonkBraDream Girl High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesTop Model Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesTop Model Low</Data>
+            <Data name="MonkBraTop Model Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="MonkRobesTop Model High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesTop Model High</Data>
+            <Data name="MonkBraTop Model High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesLeito Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesLeito Low</Data>
+            <Data name="MonkBraLeito Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="MonkRobesLeito High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesLeito High</Data>
+            <Data name="MonkBraLeito High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPF Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPF Low</Data>
+            <Data name="MonkBraUNPF Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPF High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPF High</Data>
+            <Data name="MonkBraUNPF High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPFx Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPFx Low</Data>
+            <Data name="MonkBraUNPFx Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="MonkRobesUNPFx High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesUNPFx High</Data>
+            <Data name="MonkBraUNPFx High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesCNHF Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesCNHF Low</Data>
+            <Data name="MonkBraCNHF Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="MonkRobesCNHF High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesCNHF High</Data>
+            <Data name="MonkBraCNHF High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesCNHF Bonus Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesCNHF Bonus Low</Data>
+            <Data name="MonkBraCNHF Bonus Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="MonkRobesCNHF Bonus High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesCNHF Bonus High</Data>
+            <Data name="MonkBraCNHF Bonus High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesMCBM Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesMCBM Low</Data>
+            <Data name="MonkBraMCBM Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="MonkRobesMCBM High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesMCBM High</Data>
+            <Data name="MonkBraMCBM High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesVenus Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesVenus Low</Data>
+            <Data name="MonkBraVenus Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="MonkRobesVenus High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesVenus High</Data>
+            <Data name="MonkBraVenus High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesZGGB-R2 Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesZGGB-R2 Low</Data>
+            <Data name="MonkBraZGGB-R2 Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="MonkRobesZGGB-R2 High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesZGGB-R2 High</Data>
+            <Data name="MonkBraZGGB-R2 High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesManga Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesManga Low</Data>
+            <Data name="MonkBraManga Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="MonkRobesManga High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesManga High</Data>
+            <Data name="MonkBraManga High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="MonkRobesCHSBHC Low" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesCHSBHC Low</Data>
+            <Data name="MonkBraCHSBHC Low" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="MonkRobesCHSBHC High" target="MonkRobes" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkRobesCHSBHC High</Data>
+            <Data name="MonkBraCHSBHC High" target="MonkBra" local="true">DCC - CT77 Monk Variant UUNP s48.osd\MonkBraCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,231 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Gynoid Hands Base">
+        <DataFolder>Dwarven Cyborg Collection Gynoid</DataFolder>
+        <SourceFile>Dwarven Gynoid Hands Base.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Gynoid\gauntlet</OutputPath>
+        <OutputFile GenWeights="true">hands</OutputFile>
+        <Shape target="DHands">DHands</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="DHands7B Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="DHands7B High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="DHands7B Bombshell Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="DHands7B Bombshell High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="DHands7B Natural Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="DHands7B Natural High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="DHands7B Cleavage Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="DHands7B Cleavage High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="DHands7B BCup Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="DHands7B BCup High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="DHands7BUNP Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="DHands7BUNP High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="DHands7B Oppai Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="DHands7B Oppai High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="DHands7B CH Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="DHands7B CH High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHands7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNP Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="DHandsUNP High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNP Pushup Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="DHandsUNP Pushup High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNP Skinny Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="DHandsUNP Skinny High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNP Perky Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="DHandsUNP Perky High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPB Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPB High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="DHandsUNPB Chapi" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPetite Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPetite High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="DHandsUNPB Oppai v1" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPB Oppai v3.2 Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPB Oppai v3.2 High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPC Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPC High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPCM Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPCM High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPSH Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPSH High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPK Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPK High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPK Bonus Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPK Bonus High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="DHandsUN7B Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="DHandsUN7B High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPBB Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPBB High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="DHandsSeraphim Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="DHandsSeraphim High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="DHandsDemonfet Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="DHandsDemonfet High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="DHandsDream Girl Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="DHandsDream Girl High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="DHandsTop Model Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="DHandsTop Model High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="DHandsLeito Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="DHandsLeito High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPF Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPF High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="DHandsUNPFx Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="DHandsUNPFx High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="DHandsCNHF Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="DHandsCNHF High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="DHandsCNHF Bonus Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="DHandsCNHF Bonus High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="DHandsMCBM Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="DHandsMCBM High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="DHandsVenus Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="DHandsVenus High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="DHandsZGGB-R2 Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="DHandsZGGB-R2 High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="DHandsManga Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="DHandsManga High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="DHandsCHSBHC Low" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="DHandsCHSBHC High" target="DHands" local="true">Dwarven Gynoid Hands Base.osd\DHandsCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

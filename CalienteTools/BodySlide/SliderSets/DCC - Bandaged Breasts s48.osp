@@ -1,0 +1,342 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - Bandaged Breasts s48">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - Bandaged Breasts s48.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">Bandaged Breasts s48</OutputFile>
+        <Shape target="top_0">top_0</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="top_0Breasts" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="top_0BreastsSmall" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="top_0BreastsSH" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="top_0BreastsSSH" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="top_0BreastsFantasy" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="top_0DoubleMelon" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="top_0BreastCleavage" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="top_0BreastFlatness" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="top_0BreastGravity" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="top_0PushUp" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="top_0BreastHeight" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="top_0BreastPerkiness" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="top_0BreastWidth" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="top_0NippleDistance" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0NippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="top_0NipplePerkiness" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="top_0NippleLength" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0NippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="top_0NippleSize" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0NippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="top_0NippleAreola" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="top_0NippleUp" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="top_0NippleDown" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0NippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="top_0NippleTip" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0NippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="top_0Arms" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Arms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="top_0ChubbyArms" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0ChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="top_0ShoulderSmooth" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="top_0ShoulderWidth" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0ShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="top_0BigTorso" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="top_0Waist" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Waist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="top_0WideWaistLine" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0WideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="top_0ChubbyWaist" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0ChubbyWaist</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="top_0BigBelly" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="top_0PregnancyBelly" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0PregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="top_0Back" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Back</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="top_0Butt" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Butt</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="top_0ButtShape2" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0ButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="top_0BigButt" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0BigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="top_0ChubbyButt" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0ChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="top_0AppleCheeks" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0AppleCheeks</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="top_07B Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="top_07B High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="top_07B Bombshell Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="top_07B Bombshell High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="top_07B Natural Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="top_07B Natural High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="top_07B Cleavage Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="top_07B Cleavage High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="top_07B BCup Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="top_07B BCup High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="top_07BUNP Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="top_07BUNP High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="top_07B Oppai Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="top_07B Oppai High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="top_07B CH Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="top_07B CH High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_07B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="top_0UNP Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="top_0UNP High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="top_0UNP Pushup Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="top_0UNP Pushup High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="top_0UNP Skinny Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="top_0UNP Skinny High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="top_0UNP Perky Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="top_0UNP Perky High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPB Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="top_0UNPB High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="top_0UNPB Chapi" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="top_0UNPB Oppai v1" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPB Oppai v3.2 Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="top_0UNPB Oppai v3.2 High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPetite Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="top_0UNPetite High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPC Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="top_0UNPC High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPCM Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="top_0UNPCM High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPSH Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="top_0UNPSH High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPK Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="top_0UNPK High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPK Bonus Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="top_0UNPK Bonus High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="top_0UN7B Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="top_0UN7B High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPBB Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="top_0UNPBB High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="top_0Seraphim Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="top_0Seraphim High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="top_0Demonfet Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="top_0Demonfet High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="top_0Dream Girl Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="top_0Dream Girl High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="top_0Top Model Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="top_0Top Model High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="top_0Leito Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="top_0Leito High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPF Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="top_0UNPF High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="top_0UNPFx Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="top_0UNPFx High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="top_0CNHF Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="top_0CNHF High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="top_0CNHF Bonus Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="top_0CNHF Bonus High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="top_0MCBM Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="top_0MCBM High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="top_0Venus Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="top_0Venus High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="top_0ZGGB-R2 Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="top_0ZGGB-R2 High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="top_0Manga Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="top_0Manga High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="top_0CHSBHC Low" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="top_0CHSBHC High" target="top_0" local="true">DCC - Bandaged Breasts s48.osd\top_0CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

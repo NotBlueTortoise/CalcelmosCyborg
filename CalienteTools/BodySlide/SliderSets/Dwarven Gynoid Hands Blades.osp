@@ -1,0 +1,231 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Gynoid Hands Blades">
+        <DataFolder>Dwarven Cyborg Collection Gynoid</DataFolder>
+        <SourceFile>Dwarven Gynoid Hands Blades.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Gynoid\gauntlet</OutputPath>
+        <OutputFile GenWeights="true">handblades</OutputFile>
+        <Shape target="HandBlades:1">HandBlades:1</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B Bombshell Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B Bombshell High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B Natural Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B Natural High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B Cleavage Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B Cleavage High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B BCup Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B BCup High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:17BUNP Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="HandBlades:17BUNP High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B Oppai Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B Oppai High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B CH Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="HandBlades:17B CH High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:17B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNP Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNP High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNP Pushup Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNP Pushup High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNP Skinny Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNP Skinny High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNP Perky Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNP Perky High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPB Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPB High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPB Chapi" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPetite Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPetite High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPB Oppai v1" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPB Oppai v3.2 Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPB Oppai v3.2 High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPC Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPC High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPCM Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPCM High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPSH Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPSH High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPK Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPK High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPK Bonus Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPK Bonus High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UN7B Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UN7B High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPBB Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPBB High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Seraphim Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Seraphim High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Demonfet Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Demonfet High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Dream Girl Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Dream Girl High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Top Model Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Top Model High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Leito Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Leito High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPF Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPF High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPFx Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1UNPFx High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1CNHF Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1CNHF High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1CNHF Bonus Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1CNHF Bonus High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1MCBM Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1MCBM High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Venus Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Venus High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1ZGGB-R2 Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1ZGGB-R2 High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Manga Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1Manga High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="HandBlades:1CHSBHC Low" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="HandBlades:1CHSBHC High" target="HandBlades:1" local="true">Dwarven Gynoid Hands Blades.osd\HandBlades:1CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

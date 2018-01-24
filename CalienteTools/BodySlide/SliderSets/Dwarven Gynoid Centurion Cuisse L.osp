@@ -1,0 +1,291 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Gynoid Centurion Cuisse L">
+        <DataFolder>Dwarven Cyborg Collection Gynoid</DataFolder>
+        <SourceFile>Dwarven Gynoid Centurion Cuisse L.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Gynoid\leg</OutputPath>
+        <OutputFile GenWeights="true">centurioncuissel</OutputFile>
+        <Shape target="CuisseL">CuisseL</Shape>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="CuisseLBigTorso" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLBigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="CuisseLPregnancyBelly" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="CuisseLTummyTuck" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLTummyTuck</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="CuisseLHipbone" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="CuisseLHips" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="CuisseLButtCrack" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="CuisseLButt" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="CuisseLButtSmall" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="CuisseLButtShape2" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="CuisseLBigButt" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="CuisseLChubbyButt" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="CuisseLAppleCheeks" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="CuisseLRoundAss" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="CuisseLSlimThighs" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="CuisseLThighs" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="CuisseLChubbyLegs" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="CuisseLLegs" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="CuisseLKneeHeight" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="CuisseLCalfSize" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="CuisseLCalfSmooth" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLCalfSmooth</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="CuisseL7B Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="CuisseL7B High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="CuisseL7B Bombshell Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="CuisseL7B Bombshell High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="CuisseL7B Natural Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="CuisseL7B Natural High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="CuisseL7B Cleavage Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="CuisseL7B Cleavage High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="CuisseL7B BCup Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="CuisseL7B BCup High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="CuisseL7BUNP Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="CuisseL7BUNP High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="CuisseL7B Oppai Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="CuisseL7B Oppai High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="CuisseL7B CH Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="CuisseL7B CH High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseL7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNP Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNP High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNP Pushup Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNP Pushup High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNP Skinny Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNP Skinny High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNP Perky Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNP Perky High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPB Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPB High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPB Chapi" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPB Oppai v1" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPB Oppai v3.2 Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPB Oppai v3.2 High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPetite Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPetite High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPC Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPC High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPCM Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPCM High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPSH Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPSH High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPK Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPK High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPK Bonus Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPK Bonus High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUN7B Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="CuisseLUN7B High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPBB Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPBB High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="CuisseLSeraphim Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="CuisseLSeraphim High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="CuisseLDemonfet Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="CuisseLDemonfet High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="CuisseLDream Girl Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="CuisseLDream Girl High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="CuisseLTop Model Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="CuisseLTop Model High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="CuisseLLeito Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="CuisseLLeito High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPF Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPF High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPFx Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="CuisseLUNPFx High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="CuisseLCNHF Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="CuisseLCNHF High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="CuisseLCNHF Bonus Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="CuisseLCNHF Bonus High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="CuisseLMCBM Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="CuisseLMCBM High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="CuisseLVenus Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="CuisseLVenus High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="CuisseLZGGB-R2 Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="CuisseLZGGB-R2 High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="CuisseLManga Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="CuisseLManga High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="CuisseLCHSBHC Low" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="CuisseLCHSBHC High" target="CuisseL" local="true">Dwarven Gynoid Centurion Cuisse L.osd\CuisseLCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

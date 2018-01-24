@@ -1,0 +1,381 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - Daywalker Leather Leotard UUNP s48">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - Daywalker Leather Leotard UUNP s48.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">StuddedTop4Reshape s48</OutputFile>
+        <Shape target="top">top</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="topBreasts" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="topBreastsSmall" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="topBreastsSH" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="topBreastsSSH" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="topBreastsFantasy" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="topDoubleMelon" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="topBreastCleavage" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="topBreastFlatness" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="topBreastGravity" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="topPushUp" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="topBreastHeight" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="topBreastPerkiness" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="topBreastWidth" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="topNippleDistance" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="topNipplePerkiness" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="topNippleLength" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="topNippleSize" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="topNippleAreola" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="topNippleUp" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="topNippleDown" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="topNippleTip" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="topArms" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="topChubbyArms" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="topShoulderSmooth" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="topShoulderWidth" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="topBigTorso" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="topWaist" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="topWideWaistLine" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="topChubbyWaist" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="topBelly" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="topBigBelly" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="topPregnancyBelly" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="topTummyTuck" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="topBack" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="topHipbone" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="topHips" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="topButtCrack" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="topButt" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="topButtSmall" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="topButtShape2" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="topBigButt" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="topChubbyButt" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="topAppleCheeks" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="topRoundAss" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="topSlimThighs" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="topThighs" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="topChubbyLegs" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="topLegs" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="topKneeHeight" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topKneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="topNeck" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="top7B Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="top7B High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="top7B Bombshell Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="top7B Bombshell High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="top7B Natural Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="top7B Natural High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="top7B Cleavage Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="top7B Cleavage High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="top7B BCup Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="top7B BCup High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="top7BUNP Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="top7BUNP High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="top7B Oppai Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="top7B Oppai High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="top7B CH Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="top7B CH High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\top7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="topUNP Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="topUNP High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="topUNP Pushup Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="topUNP Pushup High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="topUNP Skinny Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="topUNP Skinny High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="topUNP Perky Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="topUNP Perky High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="topUNPB Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="topUNPB High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="topUNPB Chapi" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="topUNPB Oppai v1" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="topUNPB Oppai v3.2 Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="topUNPB Oppai v3.2 High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="topUNPetite Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="topUNPetite High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="topUNPC Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="topUNPC High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="topUNPCM Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="topUNPCM High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="topUNPSH Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="topUNPSH High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="topUNPK Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="topUNPK High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="topUNPK Bonus Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="topUNPK Bonus High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="topUN7B Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="topUN7B High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="topUNPBB Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="topUNPBB High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="topSeraphim Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="topSeraphim High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="topDemonfet Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="topDemonfet High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="topDream Girl Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="topDream Girl High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="topTop Model Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="topTop Model High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="topLeito Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="topLeito High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="topUNPF Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="topUNPF High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="topUNPFx Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="topUNPFx High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="topCNHF Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="topCNHF High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="topCNHF Bonus Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="topCNHF Bonus High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="topMCBM Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="topMCBM High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="topVenus Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="topVenus High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="topZGGB-R2 Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="topZGGB-R2 High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="topManga Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="topManga High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="topCHSBHC Low" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="topCHSBHC High" target="top" local="true">DCC - Daywalker Leather Leotard UUNP s48.osd\topCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

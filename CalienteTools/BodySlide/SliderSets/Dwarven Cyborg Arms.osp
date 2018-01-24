@@ -1,0 +1,671 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Cyborg Arms">
+        <DataFolder>Dwarven Cyborg Collection Bikini</DataFolder>
+        <SourceFile>Dwarven Cyborg Arms.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Bikini</OutputPath>
+        <OutputFile GenWeights="true">c_3rearmed</OutputFile>
+        <Shape target="DwarvenArmorF.000">DwarvenArmorF.000</Shape>
+        <Shape target="DwarvenArmorF.001">DwarvenArmorF.001</Shape>
+        <Shape target="DwarvenArmorF.002">DwarvenArmorF.002</Shape>
+        <Shape target="UUNP_outfit" DataFolder="WTF Dwarven Cyborg B">UUNP_outfit</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitBreasts" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitBreastsSmall" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBreastsSH" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBreastsSSH" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBreastsFantasy" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitDoubleMelon" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBreastCleavage" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBreastFlatness" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBreastGravity" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitPushUp" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBreastHeight" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBreastPerkiness" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBreastWidth" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitNippleDistance" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitNippleDistance</Data>
+            <Data name="DwarvenArmorF.002NippleDistance" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002NippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitNipplePerkiness" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitNippleLength" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitNippleSize" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitNippleSize</Data>
+            <Data name="DwarvenArmorF.002NippleSize" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002NippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitNippleAreola" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitNippleAreola</Data>
+            <Data name="DwarvenArmorF.000NippleAreola" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000NippleAreola</Data>
+            <Data name="DwarvenArmorF.002NippleAreola" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitNippleUp" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitNippleUp</Data>
+            <Data name="DwarvenArmorF.000NippleUp" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000NippleUp</Data>
+            <Data name="DwarvenArmorF.002NippleUp" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitNippleDown" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitNippleDown</Data>
+            <Data name="DwarvenArmorF.000NippleDown" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000NippleDown</Data>
+            <Data name="DwarvenArmorF.002NippleDown" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002NippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitNippleTip" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitArms" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitArms</Data>
+            <Data name="DwarvenArmorF.000Arms" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Arms</Data>
+            <Data name="DwarvenArmorF.002Arms" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Arms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitChubbyArms" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitChubbyArms</Data>
+            <Data name="DwarvenArmorF.000ChubbyArms" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ChubbyArms</Data>
+            <Data name="DwarvenArmorF.002ChubbyArms" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002ChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitShoulderSmooth" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitShoulderSmooth</Data>
+            <Data name="DwarvenArmorF.000ShoulderSmooth" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitShoulderWidth" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitShoulderWidth</Data>
+            <Data name="DwarvenArmorF.000ShoulderWidth" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ShoulderWidth</Data>
+            <Data name="DwarvenArmorF.002ShoulderWidth" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002ShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBigTorso" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBigTorso</Data>
+            <Data name="DwarvenArmorF.000BigTorso" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000BigTorso</Data>
+            <Data name="DwarvenArmorF.002BigTorso" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002BigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitWaist" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitWaist</Data>
+            <Data name="DwarvenArmorF.000Waist" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Waist</Data>
+            <Data name="DwarvenArmorF.002Waist" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Waist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitWideWaistLine" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitWideWaistLine</Data>
+            <Data name="DwarvenArmorF.000WideWaistLine" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000WideWaistLine</Data>
+            <Data name="DwarvenArmorF.002WideWaistLine" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002WideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitChubbyWaist" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitChubbyWaist</Data>
+            <Data name="DwarvenArmorF.000ChubbyWaist" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ChubbyWaist</Data>
+            <Data name="DwarvenArmorF.002ChubbyWaist" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002ChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBelly" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBelly</Data>
+            <Data name="DwarvenArmorF.002Belly" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBigBelly" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBigBelly</Data>
+            <Data name="DwarvenArmorF.002BigBelly" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002BigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitPregnancyBelly" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitPregnancyBelly</Data>
+            <Data name="DwarvenArmorF.000PregnancyBelly" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000PregnancyBelly</Data>
+            <Data name="DwarvenArmorF.002PregnancyBelly" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002PregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitTummyTuck" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitTummyTuck</Data>
+            <Data name="DwarvenArmorF.000TummyTuck" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000TummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBack" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBack</Data>
+            <Data name="DwarvenArmorF.000Back" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Back</Data>
+            <Data name="DwarvenArmorF.002Back" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Back</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitHipbone" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitHipbone</Data>
+            <Data name="DwarvenArmorF.000Hipbone" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Hipbone</Data>
+            <Data name="DwarvenArmorF.001Hipbone" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Hipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitHips" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitHips</Data>
+            <Data name="DwarvenArmorF.000Hips" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Hips</Data>
+            <Data name="DwarvenArmorF.002Hips" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Hips</Data>
+            <Data name="DwarvenArmorF.001Hips" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Hips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitButtCrack" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitButtCrack</Data>
+            <Data name="DwarvenArmorF.000ButtCrack" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitButt" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitButt</Data>
+            <Data name="DwarvenArmorF.000Butt" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Butt</Data>
+            <Data name="DwarvenArmorF.002Butt" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Butt</Data>
+            <Data name="DwarvenArmorF.001Butt" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Butt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitButtSmall" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitButtSmall</Data>
+            <Data name="DwarvenArmorF.000ButtSmall" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ButtSmall</Data>
+            <Data name="DwarvenArmorF.002ButtSmall" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002ButtSmall</Data>
+            <Data name="DwarvenArmorF.001ButtSmall" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001ButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitButtShape2" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitButtShape2</Data>
+            <Data name="DwarvenArmorF.000ButtShape2" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ButtShape2</Data>
+            <Data name="DwarvenArmorF.002ButtShape2" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002ButtShape2</Data>
+            <Data name="DwarvenArmorF.001ButtShape2" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001ButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBigButt" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitBigButt</Data>
+            <Data name="DwarvenArmorF.000BigButt" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000BigButt</Data>
+            <Data name="DwarvenArmorF.002BigButt" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002BigButt</Data>
+            <Data name="DwarvenArmorF.001BigButt" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001BigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitChubbyButt" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitChubbyButt</Data>
+            <Data name="DwarvenArmorF.000ChubbyButt" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ChubbyButt</Data>
+            <Data name="DwarvenArmorF.002ChubbyButt" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002ChubbyButt</Data>
+            <Data name="DwarvenArmorF.001ChubbyButt" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001ChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitAppleCheeks" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitAppleCheeks</Data>
+            <Data name="DwarvenArmorF.000AppleCheeks" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000AppleCheeks</Data>
+            <Data name="DwarvenArmorF.002AppleCheeks" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002AppleCheeks</Data>
+            <Data name="DwarvenArmorF.001AppleCheeks" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001AppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitRoundAss" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitRoundAss</Data>
+            <Data name="DwarvenArmorF.000RoundAss" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000RoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitSlimThighs" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitSlimThighs</Data>
+            <Data name="DwarvenArmorF.000SlimThighs" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000SlimThighs</Data>
+            <Data name="DwarvenArmorF.001SlimThighs" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001SlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitThighs" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitThighs</Data>
+            <Data name="DwarvenArmorF.000Thighs" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Thighs</Data>
+            <Data name="DwarvenArmorF.001Thighs" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Thighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitChubbyLegs" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitChubbyLegs</Data>
+            <Data name="DwarvenArmorF.000ChubbyLegs" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ChubbyLegs</Data>
+            <Data name="DwarvenArmorF.001ChubbyLegs" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001ChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitLegs" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitLegs</Data>
+            <Data name="DwarvenArmorF.000Legs" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Legs</Data>
+            <Data name="DwarvenArmorF.001Legs" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Legs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitKneeHeight" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitKneeHeight</Data>
+            <Data name="DwarvenArmorF.000KneeHeight" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000KneeHeight</Data>
+            <Data name="DwarvenArmorF.001KneeHeight" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001KneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="UUNP_outfitNeck" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B Low</Data>
+            <Data name="DwarvenArmorF.0007B Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B Low</Data>
+            <Data name="DwarvenArmorF.0027B Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B Low</Data>
+            <Data name="DwarvenArmorF.0017B Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B High</Data>
+            <Data name="DwarvenArmorF.0007B High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B High</Data>
+            <Data name="DwarvenArmorF.0027B High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B High</Data>
+            <Data name="DwarvenArmorF.0017B High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Bombshell Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B Bombshell Low</Data>
+            <Data name="DwarvenArmorF.0007B Bombshell Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B Bombshell Low</Data>
+            <Data name="DwarvenArmorF.0027B Bombshell Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B Bombshell Low</Data>
+            <Data name="DwarvenArmorF.0017B Bombshell Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Bombshell High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B Bombshell High</Data>
+            <Data name="DwarvenArmorF.0007B Bombshell High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B Bombshell High</Data>
+            <Data name="DwarvenArmorF.0027B Bombshell High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B Bombshell High</Data>
+            <Data name="DwarvenArmorF.0017B Bombshell High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Natural Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B Natural Low</Data>
+            <Data name="DwarvenArmorF.0007B Natural Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B Natural Low</Data>
+            <Data name="DwarvenArmorF.0027B Natural Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B Natural Low</Data>
+            <Data name="DwarvenArmorF.0017B Natural Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Natural High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B Natural High</Data>
+            <Data name="DwarvenArmorF.0007B Natural High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B Natural High</Data>
+            <Data name="DwarvenArmorF.0027B Natural High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B Natural High</Data>
+            <Data name="DwarvenArmorF.0017B Natural High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Cleavage Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B Cleavage Low</Data>
+            <Data name="DwarvenArmorF.0007B Cleavage Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B Cleavage Low</Data>
+            <Data name="DwarvenArmorF.0027B Cleavage Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B Cleavage Low</Data>
+            <Data name="DwarvenArmorF.0017B Cleavage Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Cleavage High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B Cleavage High</Data>
+            <Data name="DwarvenArmorF.0007B Cleavage High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B Cleavage High</Data>
+            <Data name="DwarvenArmorF.0027B Cleavage High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B Cleavage High</Data>
+            <Data name="DwarvenArmorF.0017B Cleavage High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B BCup Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B BCup Low</Data>
+            <Data name="DwarvenArmorF.0007B BCup Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B BCup Low</Data>
+            <Data name="DwarvenArmorF.0027B BCup Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B BCup Low</Data>
+            <Data name="DwarvenArmorF.0017B BCup Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B BCup High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B BCup High</Data>
+            <Data name="DwarvenArmorF.0007B BCup High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B BCup High</Data>
+            <Data name="DwarvenArmorF.0027B BCup High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B BCup High</Data>
+            <Data name="DwarvenArmorF.0017B BCup High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7BUNP Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7BUNP Low</Data>
+            <Data name="DwarvenArmorF.0007BUNP Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007BUNP Low</Data>
+            <Data name="DwarvenArmorF.0027BUNP Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027BUNP Low</Data>
+            <Data name="DwarvenArmorF.0017BUNP Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7BUNP High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7BUNP High</Data>
+            <Data name="DwarvenArmorF.0007BUNP High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007BUNP High</Data>
+            <Data name="DwarvenArmorF.0027BUNP High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027BUNP High</Data>
+            <Data name="DwarvenArmorF.0017BUNP High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Oppai Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B Oppai Low</Data>
+            <Data name="DwarvenArmorF.0007B Oppai Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B Oppai Low</Data>
+            <Data name="DwarvenArmorF.0027B Oppai Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B Oppai Low</Data>
+            <Data name="DwarvenArmorF.0017B Oppai Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Oppai High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B Oppai High</Data>
+            <Data name="DwarvenArmorF.0007B Oppai High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B Oppai High</Data>
+            <Data name="DwarvenArmorF.0027B Oppai High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B Oppai High</Data>
+            <Data name="DwarvenArmorF.0017B Oppai High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B CH Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B CH Low</Data>
+            <Data name="DwarvenArmorF.0007B CH Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B CH Low</Data>
+            <Data name="DwarvenArmorF.0027B CH Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B CH Low</Data>
+            <Data name="DwarvenArmorF.0017B CH Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B CH High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfit7B CH High</Data>
+            <Data name="DwarvenArmorF.0007B CH High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0007B CH High</Data>
+            <Data name="DwarvenArmorF.0027B CH High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0027B CH High</Data>
+            <Data name="DwarvenArmorF.0017B CH High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.0017B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNP Low</Data>
+            <Data name="DwarvenArmorF.000UNP Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNP Low</Data>
+            <Data name="DwarvenArmorF.002UNP Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNP Low</Data>
+            <Data name="DwarvenArmorF.001UNP Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNP High</Data>
+            <Data name="DwarvenArmorF.000UNP High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNP High</Data>
+            <Data name="DwarvenArmorF.002UNP High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNP High</Data>
+            <Data name="DwarvenArmorF.001UNP High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Pushup Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNP Pushup Low</Data>
+            <Data name="DwarvenArmorF.000UNP Pushup Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNP Pushup Low</Data>
+            <Data name="DwarvenArmorF.002UNP Pushup Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNP Pushup Low</Data>
+            <Data name="DwarvenArmorF.001UNP Pushup Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Pushup High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNP Pushup High</Data>
+            <Data name="DwarvenArmorF.000UNP Pushup High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNP Pushup High</Data>
+            <Data name="DwarvenArmorF.002UNP Pushup High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNP Pushup High</Data>
+            <Data name="DwarvenArmorF.001UNP Pushup High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Skinny Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNP Skinny Low</Data>
+            <Data name="DwarvenArmorF.000UNP Skinny Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNP Skinny Low</Data>
+            <Data name="DwarvenArmorF.002UNP Skinny Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNP Skinny Low</Data>
+            <Data name="DwarvenArmorF.001UNP Skinny Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Skinny High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNP Skinny High</Data>
+            <Data name="DwarvenArmorF.000UNP Skinny High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNP Skinny High</Data>
+            <Data name="DwarvenArmorF.002UNP Skinny High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNP Skinny High</Data>
+            <Data name="DwarvenArmorF.001UNP Skinny High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Perky Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNP Perky Low</Data>
+            <Data name="DwarvenArmorF.000UNP Perky Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNP Perky Low</Data>
+            <Data name="DwarvenArmorF.002UNP Perky Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNP Perky Low</Data>
+            <Data name="DwarvenArmorF.001UNP Perky Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Perky High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNP Perky High</Data>
+            <Data name="DwarvenArmorF.000UNP Perky High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNP Perky High</Data>
+            <Data name="DwarvenArmorF.002UNP Perky High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNP Perky High</Data>
+            <Data name="DwarvenArmorF.001UNP Perky High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPB Low</Data>
+            <Data name="DwarvenArmorF.000UNPB Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPB Low</Data>
+            <Data name="DwarvenArmorF.002UNPB Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPB Low</Data>
+            <Data name="DwarvenArmorF.001UNPB Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPB High</Data>
+            <Data name="DwarvenArmorF.000UNPB High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPB High</Data>
+            <Data name="DwarvenArmorF.002UNPB High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPB High</Data>
+            <Data name="DwarvenArmorF.001UNPB High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Chapi" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPB Chapi</Data>
+            <Data name="DwarvenArmorF.000UNPB Chapi" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPB Chapi</Data>
+            <Data name="DwarvenArmorF.002UNPB Chapi" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPB Chapi</Data>
+            <Data name="DwarvenArmorF.001UNPB Chapi" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Oppai v1" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPB Oppai v1</Data>
+            <Data name="DwarvenArmorF.000UNPB Oppai v1" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPB Oppai v1</Data>
+            <Data name="DwarvenArmorF.002UNPB Oppai v1" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPB Oppai v1</Data>
+            <Data name="DwarvenArmorF.001UNPB Oppai v1" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Oppai v3.2 Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPB Oppai v3.2 Low</Data>
+            <Data name="DwarvenArmorF.000UNPB Oppai v3.2 Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPB Oppai v3.2 Low</Data>
+            <Data name="DwarvenArmorF.002UNPB Oppai v3.2 Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPB Oppai v3.2 Low</Data>
+            <Data name="DwarvenArmorF.001UNPB Oppai v3.2 Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Oppai v3.2 High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPB Oppai v3.2 High</Data>
+            <Data name="DwarvenArmorF.000UNPB Oppai v3.2 High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPB Oppai v3.2 High</Data>
+            <Data name="DwarvenArmorF.002UNPB Oppai v3.2 High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPB Oppai v3.2 High</Data>
+            <Data name="DwarvenArmorF.001UNPB Oppai v3.2 High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPetite Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPetite Low</Data>
+            <Data name="DwarvenArmorF.000UNPetite Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPetite Low</Data>
+            <Data name="DwarvenArmorF.002UNPetite Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPetite Low</Data>
+            <Data name="DwarvenArmorF.001UNPetite Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPetite High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPetite High</Data>
+            <Data name="DwarvenArmorF.000UNPetite High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPetite High</Data>
+            <Data name="DwarvenArmorF.002UNPetite High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPetite High</Data>
+            <Data name="DwarvenArmorF.001UNPetite High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPC Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPC Low</Data>
+            <Data name="DwarvenArmorF.000UNPC Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPC Low</Data>
+            <Data name="DwarvenArmorF.002UNPC Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPC Low</Data>
+            <Data name="DwarvenArmorF.001UNPC Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPC High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPC High</Data>
+            <Data name="DwarvenArmorF.000UNPC High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPC High</Data>
+            <Data name="DwarvenArmorF.002UNPC High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPC High</Data>
+            <Data name="DwarvenArmorF.001UNPC High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPCM Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPCM Low</Data>
+            <Data name="DwarvenArmorF.000UNPCM Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPCM Low</Data>
+            <Data name="DwarvenArmorF.002UNPCM Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPCM Low</Data>
+            <Data name="DwarvenArmorF.001UNPCM Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPCM High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPCM High</Data>
+            <Data name="DwarvenArmorF.000UNPCM High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPCM High</Data>
+            <Data name="DwarvenArmorF.002UNPCM High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPCM High</Data>
+            <Data name="DwarvenArmorF.001UNPCM High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPSH Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPSH Low</Data>
+            <Data name="DwarvenArmorF.000UNPSH Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPSH Low</Data>
+            <Data name="DwarvenArmorF.002UNPSH Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPSH Low</Data>
+            <Data name="DwarvenArmorF.001UNPSH Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPSH High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPSH High</Data>
+            <Data name="DwarvenArmorF.000UNPSH High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPSH High</Data>
+            <Data name="DwarvenArmorF.002UNPSH High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPSH High</Data>
+            <Data name="DwarvenArmorF.001UNPSH High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPK Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPK Low</Data>
+            <Data name="DwarvenArmorF.000UNPK Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPK Low</Data>
+            <Data name="DwarvenArmorF.002UNPK Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPK Low</Data>
+            <Data name="DwarvenArmorF.001UNPK Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPK High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPK High</Data>
+            <Data name="DwarvenArmorF.000UNPK High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPK High</Data>
+            <Data name="DwarvenArmorF.002UNPK High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPK High</Data>
+            <Data name="DwarvenArmorF.001UNPK High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPK Bonus Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPK Bonus Low</Data>
+            <Data name="DwarvenArmorF.000UNPK Bonus Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPK Bonus Low</Data>
+            <Data name="DwarvenArmorF.002UNPK Bonus Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPK Bonus Low</Data>
+            <Data name="DwarvenArmorF.001UNPK Bonus Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPK Bonus High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPK Bonus High</Data>
+            <Data name="DwarvenArmorF.000UNPK Bonus High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPK Bonus High</Data>
+            <Data name="DwarvenArmorF.002UNPK Bonus High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPK Bonus High</Data>
+            <Data name="DwarvenArmorF.001UNPK Bonus High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUN7B Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUN7B Low</Data>
+            <Data name="DwarvenArmorF.000UN7B Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UN7B Low</Data>
+            <Data name="DwarvenArmorF.002UN7B Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UN7B Low</Data>
+            <Data name="DwarvenArmorF.001UN7B Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUN7B High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUN7B High</Data>
+            <Data name="DwarvenArmorF.000UN7B High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UN7B High</Data>
+            <Data name="DwarvenArmorF.002UN7B High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UN7B High</Data>
+            <Data name="DwarvenArmorF.001UN7B High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPBB Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPBB Low</Data>
+            <Data name="DwarvenArmorF.000UNPBB Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPBB Low</Data>
+            <Data name="DwarvenArmorF.002UNPBB Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPBB Low</Data>
+            <Data name="DwarvenArmorF.001UNPBB Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPBB High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPBB High</Data>
+            <Data name="DwarvenArmorF.000UNPBB High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPBB High</Data>
+            <Data name="DwarvenArmorF.002UNPBB High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPBB High</Data>
+            <Data name="DwarvenArmorF.001UNPBB High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitSeraphim Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitSeraphim Low</Data>
+            <Data name="DwarvenArmorF.000Seraphim Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Seraphim Low</Data>
+            <Data name="DwarvenArmorF.002Seraphim Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Seraphim Low</Data>
+            <Data name="DwarvenArmorF.001Seraphim Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitSeraphim High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitSeraphim High</Data>
+            <Data name="DwarvenArmorF.000Seraphim High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Seraphim High</Data>
+            <Data name="DwarvenArmorF.002Seraphim High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Seraphim High</Data>
+            <Data name="DwarvenArmorF.001Seraphim High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitDemonfet Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitDemonfet Low</Data>
+            <Data name="DwarvenArmorF.000Demonfet Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Demonfet Low</Data>
+            <Data name="DwarvenArmorF.002Demonfet Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Demonfet Low</Data>
+            <Data name="DwarvenArmorF.001Demonfet Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitDemonfet High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitDemonfet High</Data>
+            <Data name="DwarvenArmorF.000Demonfet High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Demonfet High</Data>
+            <Data name="DwarvenArmorF.002Demonfet High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Demonfet High</Data>
+            <Data name="DwarvenArmorF.001Demonfet High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitDream Girl Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitDream Girl Low</Data>
+            <Data name="DwarvenArmorF.000Dream Girl Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Dream Girl Low</Data>
+            <Data name="DwarvenArmorF.002Dream Girl Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Dream Girl Low</Data>
+            <Data name="DwarvenArmorF.001Dream Girl Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitDream Girl High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitDream Girl High</Data>
+            <Data name="DwarvenArmorF.000Dream Girl High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Dream Girl High</Data>
+            <Data name="DwarvenArmorF.002Dream Girl High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Dream Girl High</Data>
+            <Data name="DwarvenArmorF.001Dream Girl High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitTop Model Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitTop Model Low</Data>
+            <Data name="DwarvenArmorF.000Top Model Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Top Model Low</Data>
+            <Data name="DwarvenArmorF.002Top Model Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Top Model Low</Data>
+            <Data name="DwarvenArmorF.001Top Model Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitTop Model High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitTop Model High</Data>
+            <Data name="DwarvenArmorF.000Top Model High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Top Model High</Data>
+            <Data name="DwarvenArmorF.002Top Model High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Top Model High</Data>
+            <Data name="DwarvenArmorF.001Top Model High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitLeito Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitLeito Low</Data>
+            <Data name="DwarvenArmorF.000Leito Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Leito Low</Data>
+            <Data name="DwarvenArmorF.002Leito Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Leito Low</Data>
+            <Data name="DwarvenArmorF.001Leito Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitLeito High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitLeito High</Data>
+            <Data name="DwarvenArmorF.000Leito High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Leito High</Data>
+            <Data name="DwarvenArmorF.002Leito High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Leito High</Data>
+            <Data name="DwarvenArmorF.001Leito High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPF Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPF Low</Data>
+            <Data name="DwarvenArmorF.000UNPF Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPF Low</Data>
+            <Data name="DwarvenArmorF.002UNPF Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPF Low</Data>
+            <Data name="DwarvenArmorF.001UNPF Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPF High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPF High</Data>
+            <Data name="DwarvenArmorF.000UNPF High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPF High</Data>
+            <Data name="DwarvenArmorF.002UNPF High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPF High</Data>
+            <Data name="DwarvenArmorF.001UNPF High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPFx Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPFx Low</Data>
+            <Data name="DwarvenArmorF.000UNPFx Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPFx Low</Data>
+            <Data name="DwarvenArmorF.002UNPFx Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPFx Low</Data>
+            <Data name="DwarvenArmorF.001UNPFx Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPFx High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitUNPFx High</Data>
+            <Data name="DwarvenArmorF.000UNPFx High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000UNPFx High</Data>
+            <Data name="DwarvenArmorF.002UNPFx High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002UNPFx High</Data>
+            <Data name="DwarvenArmorF.001UNPFx High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCNHF Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitCNHF Low</Data>
+            <Data name="DwarvenArmorF.000CNHF Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000CNHF Low</Data>
+            <Data name="DwarvenArmorF.002CNHF Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002CNHF Low</Data>
+            <Data name="DwarvenArmorF.001CNHF Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCNHF High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitCNHF High</Data>
+            <Data name="DwarvenArmorF.000CNHF High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000CNHF High</Data>
+            <Data name="DwarvenArmorF.002CNHF High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002CNHF High</Data>
+            <Data name="DwarvenArmorF.001CNHF High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCNHF Bonus Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitCNHF Bonus Low</Data>
+            <Data name="DwarvenArmorF.000CNHF Bonus Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000CNHF Bonus Low</Data>
+            <Data name="DwarvenArmorF.002CNHF Bonus Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002CNHF Bonus Low</Data>
+            <Data name="DwarvenArmorF.001CNHF Bonus Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCNHF Bonus High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitCNHF Bonus High</Data>
+            <Data name="DwarvenArmorF.000CNHF Bonus High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000CNHF Bonus High</Data>
+            <Data name="DwarvenArmorF.002CNHF Bonus High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002CNHF Bonus High</Data>
+            <Data name="DwarvenArmorF.001CNHF Bonus High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitMCBM Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitMCBM Low</Data>
+            <Data name="DwarvenArmorF.000MCBM Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000MCBM Low</Data>
+            <Data name="DwarvenArmorF.002MCBM Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002MCBM Low</Data>
+            <Data name="DwarvenArmorF.001MCBM Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitMCBM High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitMCBM High</Data>
+            <Data name="DwarvenArmorF.000MCBM High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000MCBM High</Data>
+            <Data name="DwarvenArmorF.002MCBM High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002MCBM High</Data>
+            <Data name="DwarvenArmorF.001MCBM High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitVenus Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitVenus Low</Data>
+            <Data name="DwarvenArmorF.000Venus Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Venus Low</Data>
+            <Data name="DwarvenArmorF.002Venus Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Venus Low</Data>
+            <Data name="DwarvenArmorF.001Venus Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitVenus High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitVenus High</Data>
+            <Data name="DwarvenArmorF.000Venus High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Venus High</Data>
+            <Data name="DwarvenArmorF.002Venus High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Venus High</Data>
+            <Data name="DwarvenArmorF.001Venus High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitZGGB-R2 Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitZGGB-R2 Low</Data>
+            <Data name="DwarvenArmorF.000ZGGB-R2 Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ZGGB-R2 Low</Data>
+            <Data name="DwarvenArmorF.002ZGGB-R2 Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002ZGGB-R2 Low</Data>
+            <Data name="DwarvenArmorF.001ZGGB-R2 Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitZGGB-R2 High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitZGGB-R2 High</Data>
+            <Data name="DwarvenArmorF.000ZGGB-R2 High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000ZGGB-R2 High</Data>
+            <Data name="DwarvenArmorF.002ZGGB-R2 High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002ZGGB-R2 High</Data>
+            <Data name="DwarvenArmorF.001ZGGB-R2 High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitManga Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitManga Low</Data>
+            <Data name="DwarvenArmorF.000Manga Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Manga Low</Data>
+            <Data name="DwarvenArmorF.002Manga Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Manga Low</Data>
+            <Data name="DwarvenArmorF.001Manga Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitManga High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitManga High</Data>
+            <Data name="DwarvenArmorF.000Manga High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000Manga High</Data>
+            <Data name="DwarvenArmorF.002Manga High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002Manga High</Data>
+            <Data name="DwarvenArmorF.001Manga High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCHSBHC Low" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitCHSBHC Low</Data>
+            <Data name="DwarvenArmorF.000CHSBHC Low" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000CHSBHC Low</Data>
+            <Data name="DwarvenArmorF.002CHSBHC Low" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002CHSBHC Low</Data>
+            <Data name="DwarvenArmorF.001CHSBHC Low" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCHSBHC High" target="UUNP_outfit" local="true">Dwarven Cyborg Arms.osd\UUNP_outfitCHSBHC High</Data>
+            <Data name="DwarvenArmorF.000CHSBHC High" target="DwarvenArmorF.000" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.000CHSBHC High</Data>
+            <Data name="DwarvenArmorF.002CHSBHC High" target="DwarvenArmorF.002" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.002CHSBHC High</Data>
+            <Data name="DwarvenArmorF.001CHSBHC High" target="DwarvenArmorF.001" local="true">Dwarven Cyborg Arms.osd\DwarvenArmorF.001CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

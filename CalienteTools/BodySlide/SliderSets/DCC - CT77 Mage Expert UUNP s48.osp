@@ -1,0 +1,475 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - CT77 Mage Expert UUNP s48">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - CT77 Mage Expert UUNP s48.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">magejourneymanrobesf s48</OutputFile>
+        <Shape target="JourneymanChest">JourneymanChest</Shape>
+        <Shape target="JourneymanSkirt">JourneymanSkirt</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="JourneymanChestBreasts" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="JourneymanSkirtBreastsSmall" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtBreastsSmall</Data>
+            <Data name="JourneymanChestBreastsSmall" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="JourneymanChestBreastsSH" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="JourneymanChestBreastsSSH" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="JourneymanChestBreastsFantasy" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="JourneymanChestDoubleMelon" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="JourneymanChestBreastCleavage" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="JourneymanChestBreastFlatness" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="JourneymanChestBreastGravity" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="JourneymanChestPushUp" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtBreastHeight" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtBreastHeight</Data>
+            <Data name="JourneymanChestBreastHeight" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="JourneymanChestBreastPerkiness" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="JourneymanChestBreastWidth" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="JourneymanChestNippleDistance" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="JourneymanChestNipplePerkiness" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="JourneymanChestNippleLength" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="JourneymanChestNippleSize" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="JourneymanChestNippleAreola" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="JourneymanChestNippleUp" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="JourneymanChestNippleDown" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="JourneymanChestNippleTip" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="JourneymanChestArms" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="JourneymanChestChubbyArms" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="JourneymanChestShoulderWidth" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtBigTorso" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtBigTorso</Data>
+            <Data name="JourneymanChestBigTorso" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtWaist" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtWaist</Data>
+            <Data name="JourneymanChestWaist" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtWideWaistLine" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtWideWaistLine</Data>
+            <Data name="JourneymanChestWideWaistLine" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtChubbyWaist" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtChubbyWaist</Data>
+            <Data name="JourneymanChestChubbyWaist" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtBelly" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtBelly</Data>
+            <Data name="JourneymanChestBelly" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtBigBelly" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtBigBelly</Data>
+            <Data name="JourneymanChestBigBelly" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtPregnancyBelly" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtPregnancyBelly</Data>
+            <Data name="JourneymanChestPregnancyBelly" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtTummyTuck" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtTummyTuck</Data>
+            <Data name="JourneymanChestTummyTuck" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtBack" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtBack</Data>
+            <Data name="JourneymanChestBack" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtHipbone" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtHipbone</Data>
+            <Data name="JourneymanChestHipbone" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtHips" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtHips</Data>
+            <Data name="JourneymanChestHips" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="JourneymanSkirtButtCrack" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtButtCrack</Data>
+            <Data name="JourneymanChestButtCrack" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="JourneymanSkirtButt" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtButt</Data>
+            <Data name="JourneymanChestButt" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="JourneymanSkirtButtSmall" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtButtSmall</Data>
+            <Data name="JourneymanChestButtSmall" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtButtShape2" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtButtShape2</Data>
+            <Data name="JourneymanChestButtShape2" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtBigButt" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtBigButt</Data>
+            <Data name="JourneymanChestBigButt" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtChubbyButt" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtChubbyButt</Data>
+            <Data name="JourneymanChestChubbyButt" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtAppleCheeks" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtAppleCheeks</Data>
+            <Data name="JourneymanChestAppleCheeks" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtRoundAss" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtRoundAss</Data>
+            <Data name="JourneymanChestRoundAss" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtSlimThighs" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtSlimThighs</Data>
+            <Data name="JourneymanChestSlimThighs" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtThighs" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtThighs</Data>
+            <Data name="JourneymanChestThighs" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtChubbyLegs" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtChubbyLegs</Data>
+            <Data name="JourneymanChestChubbyLegs" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="JourneymanSkirtLegs" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtLegs</Data>
+            <Data name="JourneymanChestLegs" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtKneeHeight" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtKneeHeight</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B Low</Data>
+            <Data name="JourneymanChest7B Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B High</Data>
+            <Data name="JourneymanChest7B High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B Bombshell Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B Bombshell Low</Data>
+            <Data name="JourneymanChest7B Bombshell Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B Bombshell High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B Bombshell High</Data>
+            <Data name="JourneymanChest7B Bombshell High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B Natural Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B Natural Low</Data>
+            <Data name="JourneymanChest7B Natural Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B Natural High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B Natural High</Data>
+            <Data name="JourneymanChest7B Natural High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B Cleavage Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B Cleavage Low</Data>
+            <Data name="JourneymanChest7B Cleavage Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B Cleavage High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B Cleavage High</Data>
+            <Data name="JourneymanChest7B Cleavage High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B BCup Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B BCup Low</Data>
+            <Data name="JourneymanChest7B BCup Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B BCup High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B BCup High</Data>
+            <Data name="JourneymanChest7B BCup High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7BUNP Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7BUNP Low</Data>
+            <Data name="JourneymanChest7BUNP Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7BUNP High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7BUNP High</Data>
+            <Data name="JourneymanChest7BUNP High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B Oppai Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B Oppai Low</Data>
+            <Data name="JourneymanChest7B Oppai Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B Oppai High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B Oppai High</Data>
+            <Data name="JourneymanChest7B Oppai High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B CH Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B CH Low</Data>
+            <Data name="JourneymanChest7B CH Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirt7B CH High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirt7B CH High</Data>
+            <Data name="JourneymanChest7B CH High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChest7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNP Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNP Low</Data>
+            <Data name="JourneymanChestUNP Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNP High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNP High</Data>
+            <Data name="JourneymanChestUNP High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNP Pushup Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNP Pushup Low</Data>
+            <Data name="JourneymanChestUNP Pushup Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNP Pushup High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNP Pushup High</Data>
+            <Data name="JourneymanChestUNP Pushup High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNP Skinny Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNP Skinny Low</Data>
+            <Data name="JourneymanChestUNP Skinny Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNP Skinny High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNP Skinny High</Data>
+            <Data name="JourneymanChestUNP Skinny High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNP Perky Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNP Perky Low</Data>
+            <Data name="JourneymanChestUNP Perky Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNP Perky High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNP Perky High</Data>
+            <Data name="JourneymanChestUNP Perky High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPB Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPB Low</Data>
+            <Data name="JourneymanChestUNPB Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPB High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPB High</Data>
+            <Data name="JourneymanChestUNPB High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPB Chapi" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPB Chapi</Data>
+            <Data name="JourneymanChestUNPB Chapi" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPB Oppai v1" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPB Oppai v1</Data>
+            <Data name="JourneymanChestUNPB Oppai v1" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPB Oppai v3.2 Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPB Oppai v3.2 Low</Data>
+            <Data name="JourneymanChestUNPB Oppai v3.2 Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPB Oppai v3.2 High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPB Oppai v3.2 High</Data>
+            <Data name="JourneymanChestUNPB Oppai v3.2 High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPetite Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPetite Low</Data>
+            <Data name="JourneymanChestUNPetite Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPetite High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPetite High</Data>
+            <Data name="JourneymanChestUNPetite High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPC Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPC Low</Data>
+            <Data name="JourneymanChestUNPC Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPC High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPC High</Data>
+            <Data name="JourneymanChestUNPC High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPCM Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPCM Low</Data>
+            <Data name="JourneymanChestUNPCM Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPCM High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPCM High</Data>
+            <Data name="JourneymanChestUNPCM High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPSH Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPSH Low</Data>
+            <Data name="JourneymanChestUNPSH Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPSH High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPSH High</Data>
+            <Data name="JourneymanChestUNPSH High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPK Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPK Low</Data>
+            <Data name="JourneymanChestUNPK Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPK High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPK High</Data>
+            <Data name="JourneymanChestUNPK High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPK Bonus Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPK Bonus Low</Data>
+            <Data name="JourneymanChestUNPK Bonus Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPK Bonus High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPK Bonus High</Data>
+            <Data name="JourneymanChestUNPK Bonus High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUN7B Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUN7B Low</Data>
+            <Data name="JourneymanChestUN7B Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUN7B High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUN7B High</Data>
+            <Data name="JourneymanChestUN7B High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPBB Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPBB Low</Data>
+            <Data name="JourneymanChestUNPBB Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPBB High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPBB High</Data>
+            <Data name="JourneymanChestUNPBB High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtSeraphim Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtSeraphim Low</Data>
+            <Data name="JourneymanChestSeraphim Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtSeraphim High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtSeraphim High</Data>
+            <Data name="JourneymanChestSeraphim High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtDemonfet Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtDemonfet Low</Data>
+            <Data name="JourneymanChestDemonfet Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtDemonfet High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtDemonfet High</Data>
+            <Data name="JourneymanChestDemonfet High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtDream Girl Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtDream Girl Low</Data>
+            <Data name="JourneymanChestDream Girl Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtDream Girl High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtDream Girl High</Data>
+            <Data name="JourneymanChestDream Girl High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtTop Model Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtTop Model Low</Data>
+            <Data name="JourneymanChestTop Model Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtTop Model High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtTop Model High</Data>
+            <Data name="JourneymanChestTop Model High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtLeito Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtLeito Low</Data>
+            <Data name="JourneymanChestLeito Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtLeito High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtLeito High</Data>
+            <Data name="JourneymanChestLeito High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPF Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPF Low</Data>
+            <Data name="JourneymanChestUNPF Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPF High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPF High</Data>
+            <Data name="JourneymanChestUNPF High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPFx Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPFx Low</Data>
+            <Data name="JourneymanChestUNPFx Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtUNPFx High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtUNPFx High</Data>
+            <Data name="JourneymanChestUNPFx High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtCNHF Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtCNHF Low</Data>
+            <Data name="JourneymanChestCNHF Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtCNHF High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtCNHF High</Data>
+            <Data name="JourneymanChestCNHF High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtCNHF Bonus Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtCNHF Bonus Low</Data>
+            <Data name="JourneymanChestCNHF Bonus Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtCNHF Bonus High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtCNHF Bonus High</Data>
+            <Data name="JourneymanChestCNHF Bonus High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtMCBM Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtMCBM Low</Data>
+            <Data name="JourneymanChestMCBM Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtMCBM High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtMCBM High</Data>
+            <Data name="JourneymanChestMCBM High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtVenus Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtVenus Low</Data>
+            <Data name="JourneymanChestVenus Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtVenus High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtVenus High</Data>
+            <Data name="JourneymanChestVenus High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtZGGB-R2 Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtZGGB-R2 Low</Data>
+            <Data name="JourneymanChestZGGB-R2 Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtZGGB-R2 High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtZGGB-R2 High</Data>
+            <Data name="JourneymanChestZGGB-R2 High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtManga Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtManga Low</Data>
+            <Data name="JourneymanChestManga Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtManga High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtManga High</Data>
+            <Data name="JourneymanChestManga High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtCHSBHC Low" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtCHSBHC Low</Data>
+            <Data name="JourneymanChestCHSBHC Low" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="JourneymanSkirtCHSBHC High" target="JourneymanSkirt" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanSkirtCHSBHC High</Data>
+            <Data name="JourneymanChestCHSBHC High" target="JourneymanChest" local="true">DCC - CT77 Mage Expert UUNP s48.osd\JourneymanChestCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,6 @@
+# Compiled scripts
+*.pex
+
+# Build files
+.build-papyrus.yml
+do_build.sh

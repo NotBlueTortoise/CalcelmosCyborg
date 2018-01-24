@@ -1,0 +1,484 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - CT77 Draugr UUNP s48">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - CT77 Draugr UUNP s48.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">draugrarmorfemale s48</OutputFile>
+        <Shape target="DraugrChest">DraugrChest</Shape>
+        <Shape target="DraugrSkirt">DraugrSkirt</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="DraugrChestBreasts" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="DraugrChestBreastsSmall" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastsSmall</Data>
+            <Data name="DraugrSkirtBreastsSmall" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="DraugrChestBreastsSH" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="DraugrChestBreastsSSH" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastsSSH</Data>
+            <Data name="DraugrSkirtBreastsSSH" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="DraugrChestBreastsFantasy" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="DraugrChestDoubleMelon" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="DraugrChestBreastCleavage" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="DraugrChestBreastFlatness" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastFlatness</Data>
+            <Data name="DraugrSkirtBreastFlatness" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="DraugrChestBreastGravity" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="DraugrChestPushUp" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="DraugrChestBreastHeight" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastHeight</Data>
+            <Data name="DraugrSkirtBreastHeight" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="DraugrChestBreastPerkiness" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="DraugrChestBreastWidth" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBreastWidth</Data>
+            <Data name="DraugrSkirtBreastWidth" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="DraugrChestNippleDistance" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="DraugrChestNipplePerkiness" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="DraugrChestNippleLength" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="DraugrChestNippleSize" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="DraugrChestNippleAreola" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="DraugrChestNippleUp" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="DraugrChestNippleDown" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="DraugrChestNippleTip" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="DraugrChestArms" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="DraugrChestChubbyArms" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="DraugrChestShoulderSmooth" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="DraugrChestShoulderWidth" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="DraugrChestBigTorso" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBigTorso</Data>
+            <Data name="DraugrSkirtBigTorso" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="DraugrChestWaist" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestWaist</Data>
+            <Data name="DraugrSkirtWaist" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="DraugrChestWideWaistLine" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestWideWaistLine</Data>
+            <Data name="DraugrSkirtWideWaistLine" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="DraugrChestChubbyWaist" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestChubbyWaist</Data>
+            <Data name="DraugrSkirtChubbyWaist" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="DraugrChestBelly" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBelly</Data>
+            <Data name="DraugrSkirtBelly" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="DraugrChestBigBelly" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBigBelly</Data>
+            <Data name="DraugrSkirtBigBelly" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="DraugrChestPregnancyBelly" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestPregnancyBelly</Data>
+            <Data name="DraugrSkirtPregnancyBelly" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="DraugrChestTummyTuck" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestTummyTuck</Data>
+            <Data name="DraugrSkirtTummyTuck" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="DraugrChestBack" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBack</Data>
+            <Data name="DraugrSkirtBack" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="DraugrChestHipbone" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestHipbone</Data>
+            <Data name="DraugrSkirtHipbone" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="DraugrChestHips" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestHips</Data>
+            <Data name="DraugrSkirtHips" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="DraugrSkirtButtCrack" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="DraugrChestButt" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestButt</Data>
+            <Data name="DraugrSkirtButt" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="DraugrChestButtSmall" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestButtSmall</Data>
+            <Data name="DraugrSkirtButtSmall" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="DraugrChestButtShape2" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestButtShape2</Data>
+            <Data name="DraugrSkirtButtShape2" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="DraugrChestBigButt" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestBigButt</Data>
+            <Data name="DraugrSkirtBigButt" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="DraugrChestChubbyButt" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestChubbyButt</Data>
+            <Data name="DraugrSkirtChubbyButt" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="DraugrChestAppleCheeks" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestAppleCheeks</Data>
+            <Data name="DraugrSkirtAppleCheeks" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="DraugrChestRoundAss" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestRoundAss</Data>
+            <Data name="DraugrSkirtRoundAss" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="DraugrChestSlimThighs" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestSlimThighs</Data>
+            <Data name="DraugrSkirtSlimThighs" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="DraugrChestThighs" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestThighs</Data>
+            <Data name="DraugrSkirtThighs" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="DraugrChestChubbyLegs" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestChubbyLegs</Data>
+            <Data name="DraugrSkirtChubbyLegs" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="DraugrChestLegs" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestLegs</Data>
+            <Data name="DraugrSkirtLegs" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="DraugrChestKneeHeight" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestKneeHeight</Data>
+            <Data name="DraugrSkirtKneeHeight" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtKneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="DraugrChestNeck" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B Low</Data>
+            <Data name="DraugrSkirt7B Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B High</Data>
+            <Data name="DraugrSkirt7B High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B Bombshell Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B Bombshell Low</Data>
+            <Data name="DraugrSkirt7B Bombshell Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B Bombshell High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B Bombshell High</Data>
+            <Data name="DraugrSkirt7B Bombshell High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B Natural Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B Natural Low</Data>
+            <Data name="DraugrSkirt7B Natural Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B Natural High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B Natural High</Data>
+            <Data name="DraugrSkirt7B Natural High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B Cleavage Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B Cleavage Low</Data>
+            <Data name="DraugrSkirt7B Cleavage Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B Cleavage High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B Cleavage High</Data>
+            <Data name="DraugrSkirt7B Cleavage High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B BCup Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B BCup Low</Data>
+            <Data name="DraugrSkirt7B BCup Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B BCup High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B BCup High</Data>
+            <Data name="DraugrSkirt7B BCup High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="DraugrChest7BUNP Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7BUNP Low</Data>
+            <Data name="DraugrSkirt7BUNP Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="DraugrChest7BUNP High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7BUNP High</Data>
+            <Data name="DraugrSkirt7BUNP High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B Oppai Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B Oppai Low</Data>
+            <Data name="DraugrSkirt7B Oppai Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B Oppai High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B Oppai High</Data>
+            <Data name="DraugrSkirt7B Oppai High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B CH Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B CH Low</Data>
+            <Data name="DraugrSkirt7B CH Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="DraugrChest7B CH High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChest7B CH High</Data>
+            <Data name="DraugrSkirt7B CH High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirt7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNP Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNP Low</Data>
+            <Data name="DraugrSkirtUNP Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNP High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNP High</Data>
+            <Data name="DraugrSkirtUNP High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNP Pushup Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNP Pushup Low</Data>
+            <Data name="DraugrSkirtUNP Pushup Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNP Pushup High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNP Pushup High</Data>
+            <Data name="DraugrSkirtUNP Pushup High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNP Skinny Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNP Skinny Low</Data>
+            <Data name="DraugrSkirtUNP Skinny Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNP Skinny High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNP Skinny High</Data>
+            <Data name="DraugrSkirtUNP Skinny High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNP Perky Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNP Perky Low</Data>
+            <Data name="DraugrSkirtUNP Perky Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNP Perky High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNP Perky High</Data>
+            <Data name="DraugrSkirtUNP Perky High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPB Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPB Low</Data>
+            <Data name="DraugrSkirtUNPB Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPB High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPB High</Data>
+            <Data name="DraugrSkirtUNPB High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPB Chapi" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPB Chapi</Data>
+            <Data name="DraugrSkirtUNPB Chapi" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPB Oppai v1" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPB Oppai v1</Data>
+            <Data name="DraugrSkirtUNPB Oppai v1" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPB Oppai v3.2 Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPB Oppai v3.2 Low</Data>
+            <Data name="DraugrSkirtUNPB Oppai v3.2 Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPB Oppai v3.2 High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPB Oppai v3.2 High</Data>
+            <Data name="DraugrSkirtUNPB Oppai v3.2 High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPetite Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPetite Low</Data>
+            <Data name="DraugrSkirtUNPetite Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPetite High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPetite High</Data>
+            <Data name="DraugrSkirtUNPetite High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPC Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPC Low</Data>
+            <Data name="DraugrSkirtUNPC Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPC High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPC High</Data>
+            <Data name="DraugrSkirtUNPC High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPCM Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPCM Low</Data>
+            <Data name="DraugrSkirtUNPCM Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPCM High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPCM High</Data>
+            <Data name="DraugrSkirtUNPCM High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPSH Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPSH Low</Data>
+            <Data name="DraugrSkirtUNPSH Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPSH High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPSH High</Data>
+            <Data name="DraugrSkirtUNPSH High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPK Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPK Low</Data>
+            <Data name="DraugrSkirtUNPK Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPK High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPK High</Data>
+            <Data name="DraugrSkirtUNPK High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPK Bonus Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPK Bonus Low</Data>
+            <Data name="DraugrSkirtUNPK Bonus Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPK Bonus High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPK Bonus High</Data>
+            <Data name="DraugrSkirtUNPK Bonus High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUN7B Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUN7B Low</Data>
+            <Data name="DraugrSkirtUN7B Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUN7B High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUN7B High</Data>
+            <Data name="DraugrSkirtUN7B High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPBB Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPBB Low</Data>
+            <Data name="DraugrSkirtUNPBB Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPBB High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPBB High</Data>
+            <Data name="DraugrSkirtUNPBB High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestSeraphim Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestSeraphim Low</Data>
+            <Data name="DraugrSkirtSeraphim Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="DraugrChestSeraphim High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestSeraphim High</Data>
+            <Data name="DraugrSkirtSeraphim High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestDemonfet Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestDemonfet Low</Data>
+            <Data name="DraugrSkirtDemonfet Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="DraugrChestDemonfet High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestDemonfet High</Data>
+            <Data name="DraugrSkirtDemonfet High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestDream Girl Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestDream Girl Low</Data>
+            <Data name="DraugrSkirtDream Girl Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="DraugrChestDream Girl High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestDream Girl High</Data>
+            <Data name="DraugrSkirtDream Girl High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestTop Model Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestTop Model Low</Data>
+            <Data name="DraugrSkirtTop Model Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="DraugrChestTop Model High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestTop Model High</Data>
+            <Data name="DraugrSkirtTop Model High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestLeito Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestLeito Low</Data>
+            <Data name="DraugrSkirtLeito Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="DraugrChestLeito High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestLeito High</Data>
+            <Data name="DraugrSkirtLeito High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPF Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPF Low</Data>
+            <Data name="DraugrSkirtUNPF Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPF High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPF High</Data>
+            <Data name="DraugrSkirtUNPF High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPFx Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPFx Low</Data>
+            <Data name="DraugrSkirtUNPFx Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="DraugrChestUNPFx High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestUNPFx High</Data>
+            <Data name="DraugrSkirtUNPFx High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestCNHF Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestCNHF Low</Data>
+            <Data name="DraugrSkirtCNHF Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="DraugrChestCNHF High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestCNHF High</Data>
+            <Data name="DraugrSkirtCNHF High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestCNHF Bonus Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestCNHF Bonus Low</Data>
+            <Data name="DraugrSkirtCNHF Bonus Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="DraugrChestCNHF Bonus High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestCNHF Bonus High</Data>
+            <Data name="DraugrSkirtCNHF Bonus High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestMCBM Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestMCBM Low</Data>
+            <Data name="DraugrSkirtMCBM Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="DraugrChestMCBM High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestMCBM High</Data>
+            <Data name="DraugrSkirtMCBM High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestVenus Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestVenus Low</Data>
+            <Data name="DraugrSkirtVenus Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="DraugrChestVenus High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestVenus High</Data>
+            <Data name="DraugrSkirtVenus High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestZGGB-R2 Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestZGGB-R2 Low</Data>
+            <Data name="DraugrSkirtZGGB-R2 Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="DraugrChestZGGB-R2 High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestZGGB-R2 High</Data>
+            <Data name="DraugrSkirtZGGB-R2 High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestManga Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestManga Low</Data>
+            <Data name="DraugrSkirtManga Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="DraugrChestManga High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestManga High</Data>
+            <Data name="DraugrSkirtManga High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="DraugrChestCHSBHC Low" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestCHSBHC Low</Data>
+            <Data name="DraugrSkirtCHSBHC Low" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="DraugrChestCHSBHC High" target="DraugrChest" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrChestCHSBHC High</Data>
+            <Data name="DraugrSkirtCHSBHC High" target="DraugrSkirt" local="true">DCC - CT77 Draugr UUNP s48.osd\DraugrSkirtCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

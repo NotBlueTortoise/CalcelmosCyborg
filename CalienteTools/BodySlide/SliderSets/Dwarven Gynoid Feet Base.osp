@@ -1,0 +1,231 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Gynoid Feet Base">
+        <DataFolder>Dwarven Cyborg Collection Gynoid</DataFolder>
+        <SourceFile>Dwarven Gynoid Feet Base.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Gynoid\boots</OutputPath>
+        <OutputFile GenWeights="true">feet</OutputFile>
+        <Shape target="DFeet">DFeet</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="DFeet7B Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="DFeet7B High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="DFeet7B Bombshell Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="DFeet7B Bombshell High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="DFeet7B Natural Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="DFeet7B Natural High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="DFeet7B Cleavage Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="DFeet7B Cleavage High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="DFeet7B BCup Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="DFeet7B BCup High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="DFeet7BUNP Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="DFeet7BUNP High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="DFeet7B Oppai Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="DFeet7B Oppai High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="DFeet7B CH Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="DFeet7B CH High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeet7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNP Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="DFeetUNP High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNP Pushup Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="DFeetUNP Pushup High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNP Skinny Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="DFeetUNP Skinny High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNP Perky Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="DFeetUNP Perky High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPB Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPB High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="DFeetUNPB Chapi" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPetite Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPetite High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="DFeetUNPB Oppai v1" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPB Oppai v3.2 Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPB Oppai v3.2 High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPC Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPC High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPCM Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPCM High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPSH Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPSH High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPK Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPK High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPK Bonus Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPK Bonus High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="DFeetUN7B Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="DFeetUN7B High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPBB Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPBB High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="DFeetSeraphim Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="DFeetSeraphim High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="DFeetDemonfet Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="DFeetDemonfet High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="DFeetDream Girl Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="DFeetDream Girl High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="DFeetTop Model Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="DFeetTop Model High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="DFeetLeito Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="DFeetLeito High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPF Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPF High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="DFeetUNPFx Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="DFeetUNPFx High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="DFeetCNHF Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="DFeetCNHF High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="DFeetCNHF Bonus Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="DFeetCNHF Bonus High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="DFeetMCBM Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="DFeetMCBM High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="DFeetVenus Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="DFeetVenus High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="DFeetZGGB-R2 Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="DFeetZGGB-R2 High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="DFeetManga Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="DFeetManga High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="DFeetCHSBHC Low" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="DFeetCHSBHC High" target="DFeet" local="true">Dwarven Gynoid Feet Base.osd\DFeetCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,621 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Gynoid Body Armored Disassembled">
+        <DataFolder>Dwarven Cyborg Collection Gynoid</DataFolder>
+        <SourceFile>Dwarven Gynoid Body Armored Disassembled.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Gynoid</OutputPath>
+        <OutputFile GenWeights="true">bodybaseArmoredDis</OutputFile>
+        <Shape target="BodyFrame">BodyFrame</Shape>
+        <Shape target="Cyberne">Cyberne</Shape>
+        <Shape target="DwarvenChest">DwarvenChest</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="BodyFrameBreasts" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreasts</Data>
+            <Data name="CyberneBreasts" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreasts</Data>
+            <Data name="DwarvenChestBreasts" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BodyFrameBreastsSmall" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastsSmall</Data>
+            <Data name="CyberneBreastsSmall" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreastsSmall</Data>
+            <Data name="DwarvenChestBreastsSmall" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastsSH" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastsSH</Data>
+            <Data name="CyberneBreastsSH" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreastsSH</Data>
+            <Data name="DwarvenChestBreastsSH" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastsSSH" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastsSSH</Data>
+            <Data name="CyberneBreastsSSH" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreastsSSH</Data>
+            <Data name="DwarvenChestBreastsSSH" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastsFantasy" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastsFantasy</Data>
+            <Data name="CyberneBreastsFantasy" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreastsFantasy</Data>
+            <Data name="DwarvenChestBreastsFantasy" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BodyFrameDoubleMelon" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameDoubleMelon</Data>
+            <Data name="CyberneDoubleMelon" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneDoubleMelon</Data>
+            <Data name="DwarvenChestDoubleMelon" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastCleavage" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastCleavage</Data>
+            <Data name="DwarvenChestBreastCleavage" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastFlatness" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastFlatness</Data>
+            <Data name="CyberneBreastFlatness" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreastFlatness</Data>
+            <Data name="DwarvenChestBreastFlatness" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastGravity" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastGravity</Data>
+            <Data name="CyberneBreastGravity" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreastGravity</Data>
+            <Data name="DwarvenChestBreastGravity" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BodyFramePushUp" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFramePushUp</Data>
+            <Data name="CybernePushUp" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CybernePushUp</Data>
+            <Data name="DwarvenChestPushUp" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastHeight" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastHeight</Data>
+            <Data name="CyberneBreastHeight" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreastHeight</Data>
+            <Data name="DwarvenChestBreastHeight" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastPerkiness" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastPerkiness</Data>
+            <Data name="CyberneBreastPerkiness" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreastPerkiness</Data>
+            <Data name="DwarvenChestBreastPerkiness" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BodyFrameBreastWidth" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBreastWidth</Data>
+            <Data name="CyberneBreastWidth" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBreastWidth</Data>
+            <Data name="DwarvenChestBreastWidth" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BodyFrameNippleDistance" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameNippleDistance</Data>
+            <Data name="DwarvenChestNippleDistance" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BodyFrameNipplePerkiness" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameNipplePerkiness</Data>
+            <Data name="DwarvenChestNipplePerkiness" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BodyFrameNippleLength" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameNippleLength</Data>
+            <Data name="DwarvenChestNippleLength" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="BodyFrameNippleSize" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameNippleSize</Data>
+            <Data name="DwarvenChestNippleSize" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BodyFrameNippleAreola" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameNippleAreola</Data>
+            <Data name="DwarvenChestNippleAreola" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BodyFrameNippleUp" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameNippleUp</Data>
+            <Data name="CyberneNippleUp" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneNippleUp</Data>
+            <Data name="DwarvenChestNippleUp" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BodyFrameNippleDown" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameNippleDown</Data>
+            <Data name="DwarvenChestNippleDown" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BodyFrameNippleTip" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameNippleTip</Data>
+            <Data name="DwarvenChestNippleTip" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="BodyFrameArms" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameArms</Data>
+            <Data name="CyberneArms" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneArms</Data>
+            <Data name="DwarvenChestArms" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BodyFrameChubbyArms" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameChubbyArms</Data>
+            <Data name="CyberneChubbyArms" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneChubbyArms</Data>
+            <Data name="DwarvenChestChubbyArms" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BodyFrameShoulderSmooth" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameShoulderSmooth</Data>
+            <Data name="CyberneShoulderSmooth" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneShoulderSmooth</Data>
+            <Data name="DwarvenChestShoulderSmooth" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BodyFrameShoulderWidth" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameShoulderWidth</Data>
+            <Data name="CyberneShoulderWidth" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneShoulderWidth</Data>
+            <Data name="DwarvenChestShoulderWidth" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BodyFrameBigTorso" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBigTorso</Data>
+            <Data name="CyberneBigTorso" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBigTorso</Data>
+            <Data name="DwarvenChestBigTorso" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="BodyFrameWaist" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameWaist</Data>
+            <Data name="CyberneWaist" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneWaist</Data>
+            <Data name="DwarvenChestWaist" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BodyFrameWideWaistLine" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameWideWaistLine</Data>
+            <Data name="CyberneWideWaistLine" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneWideWaistLine</Data>
+            <Data name="DwarvenChestWideWaistLine" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BodyFrameChubbyWaist" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameChubbyWaist</Data>
+            <Data name="CyberneChubbyWaist" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneChubbyWaist</Data>
+            <Data name="DwarvenChestChubbyWaist" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BodyFrameBelly" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBelly</Data>
+            <Data name="CyberneBelly" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBelly</Data>
+            <Data name="DwarvenChestBelly" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BodyFrameBigBelly" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBigBelly</Data>
+            <Data name="CyberneBigBelly" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBigBelly</Data>
+            <Data name="DwarvenChestBigBelly" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BodyFramePregnancyBelly" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFramePregnancyBelly</Data>
+            <Data name="CybernePregnancyBelly" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CybernePregnancyBelly</Data>
+            <Data name="DwarvenChestPregnancyBelly" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BodyFrameTummyTuck" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameTummyTuck</Data>
+            <Data name="CyberneTummyTuck" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneTummyTuck</Data>
+            <Data name="DwarvenChestTummyTuck" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BodyFrameBack" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBack</Data>
+            <Data name="CyberneBack" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBack</Data>
+            <Data name="DwarvenChestBack" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="BodyFrameHipbone" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameHipbone</Data>
+            <Data name="CyberneHipbone" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BodyFrameHips" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameHips</Data>
+            <Data name="CyberneHips" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneHips</Data>
+            <Data name="DwarvenChestHips" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="BodyFrameButtCrack" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameButtCrack</Data>
+            <Data name="CyberneButtCrack" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="BodyFrameButt" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameButt</Data>
+            <Data name="CyberneButt" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneButt</Data>
+            <Data name="DwarvenChestButt" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="BodyFrameButtSmall" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameButtSmall</Data>
+            <Data name="CyberneButtSmall" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneButtSmall</Data>
+            <Data name="DwarvenChestButtSmall" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BodyFrameButtShape2" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameButtShape2</Data>
+            <Data name="CyberneButtShape2" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneButtShape2</Data>
+            <Data name="DwarvenChestButtShape2" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BodyFrameBigButt" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameBigButt</Data>
+            <Data name="CyberneBigButt" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneBigButt</Data>
+            <Data name="DwarvenChestBigButt" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BodyFrameChubbyButt" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameChubbyButt</Data>
+            <Data name="CyberneChubbyButt" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneChubbyButt</Data>
+            <Data name="DwarvenChestChubbyButt" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BodyFrameAppleCheeks" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameAppleCheeks</Data>
+            <Data name="CyberneAppleCheeks" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneAppleCheeks</Data>
+            <Data name="DwarvenChestAppleCheeks" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="BodyFrameRoundAss" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameRoundAss</Data>
+            <Data name="CyberneRoundAss" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BodyFrameSlimThighs" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameSlimThighs</Data>
+            <Data name="CyberneSlimThighs" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneSlimThighs</Data>
+            <Data name="DwarvenChestSlimThighs" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BodyFrameThighs" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameThighs</Data>
+            <Data name="CyberneThighs" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BodyFrameChubbyLegs" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameChubbyLegs</Data>
+            <Data name="CyberneChubbyLegs" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="BodyFrameLegs" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameLegs</Data>
+            <Data name="CyberneLegs" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BodyFrameKneeHeight" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameKneeHeight</Data>
+            <Data name="CyberneKneeHeight" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="CyberneCalfSize" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="CyberneCalfSmooth" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneCalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="BodyFrameNeck" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameNeck</Data>
+            <Data name="DwarvenChestNeck" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B Low</Data>
+            <Data name="Cyberne7B Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B Low</Data>
+            <Data name="DwarvenChest7B Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B High</Data>
+            <Data name="Cyberne7B High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B High</Data>
+            <Data name="DwarvenChest7B High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B Bombshell Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B Bombshell Low</Data>
+            <Data name="Cyberne7B Bombshell Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B Bombshell Low</Data>
+            <Data name="DwarvenChest7B Bombshell Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B Bombshell High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B Bombshell High</Data>
+            <Data name="Cyberne7B Bombshell High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B Bombshell High</Data>
+            <Data name="DwarvenChest7B Bombshell High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B Natural Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B Natural Low</Data>
+            <Data name="Cyberne7B Natural Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B Natural Low</Data>
+            <Data name="DwarvenChest7B Natural Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B Natural High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B Natural High</Data>
+            <Data name="Cyberne7B Natural High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B Natural High</Data>
+            <Data name="DwarvenChest7B Natural High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B Cleavage Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B Cleavage Low</Data>
+            <Data name="Cyberne7B Cleavage Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B Cleavage Low</Data>
+            <Data name="DwarvenChest7B Cleavage Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B Cleavage High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B Cleavage High</Data>
+            <Data name="Cyberne7B Cleavage High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B Cleavage High</Data>
+            <Data name="DwarvenChest7B Cleavage High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B BCup Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B BCup Low</Data>
+            <Data name="Cyberne7B BCup Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B BCup Low</Data>
+            <Data name="DwarvenChest7B BCup Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B BCup High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B BCup High</Data>
+            <Data name="Cyberne7B BCup High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B BCup High</Data>
+            <Data name="DwarvenChest7B BCup High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="BodyFrame7BUNP Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7BUNP Low</Data>
+            <Data name="Cyberne7BUNP Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7BUNP Low</Data>
+            <Data name="DwarvenChest7BUNP Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="BodyFrame7BUNP High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7BUNP High</Data>
+            <Data name="Cyberne7BUNP High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7BUNP High</Data>
+            <Data name="DwarvenChest7BUNP High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B Oppai Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B Oppai Low</Data>
+            <Data name="Cyberne7B Oppai Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B Oppai Low</Data>
+            <Data name="DwarvenChest7B Oppai Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B Oppai High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B Oppai High</Data>
+            <Data name="Cyberne7B Oppai High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B Oppai High</Data>
+            <Data name="DwarvenChest7B Oppai High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B CH Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B CH Low</Data>
+            <Data name="Cyberne7B CH Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B CH Low</Data>
+            <Data name="DwarvenChest7B CH Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="BodyFrame7B CH High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrame7B CH High</Data>
+            <Data name="Cyberne7B CH High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\Cyberne7B CH High</Data>
+            <Data name="DwarvenChest7B CH High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChest7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNP Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNP Low</Data>
+            <Data name="CyberneUNP Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNP Low</Data>
+            <Data name="DwarvenChestUNP Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNP High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNP High</Data>
+            <Data name="CyberneUNP High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNP High</Data>
+            <Data name="DwarvenChestUNP High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNP Pushup Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNP Pushup Low</Data>
+            <Data name="CyberneUNP Pushup Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNP Pushup Low</Data>
+            <Data name="DwarvenChestUNP Pushup Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNP Pushup High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNP Pushup High</Data>
+            <Data name="CyberneUNP Pushup High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNP Pushup High</Data>
+            <Data name="DwarvenChestUNP Pushup High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNP Skinny Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNP Skinny Low</Data>
+            <Data name="CyberneUNP Skinny Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNP Skinny Low</Data>
+            <Data name="DwarvenChestUNP Skinny Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNP Skinny High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNP Skinny High</Data>
+            <Data name="CyberneUNP Skinny High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNP Skinny High</Data>
+            <Data name="DwarvenChestUNP Skinny High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNP Perky Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNP Perky Low</Data>
+            <Data name="CyberneUNP Perky Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNP Perky Low</Data>
+            <Data name="DwarvenChestUNP Perky Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNP Perky High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNP Perky High</Data>
+            <Data name="CyberneUNP Perky High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNP Perky High</Data>
+            <Data name="DwarvenChestUNP Perky High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPB Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPB Low</Data>
+            <Data name="CyberneUNPB Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPB Low</Data>
+            <Data name="DwarvenChestUNPB Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPB High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPB High</Data>
+            <Data name="CyberneUNPB High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPB High</Data>
+            <Data name="DwarvenChestUNPB High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPB Chapi" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPB Chapi</Data>
+            <Data name="CyberneUNPB Chapi" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPB Chapi</Data>
+            <Data name="DwarvenChestUNPB Chapi" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPB Oppai v1" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPB Oppai v1</Data>
+            <Data name="CyberneUNPB Oppai v1" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPB Oppai v1</Data>
+            <Data name="DwarvenChestUNPB Oppai v1" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPB Oppai v3.2 Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPB Oppai v3.2 Low</Data>
+            <Data name="CyberneUNPB Oppai v3.2 Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPB Oppai v3.2 Low</Data>
+            <Data name="DwarvenChestUNPB Oppai v3.2 Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPB Oppai v3.2 High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPB Oppai v3.2 High</Data>
+            <Data name="CyberneUNPB Oppai v3.2 High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPB Oppai v3.2 High</Data>
+            <Data name="DwarvenChestUNPB Oppai v3.2 High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPetite Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPetite Low</Data>
+            <Data name="CyberneUNPetite Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPetite Low</Data>
+            <Data name="DwarvenChestUNPetite Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPetite High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPetite High</Data>
+            <Data name="CyberneUNPetite High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPetite High</Data>
+            <Data name="DwarvenChestUNPetite High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPC Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPC Low</Data>
+            <Data name="CyberneUNPC Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPC Low</Data>
+            <Data name="DwarvenChestUNPC Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPC High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPC High</Data>
+            <Data name="CyberneUNPC High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPC High</Data>
+            <Data name="DwarvenChestUNPC High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPCM Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPCM Low</Data>
+            <Data name="CyberneUNPCM Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPCM Low</Data>
+            <Data name="DwarvenChestUNPCM Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPCM High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPCM High</Data>
+            <Data name="CyberneUNPCM High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPCM High</Data>
+            <Data name="DwarvenChestUNPCM High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPSH Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPSH Low</Data>
+            <Data name="CyberneUNPSH Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPSH Low</Data>
+            <Data name="DwarvenChestUNPSH Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPSH High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPSH High</Data>
+            <Data name="CyberneUNPSH High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPSH High</Data>
+            <Data name="DwarvenChestUNPSH High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPK Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPK Low</Data>
+            <Data name="CyberneUNPK Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPK Low</Data>
+            <Data name="DwarvenChestUNPK Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPK High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPK High</Data>
+            <Data name="CyberneUNPK High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPK High</Data>
+            <Data name="DwarvenChestUNPK High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPK Bonus Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPK Bonus Low</Data>
+            <Data name="CyberneUNPK Bonus Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPK Bonus Low</Data>
+            <Data name="DwarvenChestUNPK Bonus Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPK Bonus High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPK Bonus High</Data>
+            <Data name="CyberneUNPK Bonus High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPK Bonus High</Data>
+            <Data name="DwarvenChestUNPK Bonus High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUN7B Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUN7B Low</Data>
+            <Data name="CyberneUN7B Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUN7B Low</Data>
+            <Data name="DwarvenChestUN7B Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUN7B High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUN7B High</Data>
+            <Data name="CyberneUN7B High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUN7B High</Data>
+            <Data name="DwarvenChestUN7B High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPBB Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPBB Low</Data>
+            <Data name="CyberneUNPBB Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPBB Low</Data>
+            <Data name="DwarvenChestUNPBB Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPBB High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPBB High</Data>
+            <Data name="CyberneUNPBB High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPBB High</Data>
+            <Data name="DwarvenChestUNPBB High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameSeraphim Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameSeraphim Low</Data>
+            <Data name="CyberneSeraphim Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneSeraphim Low</Data>
+            <Data name="DwarvenChestSeraphim Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="BodyFrameSeraphim High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameSeraphim High</Data>
+            <Data name="CyberneSeraphim High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneSeraphim High</Data>
+            <Data name="DwarvenChestSeraphim High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameDemonfet Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameDemonfet Low</Data>
+            <Data name="CyberneDemonfet Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneDemonfet Low</Data>
+            <Data name="DwarvenChestDemonfet Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="BodyFrameDemonfet High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameDemonfet High</Data>
+            <Data name="CyberneDemonfet High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneDemonfet High</Data>
+            <Data name="DwarvenChestDemonfet High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameDream Girl Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameDream Girl Low</Data>
+            <Data name="CyberneDream Girl Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneDream Girl Low</Data>
+            <Data name="DwarvenChestDream Girl Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="BodyFrameDream Girl High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameDream Girl High</Data>
+            <Data name="CyberneDream Girl High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneDream Girl High</Data>
+            <Data name="DwarvenChestDream Girl High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameTop Model Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameTop Model Low</Data>
+            <Data name="CyberneTop Model Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneTop Model Low</Data>
+            <Data name="DwarvenChestTop Model Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BodyFrameTop Model High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameTop Model High</Data>
+            <Data name="CyberneTop Model High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneTop Model High</Data>
+            <Data name="DwarvenChestTop Model High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameLeito Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameLeito Low</Data>
+            <Data name="CyberneLeito Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneLeito Low</Data>
+            <Data name="DwarvenChestLeito Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="BodyFrameLeito High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameLeito High</Data>
+            <Data name="CyberneLeito High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneLeito High</Data>
+            <Data name="DwarvenChestLeito High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPF Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPF Low</Data>
+            <Data name="CyberneUNPF Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPF Low</Data>
+            <Data name="DwarvenChestUNPF Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPF High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPF High</Data>
+            <Data name="CyberneUNPF High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPF High</Data>
+            <Data name="DwarvenChestUNPF High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPFx Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPFx Low</Data>
+            <Data name="CyberneUNPFx Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPFx Low</Data>
+            <Data name="DwarvenChestUNPFx Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="BodyFrameUNPFx High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameUNPFx High</Data>
+            <Data name="CyberneUNPFx High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneUNPFx High</Data>
+            <Data name="DwarvenChestUNPFx High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameCNHF Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameCNHF Low</Data>
+            <Data name="CyberneCNHF Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneCNHF Low</Data>
+            <Data name="DwarvenChestCNHF Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="BodyFrameCNHF High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameCNHF High</Data>
+            <Data name="CyberneCNHF High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneCNHF High</Data>
+            <Data name="DwarvenChestCNHF High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameCNHF Bonus Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameCNHF Bonus Low</Data>
+            <Data name="CyberneCNHF Bonus Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneCNHF Bonus Low</Data>
+            <Data name="DwarvenChestCNHF Bonus Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="BodyFrameCNHF Bonus High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameCNHF Bonus High</Data>
+            <Data name="CyberneCNHF Bonus High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneCNHF Bonus High</Data>
+            <Data name="DwarvenChestCNHF Bonus High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameMCBM Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameMCBM Low</Data>
+            <Data name="CyberneMCBM Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneMCBM Low</Data>
+            <Data name="DwarvenChestMCBM Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="BodyFrameMCBM High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameMCBM High</Data>
+            <Data name="CyberneMCBM High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneMCBM High</Data>
+            <Data name="DwarvenChestMCBM High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameVenus Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameVenus Low</Data>
+            <Data name="CyberneVenus Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneVenus Low</Data>
+            <Data name="DwarvenChestVenus Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="BodyFrameVenus High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameVenus High</Data>
+            <Data name="CyberneVenus High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneVenus High</Data>
+            <Data name="DwarvenChestVenus High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameZGGB-R2 Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameZGGB-R2 Low</Data>
+            <Data name="CyberneZGGB-R2 Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneZGGB-R2 Low</Data>
+            <Data name="DwarvenChestZGGB-R2 Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="BodyFrameZGGB-R2 High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameZGGB-R2 High</Data>
+            <Data name="CyberneZGGB-R2 High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneZGGB-R2 High</Data>
+            <Data name="DwarvenChestZGGB-R2 High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameManga Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameManga Low</Data>
+            <Data name="CyberneManga Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneManga Low</Data>
+            <Data name="DwarvenChestManga Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="BodyFrameManga High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameManga High</Data>
+            <Data name="CyberneManga High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneManga High</Data>
+            <Data name="DwarvenChestManga High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="BodyFrameCHSBHC Low" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameCHSBHC Low</Data>
+            <Data name="CyberneCHSBHC Low" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneCHSBHC Low</Data>
+            <Data name="DwarvenChestCHSBHC Low" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="BodyFrameCHSBHC High" target="BodyFrame" local="true">Dwarven Gynoid Body Armored Disassembled.osd\BodyFrameCHSBHC High</Data>
+            <Data name="CyberneCHSBHC High" target="Cyberne" local="true">Dwarven Gynoid Body Armored Disassembled.osd\CyberneCHSBHC High</Data>
+            <Data name="DwarvenChestCHSBHC High" target="DwarvenChest" local="true">Dwarven Gynoid Body Armored Disassembled.osd\DwarvenChestCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

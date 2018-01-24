@@ -1,0 +1,363 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - Wounds Edhildil s56">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - Wounds Edhildil s56.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">DCC - Wounds Edhildil s56</OutputFile>
+        <Shape target="BaseShape.002">BaseShape.002</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="BaseShape.002Breasts" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BaseShape.002BreastsSmall" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BreastsSH" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BreastsSSH" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BreastsFantasy" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BaseShape.002DoubleMelon" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BreastCleavage" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BreastFlatness" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BreastGravity" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BaseShape.002PushUp" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BreastHeight" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BreastPerkiness" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BreastWidth" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BaseShape.002NippleDistance" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BaseShape.002NippleAreola" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BaseShape.002NippleUp" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BaseShape.002NippleDown" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002NippleDown</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="BaseShape.002Arms" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Arms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BaseShape.002ChubbyArms" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShape.002ShoulderSmooth" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BaseShape.002ShoulderWidth" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BigTorso" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Waist" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Waist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BaseShape.002WideWaistLine" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002WideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BaseShape.002ChubbyWaist" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Belly" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BigBelly" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BaseShape.002PregnancyBelly" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002PregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BaseShape.002TummyTuck" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002TummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Back" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Back</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Hipbone" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Hipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Hips" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Hips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="BaseShape.002ButtCrack" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="BaseShape.002Butt" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Butt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="BaseShape.002ButtSmall" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BaseShape.002ButtShape2" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BaseShape.002BigButt" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002BigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BaseShape.002ChubbyButt" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BaseShape.002AppleCheeks" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002AppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="BaseShape.002RoundAss" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002RoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BaseShape.002SlimThighs" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002SlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Thighs" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Thighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BaseShape.002ChubbyLegs" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ChubbyLegs</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="BaseShape.002Neck" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Neck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B Bombshell Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B Bombshell High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B Natural Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B Natural High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B Cleavage Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B Cleavage High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B BCup Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B BCup High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027BUNP Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027BUNP High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B Oppai Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B Oppai High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B CH Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="BaseShape.0027B CH High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.0027B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNP Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNP High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNP Pushup Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNP Pushup High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNP Skinny Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNP Skinny High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNP Perky Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNP Perky High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPB Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPB High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPB Chapi" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPB Oppai v1" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPB Oppai v3.2 Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPB Oppai v3.2 High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPetite Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPetite High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPC Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPC High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPCM Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPCM High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPSH Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPSH High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPK Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPK High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPK Bonus Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPK Bonus High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UN7B Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UN7B High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPBB Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPBB High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Seraphim Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Seraphim High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Demonfet Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Demonfet High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Dream Girl Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Dream Girl High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Top Model Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Top Model High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Leito Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Leito High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPF Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPF High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPFx Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002UNPFx High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002CNHF Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002CNHF High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002CNHF Bonus Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002CNHF Bonus High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002MCBM Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002MCBM High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Venus Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Venus High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002ZGGB-R2 Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002ZGGB-R2 High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Manga Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002Manga High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="BaseShape.002CHSBHC Low" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="BaseShape.002CHSBHC High" target="BaseShape.002" local="true">DCC - Wounds Edhildil s56.osd\BaseShape.002CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,243 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Gynoid Centurion Arm R">
+        <DataFolder>Dwarven Cyborg Collection Gynoid</DataFolder>
+        <SourceFile>Dwarven Gynoid Centurion Arm R.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Gynoid\forearm</OutputPath>
+        <OutputFile GenWeights="true">centurionarmr</OutputFile>
+        <Shape target="SteamArmR">SteamArmR</Shape>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="SteamArmRArms" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="SteamArmRChubbyArms" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="SteamArmRShoulderWidth" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="SteamArmRBigTorso" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRBigTorso</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B Bombshell Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B Bombshell High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B Natural Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B Natural High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B Cleavage Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B Cleavage High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B BCup Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B BCup High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="SteamArmR7BUNP Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="SteamArmR7BUNP High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B Oppai Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B Oppai High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B CH Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="SteamArmR7B CH High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmR7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNP Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNP High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNP Pushup Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNP Pushup High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNP Skinny Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNP Skinny High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNP Perky Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNP Perky High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPB Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPB High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPB Chapi" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPB Oppai v1" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPB Oppai v3.2 Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPB Oppai v3.2 High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPetite Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPetite High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPC Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPC High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPCM Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPCM High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPSH Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPSH High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPK Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPK High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPK Bonus Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPK Bonus High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUN7B Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUN7B High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPBB Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPBB High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRSeraphim Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="SteamArmRSeraphim High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRDemonfet Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="SteamArmRDemonfet High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRDream Girl Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="SteamArmRDream Girl High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRTop Model Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="SteamArmRTop Model High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRLeito Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="SteamArmRLeito High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPF Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPF High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPFx Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="SteamArmRUNPFx High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRCNHF Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="SteamArmRCNHF High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRCNHF Bonus Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="SteamArmRCNHF Bonus High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRMCBM Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="SteamArmRMCBM High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRVenus Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="SteamArmRVenus High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRZGGB-R2 Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="SteamArmRZGGB-R2 High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRManga Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="SteamArmRManga High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="SteamArmRCHSBHC Low" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="SteamArmRCHSBHC High" target="SteamArmR" local="true">Dwarven Gynoid Centurion Arm R.osd\SteamArmRCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,34 @@
+<SliderGroups>
+    <Group name="Unified UNP">
+	    <Member name="Dwemer Cyborg UUNP Breast Caps"/>
+        <Member name="Dwemer Cyborg Pauldrons"/>
+        <Member name="Dwemer Cyborg Pauldrons and Collar"/>
+		<Member name="Dwemer Cyborg 1st Cohort"/>
+        <Member name="Dwemer Cyborg 1st Cohort Armored"/>
+		<Member name="Dwemer Cyborg 1st Cohort Armored NBE"/>
+		<Member name="Dwemer Cyborg 2nd Cohort"/>
+		<Member name="Dwemer Cyborg 2nd Cohort Armored"/>
+		<Member name="Dwemer Cyborg 2nd Cohort Armored NBE"/>
+		<Member name="Dwemer Cyborg 3rd Cohort"/>
+		<Member name="Dwemer Cyborg 3rd Cohort Armored"/>
+		<Member name="Dwemer Cyborg 3rd Cohort Armored NBE"/>
+		<Member name="Dwemer Cyborg 1st Cohort Disassembled"/>
+		<Member name="Dwemer Cyborg 3rd Cohort Disassembled"/>
+	</Group>
+    <Group name="Dwarven Cyborg Collection - Edhildil Set UUNP">
+        <Member name="Dwemer Cyborg UUNP Breast Caps"/>
+        <Member name="Dwemer Cyborg Pauldrons"/>
+        <Member name="Dwemer Cyborg Pauldrons and Collar"/>
+		<Member name="Dwemer Cyborg 1st Cohort"/>
+        <Member name="Dwemer Cyborg 1st Cohort Armored"/>
+		<Member name="Dwemer Cyborg 1st Cohort Armored NBE"/>
+		<Member name="Dwemer Cyborg 2nd Cohort"/>
+		<Member name="Dwemer Cyborg 2nd Cohort Armored"/>
+		<Member name="Dwemer Cyborg 2nd Cohort Armored NBE"/>
+		<Member name="Dwemer Cyborg 3rd Cohort"/>
+		<Member name="Dwemer Cyborg 3rd Cohort Armored"/>
+		<Member name="Dwemer Cyborg 3rd Cohort Armored NBE"/>
+		<Member name="Dwemer Cyborg 1st Cohort Disassembled"/>
+		<Member name="Dwemer Cyborg 3rd Cohort Disassembled"/>
+    </Group>
+</SliderGroups>

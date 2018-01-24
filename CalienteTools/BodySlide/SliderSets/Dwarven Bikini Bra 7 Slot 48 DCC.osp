@@ -1,0 +1,300 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Bikini Bra 7 Slot 48 DCC">
+        <DataFolder>Dwarven Cyborg Collection Bikini</DataFolder>
+        <SourceFile>Dwarven Bikini Bra 7 Slot 48.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Bikini</OutputPath>
+        <OutputFile GenWeights="true">Cbra_7</OutputFile>
+        <Shape target="DwarvenArmor.004.0.06">DwarvenArmor.004.0.06</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="DwarvenArmor.004.0.06Breasts" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="DwarvenArmor.004.0.06BreastsSmall" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BreastsSH" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BreastsSSH" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BreastsFantasy" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06DoubleMelon" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BreastCleavage" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BreastFlatness" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BreastGravity" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06PushUp" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BreastHeight" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BreastPerkiness" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BreastWidth" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="DwarvenArmor.004.0.06NippleDistance" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06NippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06NipplePerkiness" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06NippleLength" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06NippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="DwarvenArmor.004.0.06NippleSize" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06NippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06NippleAreola" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06NippleUp" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06NippleDown" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06NippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06NippleTip" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06NippleTip</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06BigTorso" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06BigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06PregnancyBelly" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06PregnancyBelly</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B Bombshell Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B Bombshell High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B Natural Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B Natural High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B Cleavage Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B Cleavage High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B BCup Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B BCup High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067BUNP Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067BUNP High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B Oppai Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B Oppai High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B CH Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.067B CH High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.067B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNP Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNP High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNP Pushup Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNP Pushup High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNP Skinny Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNP Skinny High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNP Perky Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNP Perky High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPB Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPB High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPB Chapi" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPB Oppai v1" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPB Oppai v3.2 Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPB Oppai v3.2 High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPetite Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPetite High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPC Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPC High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPCM Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPCM High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPSH Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPSH High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPK Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPK High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPK Bonus Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPK Bonus High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UN7B Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UN7B High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPBB Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPBB High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Seraphim Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Seraphim High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Demonfet Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Demonfet High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Dream Girl Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Dream Girl High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Top Model Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Top Model High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Leito Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Leito High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPF Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPF High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPFx Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06UNPFx High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06CNHF Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06CNHF High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06CNHF Bonus Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06CNHF Bonus High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06MCBM Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06MCBM High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Venus Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Venus High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06ZGGB-R2 Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06ZGGB-R2 High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Manga Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06Manga High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06CHSBHC Low" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="DwarvenArmor.004.0.06CHSBHC High" target="DwarvenArmor.004.0.06" local="true">Dwarven Bikini Bra 7 Slot 48.osd\DwarvenArmor.004.0.06CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,516 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Armored Cyborg Disassembled NBE">
+        <DataFolder>Dwarven Cyborg Collection Bikini</DataFolder>
+        <SourceFile>Dwarven Armored Cyborg Disassembled NBE.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Bikini</OutputPath>
+        <OutputFile GenWeights="true">c_2ArmoredD</OutputFile>
+        <Shape target="DwarvenArmorF.000..02">DwarvenArmorF.000..02</Shape>
+        <Shape target="DwarvenChest">DwarvenChest</Shape>
+        <Shape target="UUNP_outfit" DataFolder="WTF Dwarven Cyborg B">UUNP_outfit</Shape>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitArms" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitArms</Data>
+            <Data name="DwarvenArmorF.000..02Arms" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Arms</Data>
+            <Data name="DwarvenChestArms" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitChubbyArms" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitChubbyArms</Data>
+            <Data name="DwarvenArmorF.000..02ChubbyArms" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ChubbyArms</Data>
+            <Data name="DwarvenChestChubbyArms" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitShoulderSmooth" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitShoulderSmooth</Data>
+            <Data name="DwarvenArmorF.000..02ShoulderSmooth" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ShoulderSmooth</Data>
+            <Data name="DwarvenChestShoulderSmooth" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitShoulderWidth" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitShoulderWidth</Data>
+            <Data name="DwarvenArmorF.000..02ShoulderWidth" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ShoulderWidth</Data>
+            <Data name="DwarvenChestShoulderWidth" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBigTorso" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitBigTorso</Data>
+            <Data name="DwarvenArmorF.000..02BigTorso" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02BigTorso</Data>
+            <Data name="DwarvenChestBigTorso" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitWaist" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitWaist</Data>
+            <Data name="DwarvenArmorF.000..02Waist" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Waist</Data>
+            <Data name="DwarvenChestWaist" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitWideWaistLine" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitWideWaistLine</Data>
+            <Data name="DwarvenArmorF.000..02WideWaistLine" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02WideWaistLine</Data>
+            <Data name="DwarvenChestWideWaistLine" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitChubbyWaist" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitChubbyWaist</Data>
+            <Data name="DwarvenArmorF.000..02ChubbyWaist" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ChubbyWaist</Data>
+            <Data name="DwarvenChestChubbyWaist" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBelly" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitBelly</Data>
+            <Data name="DwarvenChestBelly" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBigBelly" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitBigBelly</Data>
+            <Data name="DwarvenChestBigBelly" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitPregnancyBelly" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitPregnancyBelly</Data>
+            <Data name="DwarvenArmorF.000..02PregnancyBelly" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02PregnancyBelly</Data>
+            <Data name="DwarvenChestPregnancyBelly" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitTummyTuck" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitTummyTuck</Data>
+            <Data name="DwarvenArmorF.000..02TummyTuck" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02TummyTuck</Data>
+            <Data name="DwarvenChestTummyTuck" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBack" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitBack</Data>
+            <Data name="DwarvenArmorF.000..02Back" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Back</Data>
+            <Data name="DwarvenChestBack" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitHipbone" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitHipbone</Data>
+            <Data name="DwarvenArmorF.000..02Hipbone" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Hipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitHips" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitHips</Data>
+            <Data name="DwarvenArmorF.000..02Hips" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Hips</Data>
+            <Data name="DwarvenChestHips" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitButtCrack" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitButtCrack</Data>
+            <Data name="DwarvenArmorF.000..02ButtCrack" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitButt" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitButt</Data>
+            <Data name="DwarvenArmorF.000..02Butt" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Butt</Data>
+            <Data name="DwarvenChestButt" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitButtSmall" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitButtSmall</Data>
+            <Data name="DwarvenArmorF.000..02ButtSmall" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ButtSmall</Data>
+            <Data name="DwarvenChestButtSmall" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitButtShape2" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitButtShape2</Data>
+            <Data name="DwarvenArmorF.000..02ButtShape2" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ButtShape2</Data>
+            <Data name="DwarvenChestButtShape2" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitBigButt" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitBigButt</Data>
+            <Data name="DwarvenArmorF.000..02BigButt" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02BigButt</Data>
+            <Data name="DwarvenChestBigButt" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitChubbyButt" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitChubbyButt</Data>
+            <Data name="DwarvenArmorF.000..02ChubbyButt" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ChubbyButt</Data>
+            <Data name="DwarvenChestChubbyButt" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitAppleCheeks" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitAppleCheeks</Data>
+            <Data name="DwarvenArmorF.000..02AppleCheeks" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02AppleCheeks</Data>
+            <Data name="DwarvenChestAppleCheeks" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitRoundAss" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitRoundAss</Data>
+            <Data name="DwarvenArmorF.000..02RoundAss" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02RoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitSlimThighs" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitSlimThighs</Data>
+            <Data name="DwarvenArmorF.000..02SlimThighs" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02SlimThighs</Data>
+            <Data name="DwarvenChestSlimThighs" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitThighs" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitThighs</Data>
+            <Data name="DwarvenArmorF.000..02Thighs" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Thighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitChubbyLegs" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitChubbyLegs</Data>
+            <Data name="DwarvenArmorF.000..02ChubbyLegs" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="UUNP_outfitLegs" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitLegs</Data>
+            <Data name="DwarvenArmorF.000..02Legs" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Legs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitKneeHeight" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitKneeHeight</Data>
+            <Data name="DwarvenArmorF.000..02KneeHeight" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02KneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="UUNP_outfitNeck" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitNeck</Data>
+            <Data name="DwarvenChestNeck" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B Low</Data>
+            <Data name="DwarvenArmorF.000..027B Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B Low</Data>
+            <Data name="DwarvenChest7B Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B High</Data>
+            <Data name="DwarvenArmorF.000..027B High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B High</Data>
+            <Data name="DwarvenChest7B High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Bombshell Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B Bombshell Low</Data>
+            <Data name="DwarvenArmorF.000..027B Bombshell Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B Bombshell Low</Data>
+            <Data name="DwarvenChest7B Bombshell Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Bombshell High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B Bombshell High</Data>
+            <Data name="DwarvenArmorF.000..027B Bombshell High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B Bombshell High</Data>
+            <Data name="DwarvenChest7B Bombshell High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Natural Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B Natural Low</Data>
+            <Data name="DwarvenArmorF.000..027B Natural Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B Natural Low</Data>
+            <Data name="DwarvenChest7B Natural Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Natural High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B Natural High</Data>
+            <Data name="DwarvenArmorF.000..027B Natural High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B Natural High</Data>
+            <Data name="DwarvenChest7B Natural High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Cleavage Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B Cleavage Low</Data>
+            <Data name="DwarvenArmorF.000..027B Cleavage Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B Cleavage Low</Data>
+            <Data name="DwarvenChest7B Cleavage Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Cleavage High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B Cleavage High</Data>
+            <Data name="DwarvenArmorF.000..027B Cleavage High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B Cleavage High</Data>
+            <Data name="DwarvenChest7B Cleavage High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B BCup Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B BCup Low</Data>
+            <Data name="DwarvenArmorF.000..027B BCup Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B BCup Low</Data>
+            <Data name="DwarvenChest7B BCup Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B BCup High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B BCup High</Data>
+            <Data name="DwarvenArmorF.000..027B BCup High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B BCup High</Data>
+            <Data name="DwarvenChest7B BCup High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7BUNP Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7BUNP Low</Data>
+            <Data name="DwarvenArmorF.000..027BUNP Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027BUNP Low</Data>
+            <Data name="DwarvenChest7BUNP Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7BUNP High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7BUNP High</Data>
+            <Data name="DwarvenArmorF.000..027BUNP High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027BUNP High</Data>
+            <Data name="DwarvenChest7BUNP High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Oppai Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B Oppai Low</Data>
+            <Data name="DwarvenArmorF.000..027B Oppai Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B Oppai Low</Data>
+            <Data name="DwarvenChest7B Oppai Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B Oppai High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B Oppai High</Data>
+            <Data name="DwarvenArmorF.000..027B Oppai High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B Oppai High</Data>
+            <Data name="DwarvenChest7B Oppai High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B CH Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B CH Low</Data>
+            <Data name="DwarvenArmorF.000..027B CH Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B CH Low</Data>
+            <Data name="DwarvenChest7B CH Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfit7B CH High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfit7B CH High</Data>
+            <Data name="DwarvenArmorF.000..027B CH High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..027B CH High</Data>
+            <Data name="DwarvenChest7B CH High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChest7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNP Low</Data>
+            <Data name="DwarvenArmorF.000..02UNP Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNP Low</Data>
+            <Data name="DwarvenChestUNP Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNP High</Data>
+            <Data name="DwarvenArmorF.000..02UNP High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNP High</Data>
+            <Data name="DwarvenChestUNP High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Pushup Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNP Pushup Low</Data>
+            <Data name="DwarvenArmorF.000..02UNP Pushup Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNP Pushup Low</Data>
+            <Data name="DwarvenChestUNP Pushup Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Pushup High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNP Pushup High</Data>
+            <Data name="DwarvenArmorF.000..02UNP Pushup High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNP Pushup High</Data>
+            <Data name="DwarvenChestUNP Pushup High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Skinny Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNP Skinny Low</Data>
+            <Data name="DwarvenArmorF.000..02UNP Skinny Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNP Skinny Low</Data>
+            <Data name="DwarvenChestUNP Skinny Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Skinny High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNP Skinny High</Data>
+            <Data name="DwarvenArmorF.000..02UNP Skinny High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNP Skinny High</Data>
+            <Data name="DwarvenChestUNP Skinny High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Perky Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNP Perky Low</Data>
+            <Data name="DwarvenArmorF.000..02UNP Perky Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNP Perky Low</Data>
+            <Data name="DwarvenChestUNP Perky Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNP Perky High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNP Perky High</Data>
+            <Data name="DwarvenArmorF.000..02UNP Perky High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNP Perky High</Data>
+            <Data name="DwarvenChestUNP Perky High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPB Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPB Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPB Low</Data>
+            <Data name="DwarvenChestUNPB Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPB High</Data>
+            <Data name="DwarvenArmorF.000..02UNPB High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPB High</Data>
+            <Data name="DwarvenChestUNPB High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Chapi" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPB Chapi</Data>
+            <Data name="DwarvenArmorF.000..02UNPB Chapi" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPB Chapi</Data>
+            <Data name="DwarvenChestUNPB Chapi" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Oppai v1" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPB Oppai v1</Data>
+            <Data name="DwarvenArmorF.000..02UNPB Oppai v1" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPB Oppai v1</Data>
+            <Data name="DwarvenChestUNPB Oppai v1" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Oppai v3.2 Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPB Oppai v3.2 Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPB Oppai v3.2 Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPB Oppai v3.2 Low</Data>
+            <Data name="DwarvenChestUNPB Oppai v3.2 Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPB Oppai v3.2 High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPB Oppai v3.2 High</Data>
+            <Data name="DwarvenArmorF.000..02UNPB Oppai v3.2 High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPB Oppai v3.2 High</Data>
+            <Data name="DwarvenChestUNPB Oppai v3.2 High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPetite Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPetite Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPetite Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPetite Low</Data>
+            <Data name="DwarvenChestUNPetite Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPetite High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPetite High</Data>
+            <Data name="DwarvenArmorF.000..02UNPetite High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPetite High</Data>
+            <Data name="DwarvenChestUNPetite High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPC Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPC Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPC Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPC Low</Data>
+            <Data name="DwarvenChestUNPC Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPC High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPC High</Data>
+            <Data name="DwarvenArmorF.000..02UNPC High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPC High</Data>
+            <Data name="DwarvenChestUNPC High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPCM Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPCM Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPCM Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPCM Low</Data>
+            <Data name="DwarvenChestUNPCM Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPCM High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPCM High</Data>
+            <Data name="DwarvenArmorF.000..02UNPCM High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPCM High</Data>
+            <Data name="DwarvenChestUNPCM High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPSH Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPSH Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPSH Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPSH Low</Data>
+            <Data name="DwarvenChestUNPSH Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPSH High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPSH High</Data>
+            <Data name="DwarvenArmorF.000..02UNPSH High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPSH High</Data>
+            <Data name="DwarvenChestUNPSH High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPK Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPK Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPK Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPK Low</Data>
+            <Data name="DwarvenChestUNPK Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPK High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPK High</Data>
+            <Data name="DwarvenArmorF.000..02UNPK High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPK High</Data>
+            <Data name="DwarvenChestUNPK High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPK Bonus Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPK Bonus Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPK Bonus Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPK Bonus Low</Data>
+            <Data name="DwarvenChestUNPK Bonus Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPK Bonus High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPK Bonus High</Data>
+            <Data name="DwarvenArmorF.000..02UNPK Bonus High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPK Bonus High</Data>
+            <Data name="DwarvenChestUNPK Bonus High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUN7B Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUN7B Low</Data>
+            <Data name="DwarvenArmorF.000..02UN7B Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UN7B Low</Data>
+            <Data name="DwarvenChestUN7B Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUN7B High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUN7B High</Data>
+            <Data name="DwarvenArmorF.000..02UN7B High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UN7B High</Data>
+            <Data name="DwarvenChestUN7B High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPBB Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPBB Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPBB Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPBB Low</Data>
+            <Data name="DwarvenChestUNPBB Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPBB High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPBB High</Data>
+            <Data name="DwarvenArmorF.000..02UNPBB High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPBB High</Data>
+            <Data name="DwarvenChestUNPBB High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitSeraphim Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitSeraphim Low</Data>
+            <Data name="DwarvenArmorF.000..02Seraphim Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Seraphim Low</Data>
+            <Data name="DwarvenChestSeraphim Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitSeraphim High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitSeraphim High</Data>
+            <Data name="DwarvenArmorF.000..02Seraphim High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Seraphim High</Data>
+            <Data name="DwarvenChestSeraphim High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitDemonfet Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitDemonfet Low</Data>
+            <Data name="DwarvenArmorF.000..02Demonfet Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Demonfet Low</Data>
+            <Data name="DwarvenChestDemonfet Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitDemonfet High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitDemonfet High</Data>
+            <Data name="DwarvenArmorF.000..02Demonfet High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Demonfet High</Data>
+            <Data name="DwarvenChestDemonfet High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitDream Girl Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitDream Girl Low</Data>
+            <Data name="DwarvenArmorF.000..02Dream Girl Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Dream Girl Low</Data>
+            <Data name="DwarvenChestDream Girl Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitDream Girl High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitDream Girl High</Data>
+            <Data name="DwarvenArmorF.000..02Dream Girl High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Dream Girl High</Data>
+            <Data name="DwarvenChestDream Girl High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitTop Model Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitTop Model Low</Data>
+            <Data name="DwarvenArmorF.000..02Top Model Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Top Model Low</Data>
+            <Data name="DwarvenChestTop Model Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitTop Model High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitTop Model High</Data>
+            <Data name="DwarvenArmorF.000..02Top Model High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Top Model High</Data>
+            <Data name="DwarvenChestTop Model High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitLeito Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitLeito Low</Data>
+            <Data name="DwarvenArmorF.000..02Leito Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Leito Low</Data>
+            <Data name="DwarvenChestLeito Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitLeito High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitLeito High</Data>
+            <Data name="DwarvenArmorF.000..02Leito High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Leito High</Data>
+            <Data name="DwarvenChestLeito High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPF Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPF Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPF Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPF Low</Data>
+            <Data name="DwarvenChestUNPF Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPF High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPF High</Data>
+            <Data name="DwarvenArmorF.000..02UNPF High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPF High</Data>
+            <Data name="DwarvenChestUNPF High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPFx Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPFx Low</Data>
+            <Data name="DwarvenArmorF.000..02UNPFx Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPFx Low</Data>
+            <Data name="DwarvenChestUNPFx Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitUNPFx High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitUNPFx High</Data>
+            <Data name="DwarvenArmorF.000..02UNPFx High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02UNPFx High</Data>
+            <Data name="DwarvenChestUNPFx High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCNHF Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitCNHF Low</Data>
+            <Data name="DwarvenArmorF.000..02CNHF Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02CNHF Low</Data>
+            <Data name="DwarvenChestCNHF Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCNHF High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitCNHF High</Data>
+            <Data name="DwarvenArmorF.000..02CNHF High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02CNHF High</Data>
+            <Data name="DwarvenChestCNHF High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCNHF Bonus Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitCNHF Bonus Low</Data>
+            <Data name="DwarvenArmorF.000..02CNHF Bonus Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02CNHF Bonus Low</Data>
+            <Data name="DwarvenChestCNHF Bonus Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCNHF Bonus High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitCNHF Bonus High</Data>
+            <Data name="DwarvenArmorF.000..02CNHF Bonus High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02CNHF Bonus High</Data>
+            <Data name="DwarvenChestCNHF Bonus High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitMCBM Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitMCBM Low</Data>
+            <Data name="DwarvenArmorF.000..02MCBM Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02MCBM Low</Data>
+            <Data name="DwarvenChestMCBM Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitMCBM High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitMCBM High</Data>
+            <Data name="DwarvenArmorF.000..02MCBM High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02MCBM High</Data>
+            <Data name="DwarvenChestMCBM High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitVenus Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitVenus Low</Data>
+            <Data name="DwarvenArmorF.000..02Venus Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Venus Low</Data>
+            <Data name="DwarvenChestVenus Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitVenus High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitVenus High</Data>
+            <Data name="DwarvenArmorF.000..02Venus High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Venus High</Data>
+            <Data name="DwarvenChestVenus High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitZGGB-R2 Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitZGGB-R2 Low</Data>
+            <Data name="DwarvenArmorF.000..02ZGGB-R2 Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ZGGB-R2 Low</Data>
+            <Data name="DwarvenChestZGGB-R2 Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitZGGB-R2 High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitZGGB-R2 High</Data>
+            <Data name="DwarvenArmorF.000..02ZGGB-R2 High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02ZGGB-R2 High</Data>
+            <Data name="DwarvenChestZGGB-R2 High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitManga Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitManga Low</Data>
+            <Data name="DwarvenArmorF.000..02Manga Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Manga Low</Data>
+            <Data name="DwarvenChestManga Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitManga High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitManga High</Data>
+            <Data name="DwarvenArmorF.000..02Manga High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02Manga High</Data>
+            <Data name="DwarvenChestManga High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCHSBHC Low" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitCHSBHC Low</Data>
+            <Data name="DwarvenArmorF.000..02CHSBHC Low" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02CHSBHC Low</Data>
+            <Data name="DwarvenChestCHSBHC Low" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="UUNP_outfitCHSBHC High" target="UUNP_outfit" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\UUNP_outfitCHSBHC High</Data>
+            <Data name="DwarvenArmorF.000..02CHSBHC High" target="DwarvenArmorF.000..02" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenArmorF.000..02CHSBHC High</Data>
+            <Data name="DwarvenChestCHSBHC High" target="DwarvenChest" local="true">Dwarven Armored Cyborg Disassembled NBE.osd\DwarvenChestCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,716 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwemer Cyborg 3rd Cohort Armored">
+        <DataFolder>Dwarven Cyborg Collection Edhildil</DataFolder>
+        <SourceFile>Dwemer Cyborg 3rd Cohort Armored.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Edhildil</OutputPath>
+        <OutputFile GenWeights="true">dfatalebody3rdCohortArmor</OutputFile>
+        <Shape target="DwarvenChest">DwarvenChest</Shape>
+        <Shape target="Object64:0.001">Object64:0.001</Shape>
+        <Shape target="SteamCenturion:0.004">SteamCenturion:0.004</Shape>
+        <Shape target="UUNP" DataFolder="Unified UNP">UUNP</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="Breasts" target="UUNP">Breasts.bsd</Data>
+            <Data name="DwarvenChestBreasts" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BreastsSmall" target="UUNP">BreastsSmall.bsd</Data>
+            <Data name="DwarvenChestBreastsSmall" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BreastsSH" target="UUNP">BreastsSH.bsd</Data>
+            <Data name="DwarvenChestBreastsSH" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BreastsSSH" target="UUNP">BreastsSSH.bsd</Data>
+            <Data name="DwarvenChestBreastsSSH" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BreastsFantasy" target="UUNP">BreastsFantasy.bsd</Data>
+            <Data name="DwarvenChestBreastsFantasy" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="DoubleMelon" target="UUNP">DoubleMelon.bsd</Data>
+            <Data name="DwarvenChestDoubleMelon" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BreastCleavage" target="UUNP">BreastCleavage.bsd</Data>
+            <Data name="DwarvenChestBreastCleavage" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BreastFlatness" target="UUNP">BreastFlatness.bsd</Data>
+            <Data name="DwarvenChestBreastFlatness" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BreastGravity" target="UUNP">BreastGravity.bsd</Data>
+            <Data name="DwarvenChestBreastGravity" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="PushUp" target="UUNP">PushUp.bsd</Data>
+            <Data name="DwarvenChestPushUp" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BreastHeight" target="UUNP">BreastHeight.bsd</Data>
+            <Data name="DwarvenChestBreastHeight" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BreastPerkiness" target="UUNP">BreastPerkiness.bsd</Data>
+            <Data name="DwarvenChestBreastPerkiness" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BreastWidth" target="UUNP">BreastWidth.bsd</Data>
+            <Data name="DwarvenChestBreastWidth" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="NippleDistance" target="UUNP">NippleDistance.bsd</Data>
+            <Data name="SteamCenturion:0.004NippleDistance" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004NippleDistance</Data>
+            <Data name="Object64:0.001NippleDistance" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001NippleDistance</Data>
+            <Data name="DwarvenChestNippleDistance" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="NipplePerkiness" target="UUNP">NipplePerkiness.bsd</Data>
+            <Data name="DwarvenChestNipplePerkiness" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="NippleLength" target="UUNP">NippleLength.bsd</Data>
+            <Data name="DwarvenChestNippleLength" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="NippleSize" target="UUNP">NippleSize.bsd</Data>
+            <Data name="DwarvenChestNippleSize" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="NippleAreola" target="UUNP">NippleAreola.bsd</Data>
+            <Data name="SteamCenturion:0.004NippleAreola" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004NippleAreola</Data>
+            <Data name="Object64:0.001NippleAreola" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001NippleAreola</Data>
+            <Data name="DwarvenChestNippleAreola" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="NippleUp" target="UUNP">NippleUp.bsd</Data>
+            <Data name="DwarvenChestNippleUp" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="NippleDown" target="UUNP">NippleDown.bsd</Data>
+            <Data name="SteamCenturion:0.004NippleDown" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004NippleDown</Data>
+            <Data name="Object64:0.001NippleDown" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001NippleDown</Data>
+            <Data name="DwarvenChestNippleDown" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="NippleTip" target="UUNP">NippleTip.bsd</Data>
+            <Data name="DwarvenChestNippleTip" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="Arms" target="UUNP">Arms.bsd</Data>
+            <Data name="SteamCenturion:0.004Arms" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Arms</Data>
+            <Data name="Object64:0.001Arms" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Arms</Data>
+            <Data name="DwarvenChestArms" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="ChubbyArms" target="UUNP">ChubbyArms.bsd</Data>
+            <Data name="SteamCenturion:0.004ChubbyArms" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ChubbyArms</Data>
+            <Data name="Object64:0.001ChubbyArms" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001ChubbyArms</Data>
+            <Data name="DwarvenChestChubbyArms" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="ShoulderSmooth" target="UUNP">ShoulderSmooth.bsd</Data>
+            <Data name="SteamCenturion:0.004ShoulderSmooth" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ShoulderSmooth</Data>
+            <Data name="Object64:0.001ShoulderSmooth" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001ShoulderSmooth</Data>
+            <Data name="DwarvenChestShoulderSmooth" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="ShoulderWidth" target="UUNP">ShoulderWidth.bsd</Data>
+            <Data name="SteamCenturion:0.004ShoulderWidth" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ShoulderWidth</Data>
+            <Data name="Object64:0.001ShoulderWidth" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001ShoulderWidth</Data>
+            <Data name="DwarvenChestShoulderWidth" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BigTorso" target="UUNP">BigTorso.bsd</Data>
+            <Data name="SteamCenturion:0.004BigTorso" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004BigTorso</Data>
+            <Data name="Object64:0.001BigTorso" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001BigTorso</Data>
+            <Data name="DwarvenChestBigTorso" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="Waist" target="UUNP">Waist.bsd</Data>
+            <Data name="SteamCenturion:0.004Waist" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Waist</Data>
+            <Data name="Object64:0.001Waist" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Waist</Data>
+            <Data name="DwarvenChestWaist" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="WideWaistLine" target="UUNP">WideWaistLine.bsd</Data>
+            <Data name="SteamCenturion:0.004WideWaistLine" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004WideWaistLine</Data>
+            <Data name="Object64:0.001WideWaistLine" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001WideWaistLine</Data>
+            <Data name="DwarvenChestWideWaistLine" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="ChubbyWaist" target="UUNP">ChubbyWaist.bsd</Data>
+            <Data name="SteamCenturion:0.004ChubbyWaist" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ChubbyWaist</Data>
+            <Data name="Object64:0.001ChubbyWaist" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001ChubbyWaist</Data>
+            <Data name="DwarvenChestChubbyWaist" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="Belly" target="UUNP">Belly.bsd</Data>
+            <Data name="SteamCenturion:0.004Belly" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Belly</Data>
+            <Data name="Object64:0.001Belly" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Belly</Data>
+            <Data name="DwarvenChestBelly" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BigBelly" target="UUNP">BigBelly.bsd</Data>
+            <Data name="SteamCenturion:0.004BigBelly" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004BigBelly</Data>
+            <Data name="Object64:0.001BigBelly" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001BigBelly</Data>
+            <Data name="DwarvenChestBigBelly" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="PregnancyBelly" target="UUNP">PregnancyBelly.bsd</Data>
+            <Data name="SteamCenturion:0.004PregnancyBelly" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004PregnancyBelly</Data>
+            <Data name="Object64:0.001PregnancyBelly" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001PregnancyBelly</Data>
+            <Data name="DwarvenChestPregnancyBelly" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="TummyTuck" target="UUNP">TummyTuck.bsd</Data>
+            <Data name="SteamCenturion:0.004TummyTuck" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004TummyTuck</Data>
+            <Data name="DwarvenChestTummyTuck" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="Back" target="UUNP">Back.bsd</Data>
+            <Data name="SteamCenturion:0.004Back" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Back</Data>
+            <Data name="Object64:0.001Back" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Back</Data>
+            <Data name="DwarvenChestBack" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="Hipbone" target="UUNP">Hipbone.bsd</Data>
+            <Data name="SteamCenturion:0.004Hipbone" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Hipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="Hips" target="UUNP">Hips.bsd</Data>
+            <Data name="SteamCenturion:0.004Hips" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Hips</Data>
+            <Data name="Object64:0.001Hips" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Hips</Data>
+            <Data name="DwarvenChestHips" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="ButtCrack" target="UUNP">ButtCrack.bsd</Data>
+            <Data name="SteamCenturion:0.004ButtCrack" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="Butt" target="UUNP">Butt.bsd</Data>
+            <Data name="SteamCenturion:0.004Butt" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Butt</Data>
+            <Data name="Object64:0.001Butt" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Butt</Data>
+            <Data name="DwarvenChestButt" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="ButtSmall" target="UUNP">ButtSmall.bsd</Data>
+            <Data name="SteamCenturion:0.004ButtSmall" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ButtSmall</Data>
+            <Data name="Object64:0.001ButtSmall" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001ButtSmall</Data>
+            <Data name="DwarvenChestButtSmall" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="ButtShape2" target="UUNP">ButtShape2.bsd</Data>
+            <Data name="SteamCenturion:0.004ButtShape2" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ButtShape2</Data>
+            <Data name="Object64:0.001ButtShape2" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001ButtShape2</Data>
+            <Data name="DwarvenChestButtShape2" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BigButt" target="UUNP">BigButt.bsd</Data>
+            <Data name="SteamCenturion:0.004BigButt" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004BigButt</Data>
+            <Data name="Object64:0.001BigButt" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001BigButt</Data>
+            <Data name="DwarvenChestBigButt" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="ChubbyButt" target="UUNP">ChubbyButt.bsd</Data>
+            <Data name="SteamCenturion:0.004ChubbyButt" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ChubbyButt</Data>
+            <Data name="Object64:0.001ChubbyButt" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001ChubbyButt</Data>
+            <Data name="DwarvenChestChubbyButt" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="AppleCheeks" target="UUNP">AppleCheeks.bsd</Data>
+            <Data name="SteamCenturion:0.004AppleCheeks" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004AppleCheeks</Data>
+            <Data name="Object64:0.001AppleCheeks" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001AppleCheeks</Data>
+            <Data name="DwarvenChestAppleCheeks" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="RoundAss" target="UUNP">RoundAss.bsd</Data>
+            <Data name="SteamCenturion:0.004RoundAss" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004RoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="SlimThighs" target="UUNP">SlimThighs.bsd</Data>
+            <Data name="SteamCenturion:0.004SlimThighs" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004SlimThighs</Data>
+            <Data name="DwarvenChestSlimThighs" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="Thighs" target="UUNP">Thighs.bsd</Data>
+            <Data name="SteamCenturion:0.004Thighs" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Thighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="ChubbyLegs" target="UUNP">ChubbyLegs.bsd</Data>
+            <Data name="SteamCenturion:0.004ChubbyLegs" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="Legs" target="UUNP">Legs.bsd</Data>
+            <Data name="SteamCenturion:0.004Legs" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Legs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="KneeHeight" target="UUNP">KneeHeight.bsd</Data>
+            <Data name="SteamCenturion:0.004KneeHeight" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004KneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="CalfSize" target="UUNP">CalfSize.bsd</Data>
+            <Data name="SteamCenturion:0.004CalfSize" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="CalfSmooth" target="UUNP">CalfSmooth.bsd</Data>
+            <Data name="SteamCenturion:0.004CalfSmooth" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004CalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="Neck" target="UUNP">Neck.bsd</Data>
+            <Data name="DwarvenChestNeck" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="7B Low" target="UUNP">7B Low.bsd</Data>
+            <Data name="SteamCenturion:0.0047B Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B Low</Data>
+            <Data name="Object64:0.0017B Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B Low</Data>
+            <Data name="DwarvenChest7B Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="7B High" target="UUNP">7B High.bsd</Data>
+            <Data name="SteamCenturion:0.0047B High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B High</Data>
+            <Data name="Object64:0.0017B High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B High</Data>
+            <Data name="DwarvenChest7B High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="7B Bombshell Low" target="UUNP">7B Bombshell Low.bsd</Data>
+            <Data name="SteamCenturion:0.0047B Bombshell Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B Bombshell Low</Data>
+            <Data name="Object64:0.0017B Bombshell Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B Bombshell Low</Data>
+            <Data name="DwarvenChest7B Bombshell Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="7B Bombshell High" target="UUNP">7B Bombshell High.bsd</Data>
+            <Data name="SteamCenturion:0.0047B Bombshell High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B Bombshell High</Data>
+            <Data name="Object64:0.0017B Bombshell High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B Bombshell High</Data>
+            <Data name="DwarvenChest7B Bombshell High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="7B Natural Low" target="UUNP">7B Natural Low.bsd</Data>
+            <Data name="SteamCenturion:0.0047B Natural Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B Natural Low</Data>
+            <Data name="Object64:0.0017B Natural Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B Natural Low</Data>
+            <Data name="DwarvenChest7B Natural Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="7B Natural High" target="UUNP">7B Natural High.bsd</Data>
+            <Data name="SteamCenturion:0.0047B Natural High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B Natural High</Data>
+            <Data name="Object64:0.0017B Natural High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B Natural High</Data>
+            <Data name="DwarvenChest7B Natural High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="7B Cleavage Low" target="UUNP">7B Cleavage Low.bsd</Data>
+            <Data name="SteamCenturion:0.0047B Cleavage Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B Cleavage Low</Data>
+            <Data name="Object64:0.0017B Cleavage Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B Cleavage Low</Data>
+            <Data name="DwarvenChest7B Cleavage Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="7B Cleavage High" target="UUNP">7B Cleavage High.bsd</Data>
+            <Data name="SteamCenturion:0.0047B Cleavage High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B Cleavage High</Data>
+            <Data name="Object64:0.0017B Cleavage High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B Cleavage High</Data>
+            <Data name="DwarvenChest7B Cleavage High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="7B BCup Low" target="UUNP">7B BCup Low.bsd</Data>
+            <Data name="SteamCenturion:0.0047B BCup Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B BCup Low</Data>
+            <Data name="Object64:0.0017B BCup Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B BCup Low</Data>
+            <Data name="DwarvenChest7B BCup Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="7B BCup High" target="UUNP">7B BCup High.bsd</Data>
+            <Data name="SteamCenturion:0.0047B BCup High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B BCup High</Data>
+            <Data name="Object64:0.0017B BCup High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B BCup High</Data>
+            <Data name="DwarvenChest7B BCup High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="7BUNP Low" target="UUNP">7BUNP Low.bsd</Data>
+            <Data name="SteamCenturion:0.0047BUNP Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047BUNP Low</Data>
+            <Data name="Object64:0.0017BUNP Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017BUNP Low</Data>
+            <Data name="DwarvenChest7BUNP Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="7BUNP High" target="UUNP">7BUNP High.bsd</Data>
+            <Data name="SteamCenturion:0.0047BUNP High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047BUNP High</Data>
+            <Data name="Object64:0.0017BUNP High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017BUNP High</Data>
+            <Data name="DwarvenChest7BUNP High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="7B Oppai Low" target="UUNP">7B Oppai Low.bsd</Data>
+            <Data name="SteamCenturion:0.0047B Oppai Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B Oppai Low</Data>
+            <Data name="Object64:0.0017B Oppai Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B Oppai Low</Data>
+            <Data name="DwarvenChest7B Oppai Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="7B Oppai High" target="UUNP">7B Oppai High.bsd</Data>
+            <Data name="SteamCenturion:0.0047B Oppai High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B Oppai High</Data>
+            <Data name="Object64:0.0017B Oppai High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B Oppai High</Data>
+            <Data name="DwarvenChest7B Oppai High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="7B CH Low" target="UUNP">7B CH Low.bsd</Data>
+            <Data name="SteamCenturion:0.0047B CH Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B CH Low</Data>
+            <Data name="Object64:0.0017B CH Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B CH Low</Data>
+            <Data name="DwarvenChest7B CH Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="7B CH High" target="UUNP">7B CH High.bsd</Data>
+            <Data name="SteamCenturion:0.0047B CH High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.0047B CH High</Data>
+            <Data name="Object64:0.0017B CH High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.0017B CH High</Data>
+            <Data name="DwarvenChest7B CH High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChest7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="UNP Low" target="UUNP">UNP Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNP Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNP Low</Data>
+            <Data name="Object64:0.001UNP Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNP Low</Data>
+            <Data name="DwarvenChestUNP Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="UNP High" target="UUNP">UNP High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNP High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNP High</Data>
+            <Data name="Object64:0.001UNP High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNP High</Data>
+            <Data name="DwarvenChestUNP High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="UNP Pushup Low" target="UUNP">UNP Pushup Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNP Pushup Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNP Pushup Low</Data>
+            <Data name="Object64:0.001UNP Pushup Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNP Pushup Low</Data>
+            <Data name="DwarvenChestUNP Pushup Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="UNP Pushup High" target="UUNP">UNP Pushup High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNP Pushup High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNP Pushup High</Data>
+            <Data name="Object64:0.001UNP Pushup High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNP Pushup High</Data>
+            <Data name="DwarvenChestUNP Pushup High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="UNP Skinny Low" target="UUNP">UNP Skinny Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNP Skinny Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNP Skinny Low</Data>
+            <Data name="Object64:0.001UNP Skinny Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNP Skinny Low</Data>
+            <Data name="DwarvenChestUNP Skinny Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="UNP Skinny High" target="UUNP">UNP Skinny High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNP Skinny High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNP Skinny High</Data>
+            <Data name="Object64:0.001UNP Skinny High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNP Skinny High</Data>
+            <Data name="DwarvenChestUNP Skinny High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="UNP Perky Low" target="UUNP">UNP Perky Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNP Perky Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNP Perky Low</Data>
+            <Data name="Object64:0.001UNP Perky Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNP Perky Low</Data>
+            <Data name="DwarvenChestUNP Perky Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="UNP Perky High" target="UUNP">UNP Perky High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNP Perky High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNP Perky High</Data>
+            <Data name="Object64:0.001UNP Perky High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNP Perky High</Data>
+            <Data name="DwarvenChestUNP Perky High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="UNPB Low" target="UUNP">UNPB Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPB Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPB Low</Data>
+            <Data name="Object64:0.001UNPB Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPB Low</Data>
+            <Data name="DwarvenChestUNPB Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="UNPB High" target="UUNP">UNPB High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPB High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPB High</Data>
+            <Data name="Object64:0.001UNPB High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPB High</Data>
+            <Data name="DwarvenChestUNPB High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="UNPB Chapi" target="UUNP">UNPB Chapi.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPB Chapi" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPB Chapi</Data>
+            <Data name="Object64:0.001UNPB Chapi" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPB Chapi</Data>
+            <Data name="DwarvenChestUNPB Chapi" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="UNPB Oppai v1" target="UUNP">UNPB Oppai v1.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPB Oppai v1" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPB Oppai v1</Data>
+            <Data name="Object64:0.001UNPB Oppai v1" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPB Oppai v1</Data>
+            <Data name="DwarvenChestUNPB Oppai v1" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="UNPB Oppai v3.2 Low" target="UUNP">UNPB Oppai v3.2 Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPB Oppai v3.2 Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPB Oppai v3.2 Low</Data>
+            <Data name="Object64:0.001UNPB Oppai v3.2 Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPB Oppai v3.2 Low</Data>
+            <Data name="DwarvenChestUNPB Oppai v3.2 Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="UNPB Oppai v3.2 High" target="UUNP">UNPB Oppai v3.2 High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPB Oppai v3.2 High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPB Oppai v3.2 High</Data>
+            <Data name="Object64:0.001UNPB Oppai v3.2 High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPB Oppai v3.2 High</Data>
+            <Data name="DwarvenChestUNPB Oppai v3.2 High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="UNPetite Low" target="UUNP">UNPetite Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPetite Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPetite Low</Data>
+            <Data name="Object64:0.001UNPetite Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPetite Low</Data>
+            <Data name="DwarvenChestUNPetite Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="UNPetite High" target="UUNP">UNPetite High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPetite High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPetite High</Data>
+            <Data name="Object64:0.001UNPetite High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPetite High</Data>
+            <Data name="DwarvenChestUNPetite High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="UNPC Low" target="UUNP">UNPC Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPC Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPC Low</Data>
+            <Data name="Object64:0.001UNPC Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPC Low</Data>
+            <Data name="DwarvenChestUNPC Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="UNPC High" target="UUNP">UNPC High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPC High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPC High</Data>
+            <Data name="Object64:0.001UNPC High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPC High</Data>
+            <Data name="DwarvenChestUNPC High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="UNPCM Low" target="UUNP">UNPCM Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPCM Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPCM Low</Data>
+            <Data name="Object64:0.001UNPCM Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPCM Low</Data>
+            <Data name="DwarvenChestUNPCM Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="UNPCM High" target="UUNP">UNPCM High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPCM High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPCM High</Data>
+            <Data name="Object64:0.001UNPCM High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPCM High</Data>
+            <Data name="DwarvenChestUNPCM High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="UNPSH Low" target="UUNP">UNPSH Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPSH Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPSH Low</Data>
+            <Data name="Object64:0.001UNPSH Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPSH Low</Data>
+            <Data name="DwarvenChestUNPSH Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="UNPSH High" target="UUNP">UNPSH High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPSH High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPSH High</Data>
+            <Data name="Object64:0.001UNPSH High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPSH High</Data>
+            <Data name="DwarvenChestUNPSH High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="UNPK Low" target="UUNP">UNPK Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPK Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPK Low</Data>
+            <Data name="Object64:0.001UNPK Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPK Low</Data>
+            <Data name="DwarvenChestUNPK Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="UNPK High" target="UUNP">UNPK High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPK High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPK High</Data>
+            <Data name="Object64:0.001UNPK High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPK High</Data>
+            <Data name="DwarvenChestUNPK High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="UNPK Bonus Low" target="UUNP">UNPK Bonus Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPK Bonus Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPK Bonus Low</Data>
+            <Data name="Object64:0.001UNPK Bonus Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPK Bonus Low</Data>
+            <Data name="DwarvenChestUNPK Bonus Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="UNPK Bonus High" target="UUNP">UNPK Bonus High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPK Bonus High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPK Bonus High</Data>
+            <Data name="Object64:0.001UNPK Bonus High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPK Bonus High</Data>
+            <Data name="DwarvenChestUNPK Bonus High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="UN7B Low" target="UUNP">UN7B Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UN7B Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UN7B Low</Data>
+            <Data name="Object64:0.001UN7B Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UN7B Low</Data>
+            <Data name="DwarvenChestUN7B Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="UN7B High" target="UUNP">UN7B High.bsd</Data>
+            <Data name="SteamCenturion:0.004UN7B High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UN7B High</Data>
+            <Data name="Object64:0.001UN7B High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UN7B High</Data>
+            <Data name="DwarvenChestUN7B High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="UNPBB Low" target="UUNP">UNPBB Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPBB Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPBB Low</Data>
+            <Data name="Object64:0.001UNPBB Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPBB Low</Data>
+            <Data name="DwarvenChestUNPBB Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="UNPBB High" target="UUNP">UNPBB High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPBB High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPBB High</Data>
+            <Data name="Object64:0.001UNPBB High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPBB High</Data>
+            <Data name="DwarvenChestUNPBB High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="Seraphim Low" target="UUNP">Seraphim Low.bsd</Data>
+            <Data name="SteamCenturion:0.004Seraphim Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Seraphim Low</Data>
+            <Data name="Object64:0.001Seraphim Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Seraphim Low</Data>
+            <Data name="DwarvenChestSeraphim Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="Seraphim High" target="UUNP">Seraphim High.bsd</Data>
+            <Data name="SteamCenturion:0.004Seraphim High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Seraphim High</Data>
+            <Data name="Object64:0.001Seraphim High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Seraphim High</Data>
+            <Data name="DwarvenChestSeraphim High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="Demonfet Low" target="UUNP">Demonfet Low.bsd</Data>
+            <Data name="SteamCenturion:0.004Demonfet Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Demonfet Low</Data>
+            <Data name="Object64:0.001Demonfet Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Demonfet Low</Data>
+            <Data name="DwarvenChestDemonfet Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="Demonfet High" target="UUNP">Demonfet High.bsd</Data>
+            <Data name="SteamCenturion:0.004Demonfet High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Demonfet High</Data>
+            <Data name="Object64:0.001Demonfet High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Demonfet High</Data>
+            <Data name="DwarvenChestDemonfet High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="Dream Girl Low" target="UUNP">Dream Girl Low.bsd</Data>
+            <Data name="SteamCenturion:0.004Dream Girl Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Dream Girl Low</Data>
+            <Data name="Object64:0.001Dream Girl Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Dream Girl Low</Data>
+            <Data name="DwarvenChestDream Girl Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="Dream Girl High" target="UUNP">Dream Girl High.bsd</Data>
+            <Data name="SteamCenturion:0.004Dream Girl High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Dream Girl High</Data>
+            <Data name="Object64:0.001Dream Girl High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Dream Girl High</Data>
+            <Data name="DwarvenChestDream Girl High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Top Model Low" target="UUNP">Top Model Low.bsd</Data>
+            <Data name="SteamCenturion:0.004Top Model Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Top Model Low</Data>
+            <Data name="Object64:0.001Top Model Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Top Model Low</Data>
+            <Data name="DwarvenChestTop Model Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Top Model High" target="UUNP">Top Model High.bsd</Data>
+            <Data name="SteamCenturion:0.004Top Model High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Top Model High</Data>
+            <Data name="Object64:0.001Top Model High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Top Model High</Data>
+            <Data name="DwarvenChestTop Model High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="Leito Low" target="UUNP">Leito Low.bsd</Data>
+            <Data name="SteamCenturion:0.004Leito Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Leito Low</Data>
+            <Data name="Object64:0.001Leito Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Leito Low</Data>
+            <Data name="DwarvenChestLeito Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="Leito High" target="UUNP">Leito High.bsd</Data>
+            <Data name="SteamCenturion:0.004Leito High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Leito High</Data>
+            <Data name="Object64:0.001Leito High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Leito High</Data>
+            <Data name="DwarvenChestLeito High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="UNPF Low" target="UUNP">UNPF Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPF Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPF Low</Data>
+            <Data name="Object64:0.001UNPF Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPF Low</Data>
+            <Data name="DwarvenChestUNPF Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="UNPF High" target="UUNP">UNPF High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPF High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPF High</Data>
+            <Data name="Object64:0.001UNPF High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPF High</Data>
+            <Data name="DwarvenChestUNPF High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="UNPFx Low" target="UUNP">UNPFx Low.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPFx Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPFx Low</Data>
+            <Data name="Object64:0.001UNPFx Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPFx Low</Data>
+            <Data name="DwarvenChestUNPFx Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="UNPFx High" target="UUNP">UNPFx High.bsd</Data>
+            <Data name="SteamCenturion:0.004UNPFx High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004UNPFx High</Data>
+            <Data name="Object64:0.001UNPFx High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001UNPFx High</Data>
+            <Data name="DwarvenChestUNPFx High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="CNHF Low" target="UUNP">CNHF Low.bsd</Data>
+            <Data name="SteamCenturion:0.004CNHF Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004CNHF Low</Data>
+            <Data name="Object64:0.001CNHF Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001CNHF Low</Data>
+            <Data name="DwarvenChestCNHF Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="CNHF High" target="UUNP">CNHF High.bsd</Data>
+            <Data name="SteamCenturion:0.004CNHF High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004CNHF High</Data>
+            <Data name="Object64:0.001CNHF High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001CNHF High</Data>
+            <Data name="DwarvenChestCNHF High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="CNHF Bonus Low" target="UUNP">CNHF Bonus Low.bsd</Data>
+            <Data name="SteamCenturion:0.004CNHF Bonus Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004CNHF Bonus Low</Data>
+            <Data name="Object64:0.001CNHF Bonus Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001CNHF Bonus Low</Data>
+            <Data name="DwarvenChestCNHF Bonus Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="CNHF Bonus High" target="UUNP">CNHF Bonus High.bsd</Data>
+            <Data name="SteamCenturion:0.004CNHF Bonus High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004CNHF Bonus High</Data>
+            <Data name="Object64:0.001CNHF Bonus High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001CNHF Bonus High</Data>
+            <Data name="DwarvenChestCNHF Bonus High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="MCBM Low" target="UUNP">MCBM Low.bsd</Data>
+            <Data name="SteamCenturion:0.004MCBM Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004MCBM Low</Data>
+            <Data name="Object64:0.001MCBM Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001MCBM Low</Data>
+            <Data name="DwarvenChestMCBM Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="MCBM High" target="UUNP">MCBM High.bsd</Data>
+            <Data name="SteamCenturion:0.004MCBM High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004MCBM High</Data>
+            <Data name="Object64:0.001MCBM High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001MCBM High</Data>
+            <Data name="DwarvenChestMCBM High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="Venus Low" target="UUNP">Venus Low.bsd</Data>
+            <Data name="SteamCenturion:0.004Venus Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Venus Low</Data>
+            <Data name="Object64:0.001Venus Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Venus Low</Data>
+            <Data name="DwarvenChestVenus Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="Venus High" target="UUNP">Venus High.bsd</Data>
+            <Data name="SteamCenturion:0.004Venus High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Venus High</Data>
+            <Data name="Object64:0.001Venus High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Venus High</Data>
+            <Data name="DwarvenChestVenus High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="ZGGB-R2 Low" target="UUNP">ZGGB-R2 Low.bsd</Data>
+            <Data name="SteamCenturion:0.004ZGGB-R2 Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ZGGB-R2 Low</Data>
+            <Data name="Object64:0.001ZGGB-R2 Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001ZGGB-R2 Low</Data>
+            <Data name="DwarvenChestZGGB-R2 Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="ZGGB-R2 High" target="UUNP">ZGGB-R2 High.bsd</Data>
+            <Data name="SteamCenturion:0.004ZGGB-R2 High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004ZGGB-R2 High</Data>
+            <Data name="Object64:0.001ZGGB-R2 High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001ZGGB-R2 High</Data>
+            <Data name="DwarvenChestZGGB-R2 High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="Manga Low" target="UUNP">Manga Low.bsd</Data>
+            <Data name="SteamCenturion:0.004Manga Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Manga Low</Data>
+            <Data name="Object64:0.001Manga Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Manga Low</Data>
+            <Data name="DwarvenChestManga Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="Manga High" target="UUNP">Manga High.bsd</Data>
+            <Data name="SteamCenturion:0.004Manga High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004Manga High</Data>
+            <Data name="Object64:0.001Manga High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001Manga High</Data>
+            <Data name="DwarvenChestManga High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="CHSBHC Low" target="UUNP">CHSBHC Low.bsd</Data>
+            <Data name="SteamCenturion:0.004CHSBHC Low" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004CHSBHC Low</Data>
+            <Data name="Object64:0.001CHSBHC Low" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001CHSBHC Low</Data>
+            <Data name="DwarvenChestCHSBHC Low" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="CHSBHC High" target="UUNP">CHSBHC High.bsd</Data>
+            <Data name="SteamCenturion:0.004CHSBHC High" target="SteamCenturion:0.004" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\SteamCenturion:0.004CHSBHC High</Data>
+            <Data name="Object64:0.001CHSBHC High" target="Object64:0.001" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\Object64:0.001CHSBHC High</Data>
+            <Data name="DwarvenChestCHSBHC High" target="DwarvenChest" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\DwarvenChestCHSBHC High</Data>
+        </Slider>
+        <Slider name="Less Flesh" invert="false" small="100" big="100" hidden="true" zap="true">
+            <Data name="UUNPLess Flesh" target="UUNP" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\UUNPLess Flesh</Data>
+        </Slider>
+        <Slider name="Remove Limbs" invert="false" small="100" big="100" hidden="true" zap="true">
+            <Data name="UUNPRemove Limbs" target="UUNP" local="true">Dwemer Cyborg 3rd Cohort Armored.osd\UUNPRemove Limbs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

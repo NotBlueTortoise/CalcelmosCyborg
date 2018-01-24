@@ -1,0 +1,315 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - Engineer Harness s47">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - Engineer Harness s47.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">EngineerHarness47</OutputFile>
+        <Shape target="NPC R Thigh [RThg]">NPC R Thigh [RThg]</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="NPC R Thigh [RThg]Breasts" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="NPC R Thigh [RThg]BreastsSmall" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BreastsSH" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BreastsSSH" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BreastsFantasy" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]DoubleMelon" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BreastCleavage" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BreastFlatness" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BreastGravity" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]PushUp" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BreastHeight" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BreastPerkiness" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BreastWidth" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="NPC R Thigh [RThg]NippleDistance" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]NippleAreola" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]NippleUp" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]NippleDown" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]NippleDown</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="NPC R Thigh [RThg]Arms" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Arms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]ChubbyArms" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]ChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]ShoulderSmooth" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="NPC R Thigh [RThg]ShoulderWidth" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]ShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]BigTorso" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]BigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Waist" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Waist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]WideWaistLine" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]WideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]ChubbyWaist" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]ChubbyWaist</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]PregnancyBelly" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]PregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Back" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Back</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="NPC R Thigh [RThg]Neck" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Neck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B Bombshell Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B Bombshell High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B Natural Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B Natural High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B Cleavage Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B Cleavage High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B BCup Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B BCup High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7BUNP Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7BUNP High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B Oppai Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B Oppai High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B CH Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]7B CH High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNP Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNP High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNP Pushup Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNP Pushup High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNP Skinny Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNP Skinny High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNP Perky Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNP Perky High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPB Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPB High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPB Chapi" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPB Oppai v1" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPB Oppai v3.2 Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPB Oppai v3.2 High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPetite Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPetite High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPC Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPC High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPCM Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPCM High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPSH Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPSH High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPK Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPK High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPK Bonus Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPK Bonus High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UN7B Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UN7B High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPBB Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPBB High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Seraphim Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Seraphim High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Demonfet Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Demonfet High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Dream Girl Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Dream Girl High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Top Model Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Top Model High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Leito Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Leito High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPF Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPF High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPFx Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]UNPFx High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]CNHF Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]CNHF High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]CNHF Bonus Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]CNHF Bonus High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]MCBM Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]MCBM High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Venus Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Venus High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]ZGGB-R2 Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]ZGGB-R2 High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Manga Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]Manga High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]CHSBHC Low" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="NPC R Thigh [RThg]CHSBHC High" target="NPC R Thigh [RThg]" local="true">DCC - Engineer Harness s47.osd\NPC R Thigh [RThg]CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

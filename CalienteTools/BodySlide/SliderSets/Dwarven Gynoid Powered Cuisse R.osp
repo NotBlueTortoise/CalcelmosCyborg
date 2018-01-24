@@ -1,0 +1,279 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Dwarven Gynoid Powered Cuisse R">
+        <DataFolder>Dwarven Cyborg Collection Gynoid</DataFolder>
+        <SourceFile>Dwarven Gynoid Powered Cuisse R.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Body Gynoid\leg</OutputPath>
+        <OutputFile GenWeights="true">poweredcuisser</OutputFile>
+        <Shape target="LegArmorR">LegArmorR</Shape>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="LegArmorRBigTorso" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRBigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="LegArmorRPregnancyBelly" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRPregnancyBelly</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="LegArmorRHipbone" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="LegArmorRHips" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRHips</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="LegArmorRButt" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="LegArmorRButtSmall" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="LegArmorRButtShape2" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="LegArmorRBigButt" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="LegArmorRChubbyButt" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="LegArmorRAppleCheeks" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="LegArmorRRoundAss" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="LegArmorRSlimThighs" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="LegArmorRThighs" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="LegArmorRChubbyLegs" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="LegArmorRLegs" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="LegArmorRKneeHeight" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRKneeHeight</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B Bombshell Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B Bombshell High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B Natural Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B Natural High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B Cleavage Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B Cleavage High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B BCup Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B BCup High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="LegArmorR7BUNP Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="LegArmorR7BUNP High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B Oppai Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B Oppai High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B CH Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="LegArmorR7B CH High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorR7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNP Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNP High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNP Pushup Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNP Pushup High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNP Skinny Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNP Skinny High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNP Perky Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNP Perky High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPB Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPB High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPB Chapi" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPB Oppai v1" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPB Oppai v3.2 Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPB Oppai v3.2 High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPetite Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPetite High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPC Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPC High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPCM Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPCM High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPSH Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPSH High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPK Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPK High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPK Bonus Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPK Bonus High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUN7B Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUN7B High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPBB Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPBB High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRSeraphim Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="LegArmorRSeraphim High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRDemonfet Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="LegArmorRDemonfet High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRDream Girl Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="LegArmorRDream Girl High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRTop Model Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="LegArmorRTop Model High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRLeito Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="LegArmorRLeito High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPF Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPF High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPFx Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="LegArmorRUNPFx High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRCNHF Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="LegArmorRCNHF High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRCNHF Bonus Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="LegArmorRCNHF Bonus High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRMCBM Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="LegArmorRMCBM High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRVenus Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="LegArmorRVenus High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRZGGB-R2 Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="LegArmorRZGGB-R2 High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRManga Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="LegArmorRManga High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="LegArmorRCHSBHC Low" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="LegArmorRCHSBHC High" target="LegArmorR" local="true">Dwarven Gynoid Powered Cuisse R.osd\LegArmorRCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

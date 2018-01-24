@@ -1,0 +1,294 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DCC - WTF Sexy Dwarven Armplate">
+        <DataFolder>Dwarven Cyborg Collection Extras</DataFolder>
+        <SourceFile>DCC - WTF Sexy Dwarven Armplate.nif</SourceFile>
+        <OutputPath>meshes\Dwarven Cyborg Collection\Extras</OutputPath>
+        <OutputFile GenWeights="true">Sexy Dwarven Armplate s58</OutputFile>
+        <Shape target="Armplate">Armplate</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="ArmplateBreasts" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="ArmplateBreastsSmall" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="ArmplateBreastsSH" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="ArmplateBreastsSSH" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="ArmplateBreastsFantasy" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="ArmplateDoubleMelon" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="ArmplateBreastFlatness" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="ArmplateBreastGravity" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="ArmplatePushUp" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplatePushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="ArmplateBreastHeight" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="ArmplateBreastPerkiness" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="ArmplateBreastWidth" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="ArmplateNippleUp" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateNippleUp</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="ArmplateArms" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="ArmplateChubbyArms" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="ArmplateShoulderSmooth" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="ArmplateShoulderWidth" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="ArmplateBigTorso" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="ArmplateWaist" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateWaist</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="ArmplateChubbyWaist" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateChubbyWaist</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="ArmplateBack" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateBack</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Armplate7B Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Armplate7B High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Armplate7B Bombshell Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Armplate7B Bombshell High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Armplate7B Natural Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Armplate7B Natural High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Armplate7B Cleavage Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Armplate7B Cleavage High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Armplate7B BCup Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Armplate7B BCup High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Armplate7BUNP Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Armplate7BUNP High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Armplate7B Oppai Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Armplate7B Oppai High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Armplate7B CH Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Armplate7B CH High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\Armplate7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNP Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNP High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNP Pushup Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNP Pushup High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNP Skinny Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNP Skinny High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNP Perky Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNP Perky High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPB Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPB High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPB Chapi" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPB Oppai v1" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPB Oppai v3.2 Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPB Oppai v3.2 High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPetite Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPetite High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPC Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPC High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPCM Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPCM High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPSH Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPSH High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPK Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPK High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPK Bonus Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPK Bonus High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUN7B Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="ArmplateUN7B High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPBB Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPBB High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="ArmplateSeraphim Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="ArmplateSeraphim High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="ArmplateDemonfet Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="ArmplateDemonfet High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="ArmplateDream Girl Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="ArmplateDream Girl High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="ArmplateTop Model Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="ArmplateTop Model High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="ArmplateLeito Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="ArmplateLeito High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPF Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPF High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPFx Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="ArmplateUNPFx High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="ArmplateCNHF Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="ArmplateCNHF High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="ArmplateCNHF Bonus Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="ArmplateCNHF Bonus High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="ArmplateMCBM Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="ArmplateMCBM High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="ArmplateVenus Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="ArmplateVenus High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="ArmplateZGGB-R2 Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="ArmplateZGGB-R2 High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="ArmplateManga Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="ArmplateManga High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="ArmplateCHSBHC Low" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="ArmplateCHSBHC High" target="Armplate" local="true">DCC - WTF Sexy Dwarven Armplate.osd\ArmplateCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

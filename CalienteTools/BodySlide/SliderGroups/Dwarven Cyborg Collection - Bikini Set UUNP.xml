@@ -1,0 +1,28 @@
+<SliderGroups>
+    <Group name="Unified UNP">
+	    <Member name="Dwarven Bikini Bra 7 Slot 48 DCC"/>
+        <Member name="Dwarven Armored Cyborg Arms"/>
+        <Member name="Dwarven Armored Cyborg Arms NBE"/>
+		<Member name="Dwarven Cyborg Arms"/>
+        <Member name="Dwarven Armored Cyborg Blades"/>
+		<Member name="Dwarven Armored Cyborg Blades NBE"/>
+		<Member name="Dwarven Armored Cyborg Disassembled"/>
+		<Member name="Dwarven Armored Cyborg Disassembled NBE"/>
+		<Member name="Dwarven Cyborg Disassembled"/>
+		<Member name="Dwarven Breastplate Remodeled"/>
+		<Member name="Dwarven Breastplate Remodeled NBE"/>
+	</Group>
+    <Group name="Dwarven Cyborg Collection - Bikini Set UUNP">
+        <Member name="Dwarven Bikini Bra 7 Slot 48 DCC"/>
+        <Member name="Dwarven Armored Cyborg Arms"/>
+        <Member name="Dwarven Armored Cyborg Arms NBE"/>
+		<Member name="Dwarven Cyborg Arms"/>		
+        <Member name="Dwarven Armored Cyborg Blades"/>
+		<Member name="Dwarven Armored Cyborg Blades NBE"/>
+		<Member name="Dwarven Armored Cyborg Disassembled"/>
+		<Member name="Dwarven Armored Cyborg Disassembled NBE"/>
+		<Member name="Dwarven Cyborg Disassembled"/>
+		<Member name="Dwarven Breastplate Remodeled"/>
+		<Member name="Dwarven Breastplate Remodeled NBE"/>
+    </Group>
+</SliderGroups>
