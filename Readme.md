@@ -12,7 +12,7 @@ The story will, as the title suggests, be centered around Calcelmo in Markarth.
 ### For Developers
  - SKSE Sources
  - [SkyUI SDK](https://github.com/schlangster/skyui/wiki#skyui-sdk)
- - Devious Devices Integration Sources
+ - Devious Devices Integration Sources and all sources it requires
 
 ## Building and Installing
 ### Building the project
