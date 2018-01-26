@@ -14,6 +14,8 @@ GlobalVariable  Property DDIMinVersion Auto
 {The lowest version of DDI required in order to use this mod.}
 GlobalVariable  Property DDIMaxVersion Auto
 {The highest version of DDI that can be used with this mod.}
+GlobalVariable  Property DDIDisableMaxVersionWarning Auto
+{Whether or not to disable the DDI version 'too new' warning.}
 
 ; Messages
 Message         Property MessageChecksStarted Auto
@@ -101,8 +103,8 @@ Function CheckDDI()
         MessageDDIMissing.Show()
     ElseIf(ddiLib.GetVersion() < DDIMinVersion.GetValue())
         ; DDI is outdated
-        MessageDDIOutdated.Show()
-    ElseIf(ddiLib.getVersion() > DDIMaxVersion.GetValue())
+        MessageDDIOutdated.Show(ddiLib.GetVersionString() as float)
+    ElseIf(ddiLib.getVersion() > DDIMaxVersion.GetValue() && DDIDisableMaxVersionWarning.GetValue() == 0)
         ; DDI is too new
         MessageDDITooNew.Show()
     EndIf
